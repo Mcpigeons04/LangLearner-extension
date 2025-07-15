@@ -1,0 +1,1025 @@
+[
+  {
+    "word": "안녕하세요",
+    "meaning": "hello",
+    "example": "안녕하세요! 만나서 반갑습니다.",
+    "example_translation": "Hello! Nice to meet you.",
+    "pronunciation": "annyeonghaseyo"
+  },
+  {
+    "word": "감사합니다",
+    "meaning": "thank you",
+    "example": "도와주셔서 감사합니다.",
+    "example_translation": "Thank you for helping me.",
+    "pronunciation": "gamsahamnida"
+  },
+  {
+    "word": "미안합니다",
+    "meaning": "I'm sorry",
+    "example": "늦어서 미안합니다.",
+    "example_translation": "I'm sorry for being late.",
+    "pronunciation": "mianhamnida"
+  },
+  {
+    "word": "네",
+    "meaning": "yes",
+    "example": "네, 알겠습니다.",
+    "example_translation": "Yes, I understand.",
+    "pronunciation": "ne"
+  },
+  {
+    "word": "아니요",
+    "meaning": "no",
+    "example": "아니요, 못 가요.",
+    "example_translation": "No, I can't go.",
+    "pronunciation": "aniyo"
+  },
+  {
+    "word": "제발",
+    "meaning": "please",
+    "example": "제발 도와주세요.",
+    "example_translation": "Please help me.",
+    "pronunciation": "jebal"
+  },
+  {
+    "word": "이해하지 못해요",
+    "meaning": "I don't understand",
+    "example": "죄송하지만 이해하지 못해요.",
+    "example_translation": "Sorry, I don't understand.",
+    "pronunciation": "ihaehaji mothaeyo"
+  },
+  {
+    "word": "화장실",
+    "meaning": "bathroom",
+    "example": "화장실이 어디예요?",
+    "example_translation": "Where is the bathroom?",
+    "pronunciation": "hwajangsil"
+  },
+  {
+    "word": "얼마예요?",
+    "meaning": "how much is it?",
+    "example": "이거 얼마예요?",
+    "example_translation": "How much is this?",
+    "pronunciation": "eolmayeyo?"
+  },
+  {
+    "word": "이름",
+    "meaning": "name",
+    "example": "당신의 이름은 무엇입니까?",
+    "example_translation": "What is your name?",
+    "pronunciation": "ireum"
+  },
+  {
+    "word": "호텔",
+    "meaning": "hotel",
+    "example": "이 근처에 호텔이 있나요?",
+    "example_translation": "Is there a hotel nearby?",
+    "pronunciation": "hotel"
+  },
+  {
+    "word": "식당",
+    "meaning": "restaurant",
+    "example": "좋은 식당을 추천해 주세요.",
+    "example_translation": "Please recommend a good restaurant.",
+    "pronunciation": "sikdang"
+  },
+  {
+    "word": "음식",
+    "meaning": "food",
+    "example": "한국 음식이 맛있어요.",
+    "example_translation": "Korean food is delicious.",
+    "pronunciation": "eumsik"
+  },
+  {
+    "word": "물",
+    "meaning": "water",
+    "example": "물 한 잔 주세요.",
+    "example_translation": "Please give me a glass of water.",
+    "pronunciation": "mul"
+  },
+  {
+    "word": "메뉴",
+    "meaning": "menu",
+    "example": "메뉴를 보여 주세요.",
+    "example_translation": "Please show me the menu.",
+    "pronunciation": "menyu"
+  },
+  {
+    "word": "지하철",
+    "meaning": "subway",
+    "example": "지하철역은 어디예요?",
+    "example_translation": "Where is the subway station?",
+    "pronunciation": "jihacheol"
+  },
+  {
+    "word": "버스",
+    "meaning": "bus",
+    "example": "버스는 언제 와요?",
+    "example_translation": "When does the bus come?",
+    "pronunciation": "beoseu"
+  },
+  {
+    "word": "택시",
+    "meaning": "taxi",
+    "example": "택시를 불러 주세요.",
+    "example_translation": "Please call a taxi.",
+    "pronunciation": "taeksi"
+  },
+  {
+    "word": "공항",
+    "meaning": "airport",
+    "example": "공항까지 어떻게 가요?",
+    "example_translation": "How do I get to the airport?",
+    "pronunciation": "gonghang"
+  },
+  {
+    "word": "지도",
+    "meaning": "map",
+    "example": "지도가 있나요?",
+    "example_translation": "Do you have a map?",
+    "pronunciation": "jido"
+  },
+  {
+    "word": "여권",
+    "meaning": "passport",
+    "example": "여권을 잃어버렸어요.",
+    "example_translation": "I lost my passport.",
+    "pronunciation": "yeogwon"
+  },
+  {
+    "word": "비행기",
+    "meaning": "airplane",
+    "example": "비행기를 예약했어요.",
+    "example_translation": "I booked a flight.",
+    "pronunciation": "bihaenggi"
+  },
+  {
+    "word": "짐",
+    "meaning": "luggage",
+    "example": "짐이 너무 많아요.",
+    "example_translation": "I have too much luggage.",
+    "pronunciation": "jim"
+  },
+  {
+    "word": "사진",
+    "meaning": "photo",
+    "example": "사진을 찍어도 돼요?",
+    "example_translation": "Can I take a photo?",
+    "pronunciation": "sajin"
+  },
+  {
+    "word": "환전",
+    "meaning": "currency exchange",
+    "example": "환전소는 어디에 있어요?",
+    "example_translation": "Where is the currency exchange?",
+    "pronunciation": "hwanjeon"
+  },
+  {
+    "word": "현금",
+    "meaning": "cash",
+    "example": "현금으로 결제할게요.",
+    "example_translation": "I'll pay with cash.",
+    "pronunciation": "hyeongeum"
+  },
+  {
+    "word": "신용카드",
+    "meaning": "credit card",
+    "example": "신용카드도 되나요?",
+    "example_translation": "Do you take credit cards?",
+    "pronunciation": "sinyongkadeu"
+  },
+  {
+    "word": "열쇠",
+    "meaning": "key",
+    "example": "방 열쇠 주세요.",
+    "example_translation": "Please give me the room key.",
+    "pronunciation": "yeolswae"
+  },
+  {
+    "word": "예약",
+    "meaning": "reservation",
+    "example": "예약했어요.",
+    "example_translation": "I made a reservation.",
+    "pronunciation": "yeyak"
+  },
+  {
+    "word": "도움",
+    "meaning": "help",
+    "example": "도움이 필요해요.",
+    "example_translation": "I need help.",
+    "pronunciation": "doum"
+  },
+  {
+    "word": "문제",
+    "meaning": "problem",
+    "example": "문제가 생겼어요.",
+    "example_translation": "There's a problem.",
+    "pronunciation": "munje"
+  },
+  {
+    "word": "가족",
+    "meaning": "family",
+    "example": "가족과 여행 왔어요.",
+    "example_translation": "I came on a trip with my family.",
+    "pronunciation": "gajok"
+  },
+  {
+    "word": "친구",
+    "meaning": "friend",
+    "example": "친구를 만나러 왔어요.",
+    "example_translation": "I came to meet a friend.",
+    "pronunciation": "chingu"
+  },
+  {
+    "word": "여행",
+    "meaning": "travel",
+    "example": "한국 여행은 어땠어요?",
+    "example_translation": "How was your trip to Korea?",
+    "pronunciation": "yeohaeng"
+  },
+  {
+    "word": "문화",
+    "meaning": "culture",
+    "example": "한국 문화를 배우고 싶어요.",
+    "example_translation": "I want to learn Korean culture.",
+    "pronunciation": "munhwa"
+  },
+  {
+    "word": "언어",
+    "meaning": "language",
+    "example": "언어 교환을 하고 싶어요.",
+    "example_translation": "I want to do a language exchange.",
+    "pronunciation": "eoneo"
+  },
+  {
+    "word": "학교",
+    "meaning": "school",
+    "example": "저는 학교에 다녀요.",
+    "example_translation": "I go to school.",
+    "pronunciation": "hakgyo"
+  },
+  {
+    "word": "회사",
+    "meaning": "company",
+    "example": "저는 회사원이에요.",
+    "example_translation": "I work at a company.",
+    "pronunciation": "hoesa"
+  },
+  {
+    "word": "시장",
+    "meaning": "market",
+    "example": "시장에서 과일을 샀어요.",
+    "example_translation": "I bought fruit at the market.",
+    "pronunciation": "sijang"
+  },
+  {
+    "word": "백화점",
+    "meaning": "department store",
+    "example": "백화점에 가고 싶어요.",
+    "example_translation": "I want to go to the department store.",
+    "pronunciation": "baekhwajeom"
+  },
+  {
+    "word": "은행",
+    "meaning": "bank",
+    "example": "은행에 갈 거예요.",
+    "example_translation": "I will go to the bank.",
+    "pronunciation": "eunhaeng"
+  },
+  {
+    "word": "병원",
+    "meaning": "hospital",
+    "example": "몸이 안 좋아서 병원에 갔어요.",
+    "example_translation": "I wasn’t feeling well, so I went to the hospital.",
+    "pronunciation": "byeongwon"
+  },
+  {
+    "word": "약국",
+    "meaning": "pharmacy",
+    "example": "약국이 어디에 있어요?",
+    "example_translation": "Where is the pharmacy?",
+    "pronunciation": "yakguk"
+  },
+  {
+    "word": "아프다",
+    "meaning": "to be sick",
+    "example": "머리가 아파요.",
+    "example_translation": "I have a headache.",
+    "pronunciation": "apeuda"
+  },
+  {
+    "word": "기차",
+    "meaning": "train",
+    "example": "기차역은 어디에 있나요?",
+    "example_translation": "Where is the train station?",
+    "pronunciation": "gicha"
+  },
+  {
+    "word": "시간",
+    "meaning": "time",
+    "example": "시간이 있어요?",
+    "example_translation": "Do you have time?",
+    "pronunciation": "sigan"
+  },
+  {
+    "word": "날짜",
+    "meaning": "date",
+    "example": "여행 날짜가 정해졌어요.",
+    "example_translation": "The travel date is decided.",
+    "pronunciation": "naljja"
+  },
+  {
+    "word": "계획",
+    "meaning": "plan",
+    "example": "이번 주말 계획이 있어요?",
+    "example_translation": "Do you have plans this weekend?",
+    "pronunciation": "gyehoek"
+  },
+  {
+    "word": "계약",
+    "meaning": "contract",
+    "example": "계약서를 작성했습니다.",
+    "example_translation": "We prepared the contract.",
+    "pronunciation": "gyeyak"
+  },
+  {
+    "word": "회의",
+    "meaning": "meeting",
+    "example": "회의는 오후 세 시에 시작합니다.",
+    "example_translation": "The meeting starts at 3 PM.",
+    "pronunciation": "hoe-ui"
+  },
+  {
+    "word": "직원",
+    "meaning": "employee",
+    "example": "우리 회사에는 50명의 직원이 있습니다.",
+    "example_translation": "Our company has 50 employees.",
+    "pronunciation": "jigwon"
+  },
+  {
+    "word": "경험",
+    "meaning": "experience",
+    "example": "해외 경험이 있습니까?",
+    "example_translation": "Do you have international experience?",
+    "pronunciation": "gyeongheom"
+  },
+  {
+    "word": "통역사",
+    "meaning": "interpreter",
+    "example": "통역사가 필요해요.",
+    "example_translation": "We need an interpreter.",
+    "pronunciation": "tong-yeok-sa"
+  },
+  {
+    "word": "관광",
+    "meaning": "tourism",
+    "example": "관광 산업이 성장하고 있습니다.",
+    "example_translation": "The tourism industry is growing.",
+    "pronunciation": "gwangwang"
+  },
+  {
+    "word": "명소",
+    "meaning": "landmark/attraction",
+    "example": "서울의 명소를 소개해 주세요.",
+    "example_translation": "Please introduce Seoul’s attractions.",
+    "pronunciation": "myeongso"
+  },
+  {
+    "word": "문화유산",
+    "meaning": "cultural heritage",
+    "example": "경주는 한국의 중요한 문화유산 도시입니다.",
+    "example_translation": "Gyeongju is a city rich in cultural heritage.",
+    "pronunciation": "munhwa yusan"
+  },
+  {
+    "word": "예약하다",
+    "meaning": "to reserve",
+    "example": "호텔을 예약했습니다.",
+    "example_translation": "I reserved the hotel.",
+    "pronunciation": "yeyak-hada"
+  },
+  {
+    "word": "체험",
+    "meaning": "experience (hands-on)",
+    "example": "전통 문화를 체험하고 싶어요.",
+    "example_translation": "I want to experience traditional culture.",
+    "pronunciation": "cheheom"
+  },
+  {
+    "word": "일정",
+    "meaning": "schedule/itinerary",
+    "example": "여행 일정을 알려 주세요.",
+    "example_translation": "Please share the travel itinerary.",
+    "pronunciation": "iljeong"
+  },
+  {
+    "word": "모임",
+    "meaning": "gathering",
+    "example": "친구들과 모임이 있어요.",
+    "example_translation": "I have a gathering with friends.",
+    "pronunciation": "moim"
+  },
+  {
+    "word": "교통",
+    "meaning": "transportation",
+    "example": "서울은 교통이 편리해요.",
+    "example_translation": "Transportation in Seoul is convenient.",
+    "pronunciation": "gyotong"
+  },
+  {
+    "word": "시간표",
+    "meaning": "timetable",
+    "example": "기차 시간표를 확인하세요.",
+    "example_translation": "Check the train timetable.",
+    "pronunciation": "siganypyo"
+  },
+  {
+    "word": "복잡하다",
+    "meaning": "to be crowded/complex",
+    "example": "시내는 너무 복잡해요.",
+    "example_translation": "The city center is too crowded.",
+    "pronunciation": "bokjapada"
+  },
+  {
+    "word": "길을 잃다",
+    "meaning": "to get lost",
+    "example": "저는 길을 잃었어요.",
+    "example_translation": "I got lost.",
+    "pronunciation": "gireul ilta"
+  },
+  {
+    "word": "경찰서",
+    "meaning": "police station",
+    "example": "경찰서는 어디에 있습니까?",
+    "example_translation": "Where is the police station?",
+    "pronunciation": "gyeongchalseo"
+  },
+  {
+    "word": "의사소통",
+    "meaning": "communication",
+    "example": "좋은 의사소통이 중요합니다.",
+    "example_translation": "Good communication is important.",
+    "pronunciation": "uisasotong"
+  },
+  {
+    "word": "계산서",
+    "meaning": "bill/invoice",
+    "example": "계산서를 주세요.",
+    "example_translation": "Please give me the bill.",
+    "pronunciation": "gyesanseo"
+  },
+  {
+    "word": "영수증",
+    "meaning": "receipt",
+    "example": "영수증 있으세요?",
+    "example_translation": "Do you have the receipt?",
+    "pronunciation": "yeongsujeung"
+  },
+  {
+    "word": "세금",
+    "meaning": "tax",
+    "example": "세금은 포함되어 있습니까?",
+    "example_translation": "Is tax included?",
+    "pronunciation": "segum"
+  },
+  {
+    "word": "상품",
+    "meaning": "product",
+    "example": "이 상품은 어디에서 만들었어요?",
+    "example_translation": "Where was this product made?",
+    "pronunciation": "sangpum"
+  },
+  {
+    "word": "할인",
+    "meaning": "discount",
+    "example": "할인 가능합니까?",
+    "example_translation": "Is a discount possible?",
+    "pronunciation": "harin"
+  },
+  {
+    "word": "업무",
+    "meaning": "business task",
+    "example": "업무가 많아요.",
+    "example_translation": "I have a lot of work.",
+    "pronunciation": "eopmu"
+  },
+  {
+    "word": "직업",
+    "meaning": "profession",
+    "example": "당신의 직업은 무엇입니까?",
+    "example_translation": "What is your profession?",
+    "pronunciation": "jigeop"
+  },
+  {
+    "word": "시장조사",
+    "meaning": "market research",
+    "example": "시장조사를 시작했습니다.",
+    "example_translation": "We started market research.",
+    "pronunciation": "sijangjosa"
+  },
+  {
+    "word": "계좌",
+    "meaning": "account (bank)",
+    "example": "계좌번호를 알려 주세요.",
+    "example_translation": "Please give me your account number.",
+    "pronunciation": "gyejwa"
+  },
+  {
+    "word": "이익",
+    "meaning": "profit",
+    "example": "회사는 많은 이익을 얻었어요.",
+    "example_translation": "The company made a lot of profit.",
+    "pronunciation": "i-ik"
+  },
+  {
+    "word": "손해",
+    "meaning": "loss",
+    "example": "그 프로젝트는 손해를 봤어요.",
+    "example_translation": "That project resulted in a loss.",
+    "pronunciation": "sonhae"
+  },
+  {
+    "word": "비용",
+    "meaning": "cost/expense",
+    "example": "비용이 너무 높아요.",
+    "example_translation": "The cost is too high.",
+    "pronunciation": "biyong"
+  },
+  {
+    "word": "청구서",
+    "meaning": "invoice",
+    "example": "청구서를 이메일로 보내 주세요.",
+    "example_translation": "Please send the invoice by email.",
+    "pronunciation": "cheongguseo"
+  },
+  {
+    "word": "발표",
+    "meaning": "presentation",
+    "example": "내일 발표가 있습니다.",
+    "example_translation": "I have a presentation tomorrow.",
+    "pronunciation": "balpyo"
+  },
+  {
+    "word": "제안",
+    "meaning": "proposal/suggestion",
+    "example": "좋은 제안이에요.",
+    "example_translation": "That's a good suggestion.",
+    "pronunciation": "jean"
+  },
+  {
+    "word": "협상",
+    "meaning": "negotiation",
+    "example": "협상이 잘 되었어요.",
+    "example_translation": "The negotiation went well.",
+    "pronunciation": "hyeopsang"
+  },
+  {
+    "word": "계획서",
+    "meaning": "plan document",
+    "example": "계획서를 제출했습니다.",
+    "example_translation": "I submitted the plan.",
+    "pronunciation": "gyehoeksuh"
+  },
+  {
+    "word": "신청",
+    "meaning": "application (for service)",
+    "example": "비자 신청을 했어요.",
+    "example_translation": "I applied for a visa.",
+    "pronunciation": "sincheong"
+  },
+  {
+    "word": "등록",
+    "meaning": "registration",
+    "example": "세미나에 등록했어요.",
+    "example_translation": "I registered for the seminar.",
+    "pronunciation": "deungnok"
+  },
+  {
+    "word": "초대",
+    "meaning": "invitation",
+    "example": "초대해 주셔서 감사합니다.",
+    "example_translation": "Thank you for the invitation.",
+    "pronunciation": "chodae"
+  },
+  {
+    "word": "협력",
+    "meaning": "cooperation",
+    "example": "두 회사가 협력할 예정입니다.",
+    "example_translation": "The two companies will cooperate.",
+    "pronunciation": "hyeobnyeok"
+  },
+  {
+    "word": "서명",
+    "meaning": "signature",
+    "example": "여기에 서명해 주세요.",
+    "example_translation": "Please sign here.",
+    "pronunciation": "seomyeong"
+  },
+  {
+    "word": "문서",
+    "meaning": "document",
+    "example": "이 문서를 검토해 주세요.",
+    "example_translation": "Please review this document.",
+    "pronunciation": "munseo"
+  },
+  {
+    "word": "정보",
+    "meaning": "information",
+    "example": "더 많은 정보를 주세요.",
+    "example_translation": "Please give me more information.",
+    "pronunciation": "jeongbo"
+  },
+  {
+    "word": "기회",
+    "meaning": "opportunity",
+    "example": "좋은 기회 감사합니다.",
+    "example_translation": "Thank you for the good opportunity.",
+    "pronunciation": "gihoe"
+  },
+  {
+    "word": "성공",
+    "meaning": "success",
+    "example": "프로젝트가 성공했어요.",
+    "example_translation": "The project was successful.",
+    "pronunciation": "seonggong"
+  },
+  {
+    "word": "실패",
+    "meaning": "failure",
+    "example": "실패도 좋은 경험이에요.",
+    "example_translation": "Failure is also a good experience.",
+    "pronunciation": "silpae"
+  },
+  {
+    "word": "상황",
+    "meaning": "situation",
+    "example": "상황이 나빠졌어요.",
+    "example_translation": "The situation got worse.",
+    "pronunciation": "sanghwang"
+  },
+  {
+    "word": "목표",
+    "meaning": "goal",
+    "example": "우리의 목표는 분명합니다.",
+    "example_translation": "Our goal is clear.",
+    "pronunciation": "mokpyo"
+  },
+  {
+    "word": "전략",
+    "meaning": "strategy",
+    "example": "마케팅 전략을 바꿨어요.",
+    "example_translation": "We changed our marketing strategy.",
+    "pronunciation": "jeonryak"
+  },
+  {
+    "word": "기술",
+    "meaning": "technology/skill",
+    "example": "새로운 기술을 배워야 해요.",
+    "example_translation": "We need to learn new technology.",
+    "pronunciation": "gisul"
+  },
+  {
+    "word": "정책",
+    "meaning": "policy",
+    "example": "정부의 새로운 정책이 발표되었습니다.",
+    "example_translation": "The government's new policy was announced.",
+    "pronunciation": "jeong-chaek"
+  },
+  {
+    "word": "외교",
+    "meaning": "diplomacy",
+    "example": "외교 관계가 개선되고 있습니다.",
+    "example_translation": "Diplomatic relations are improving.",
+    "pronunciation": "oe-gyo"
+  },
+  {
+    "word": "협약",
+    "meaning": "agreement (treaty)",
+    "example": "양국은 협약을 체결했습니다.",
+    "example_translation": "The two countries signed an agreement.",
+    "pronunciation": "hyeop-yak"
+  },
+  {
+    "word": "통계",
+    "meaning": "statistics",
+    "example": "통계를 분석해 보겠습니다.",
+    "example_translation": "Let’s analyze the statistics.",
+    "pronunciation": "tong-gye"
+  },
+  {
+    "word": "논문",
+    "meaning": "thesis, academic paper",
+    "example": "석사 논문을 작성 중입니다.",
+    "example_translation": "I am writing my master's thesis.",
+    "pronunciation": "non-mun"
+  },
+  {
+    "word": "연구소",
+    "meaning": "research institute",
+    "example": "연구소에서 신기술을 개발하고 있습니다.",
+    "example_translation": "The research center is developing new technology.",
+    "pronunciation": "yeon-gu-so"
+  },
+  {
+    "word": "창의력",
+    "meaning": "creativity",
+    "example": "창의력은 현대 사회에서 중요합니다.",
+    "example_translation": "Creativity is important in modern society.",
+    "pronunciation": "chang-ui-ryeok"
+  },
+  {
+    "word": "윤리",
+    "meaning": "ethics",
+    "example": "윤리적인 판단이 필요합니다.",
+    "example_translation": "An ethical decision is needed.",
+    "pronunciation": "yul-li"
+  },
+  {
+    "word": "경제력",
+    "meaning": "economic power",
+    "example": "국가의 경제력이 향상되고 있다.",
+    "example_translation": "The country’s economic power is improving.",
+    "pronunciation": "gyeong-je-ryeok"
+  },
+  {
+    "word": "평가",
+    "meaning": "evaluation",
+    "example": "프로젝트의 성과를 평가했습니다.",
+    "example_translation": "We evaluated the project's results.",
+    "pronunciation": "pyeong-ga"
+  },
+  {
+    "word": "기준",
+    "meaning": "standard/criteria",
+    "example": "국제 기준에 맞춰야 합니다.",
+    "example_translation": "It must meet international standards.",
+    "pronunciation": "gi-jun"
+  },
+  {
+    "word": "공식",
+    "meaning": "formula/official",
+    "example": "공식 입장을 발표했습니다.",
+    "example_translation": "They announced the official position.",
+    "pronunciation": "gong-sik"
+  },
+  {
+    "word": "수출",
+    "meaning": "export",
+    "example": "한국은 전자 제품을 수출합니다.",
+    "example_translation": "Korea exports electronic goods.",
+    "pronunciation": "su-chul"
+  },
+  {
+    "word": "수입",
+    "meaning": "import",
+    "example": "우리는 원재료를 수입합니다.",
+    "example_translation": "We import raw materials.",
+    "pronunciation": "su-ip"
+  },
+  {
+    "word": "의사결정",
+    "meaning": "decision-making",
+    "example": "의사결정 과정이 투명해야 합니다.",
+    "example_translation": "The decision-making process should be transparent.",
+    "pronunciation": "ui-sa-gyeol-jeong"
+  },
+  {
+    "word": "이론",
+    "meaning": "theory",
+    "example": "이론과 실제를 연결해야 합니다.",
+    "example_translation": "Theory should be connected with practice.",
+    "pronunciation": "i-ron"
+  },
+  {
+    "word": "분석",
+    "meaning": "analysis",
+    "example": "데이터 분석을 완료했습니다.",
+    "example_translation": "The data analysis is complete.",
+    "pronunciation": "bun-seok"
+  },
+  {
+    "word": "전문가",
+    "meaning": "expert",
+    "example": "그 분야의 전문가와 상담했습니다.",
+    "example_translation": "We consulted with an expert in the field.",
+    "pronunciation": "jeon-mun-ga"
+  },
+  {
+    "word": "자격증",
+    "meaning": "certificate",
+    "example": "자격증을 취득했습니다.",
+    "example_translation": "I obtained a certificate.",
+    "pronunciation": "ja-gyeok-jeung"
+  },
+  {
+    "word": "수요",
+    "meaning": "demand",
+    "example": "제품 수요가 증가하고 있습니다.",
+    "example_translation": "Product demand is increasing.",
+    "pronunciation": "su-yo"
+  },
+  {
+    "word": "공급",
+    "meaning": "supply",
+    "example": "수요보다 공급이 부족합니다.",
+    "example_translation": "Supply is lower than demand.",
+    "pronunciation": "gong-geup"
+  },
+  {
+    "word": "기술력",
+    "meaning": "technical ability",
+    "example": "한국의 기술력은 세계 최고입니다.",
+    "example_translation": "Korea's technical capability is top in the world.",
+    "pronunciation": "gi-sul-ryeok"
+  },
+  {
+    "word": "영향력",
+    "meaning": "influence",
+    "example": "그 인물은 큰 영향력을 가지고 있습니다.",
+    "example_translation": "That person has great influence.",
+    "pronunciation": "yeong-hyang-ryeok"
+  },
+  {
+    "word": "권리",
+    "meaning": "rights",
+    "example": "모든 사람은 평등한 권리를 가집니다.",
+    "example_translation": "Everyone has equal rights.",
+    "pronunciation": "gwon-ri"
+  },
+  {
+    "word": "의무",
+    "meaning": "duty",
+    "example": "시민의 의무를 다합시다.",
+    "example_translation": "Let’s fulfill our civic duty.",
+    "pronunciation": "ui-mu"
+  },
+  {
+    "word": "법률",
+    "meaning": "law",
+    "example": "새로운 법률이 시행되었습니다.",
+    "example_translation": "The new law has been implemented.",
+    "pronunciation": "beom-nyul"
+  },
+  {
+    "word": "보안",
+    "meaning": "security",
+    "example": "보안 시스템을 강화했습니다.",
+    "example_translation": "The security system has been strengthened.",
+    "pronunciation": "bo-an"
+  },
+  {
+    "word": "인증",
+    "meaning": "certification",
+    "example": "공식 인증을 받았습니다.",
+    "example_translation": "We received official certification.",
+    "pronunciation": "in-jeung"
+  },
+  {
+    "word": "자산",
+    "meaning": "asset",
+    "example": "회사의 자산이 증가했습니다.",
+    "example_translation": "The company's assets have increased.",
+    "pronunciation": "ja-san"
+  },
+  {
+    "word": "채무",
+    "meaning": "debt",
+    "example": "채무를 정리해야 합니다.",
+    "example_translation": "We need to settle the debt.",
+    "pronunciation": "chae-mu"
+  },
+  {
+    "word": "수익",
+    "meaning": "revenue",
+    "example": "올해 수익이 크게 증가했습니다.",
+    "example_translation": "Revenue has increased significantly this year.",
+    "pronunciation": "su-ik"
+  },
+  {
+    "word": "투자자",
+    "meaning": "investor",
+    "example": "투자자를 찾고 있습니다.",
+    "example_translation": "We are looking for investors.",
+    "pronunciation": "tu-ja-ja"
+  },
+  {
+    "word": "경쟁력",
+    "meaning": "competitiveness",
+    "example": "우리 제품은 경쟁력이 있습니다.",
+    "example_translation": "Our product is competitive.",
+    "pronunciation": "gyeong-jaeng-ryeok"
+  },
+  {
+    "word": "재무제표",
+    "meaning": "financial statement",
+    "example": "재무제표를 분석해 주세요.",
+    "example_translation": "Please analyze the financial statement.",
+    "pronunciation": "jae-mu-je-pyo"
+  },
+  {
+    "word": "비전",
+    "meaning": "vision",
+    "example": "회사의 비전은 분명합니다.",
+    "example_translation": "The company's vision is clear.",
+    "pronunciation": "bi-jeon"
+  },
+  {
+    "word": "장기적",
+    "meaning": "long-term",
+    "example": "장기적인 관점이 필요합니다.",
+    "example_translation": "A long-term perspective is necessary.",
+    "pronunciation": "jang-gi-jeok"
+  },
+  {
+    "word": "단기적",
+    "meaning": "short-term",
+    "example": "단기적인 목표도 중요합니다.",
+    "example_translation": "Short-term goals are also important.",
+    "pronunciation": "dan-gi-jeok"
+  },
+  {
+    "word": "창업",
+    "meaning": "start-up/founding a business",
+    "example": "창업을 준비 중입니다.",
+    "example_translation": "I'm preparing for a startup.",
+    "pronunciation": "chang-eop"
+  },
+  {
+    "word": "도전",
+    "meaning": "challenge",
+    "example": "새로운 도전을 시작했습니다.",
+    "example_translation": "I’ve started a new challenge.",
+    "pronunciation": "do-jeon"
+  },
+  {
+    "word": "혁신",
+    "meaning": "innovation",
+    "example": "혁신이 성공의 열쇠입니다.",
+    "example_translation": "Innovation is the key to success.",
+    "pronunciation": "hyeok-sin"
+  },
+  {
+    "word": "리더십",
+    "meaning": "leadership",
+    "example": "강한 리더십이 필요합니다.",
+    "example_translation": "Strong leadership is required.",
+    "pronunciation": "ri-deo-ship"
+  },
+  {
+    "word": "기부",
+    "meaning": "donation",
+    "example": "많은 기부가 이루어졌습니다.",
+    "example_translation": "A lot of donations were made.",
+    "pronunciation": "gi-bu"
+  },
+  {
+    "word": "자선",
+    "meaning": "charity",
+    "example": "자선 행사를 준비하고 있습니다.",
+    "example_translation": "We are preparing a charity event.",
+    "pronunciation": "ja-seon"
+  },
+  {
+    "word": "자연재해",
+    "meaning": "natural disaster",
+    "example": "자연재해로 많은 피해가 발생했습니다.",
+    "example_translation": "There was a lot of damage due to a natural disaster.",
+    "pronunciation": "ja-yeon-jae-hae"
+  },
+  {
+    "word": "의견",
+    "meaning": "opinion",
+    "example": "당신의 의견이 중요합니다.",
+    "example_translation": "Your opinion matters.",
+    "pronunciation": "ui-gyeon"
+  },
+  {
+    "word": "설명",
+    "meaning": "explanation",
+    "example": "더 자세한 설명이 필요해요.",
+    "example_translation": "A more detailed explanation is needed.",
+    "pronunciation": "seol-myeong"
+  },
+  {
+    "word": "합의",
+    "meaning": "consensus",
+    "example": "모든 팀원들이 합의했습니다.",
+    "example_translation": "All team members agreed.",
+    "pronunciation": "hap-ui"
+  },
+  {
+    "word": "토론",
+    "meaning": "debate/discussion",
+    "example": "열띤 토론이 있었습니다.",
+    "example_translation": "There was a heated debate.",
+    "pronunciation": "to-ron"
+  },
+  {
+    "word": "결과",
+    "meaning": "result",
+    "example": "결과는 다음 주에 발표됩니다.",
+    "example_translation": "The results will be announced next week.",
+    "pronunciation": "gyeol-gwa"
+  }
+  
+]

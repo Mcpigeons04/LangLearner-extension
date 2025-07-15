@@ -1,0 +1,1018 @@
+[
+  {
+    "word": "こんにちは",
+    "meaning": "hello / good afternoon",
+    "example": "こんにちは、はじめまして。",
+    "example_translation": "Hello, nice to meet you.",
+    "pronunciation": "konnichiwa"
+  },
+  {
+    "word": "ありがとう",
+    "meaning": "thank you",
+    "example": "手伝ってくれてありがとう。",
+    "example_translation": "Thank you for helping me.",
+    "pronunciation": "arigatou"
+  },
+  {
+    "word": "お願いします",
+    "meaning": "please",
+    "example": "水をください、お願いします。",
+    "example_translation": "Water, please.",
+    "pronunciation": "onegai shimasu"
+  },
+  {
+    "word": "はい",
+    "meaning": "yes",
+    "example": "はい、わかりました。",
+    "example_translation": "Yes, I understand.",
+    "pronunciation": "hai"
+  },
+  {
+    "word": "いいえ",
+    "meaning": "no",
+    "example": "いいえ、違います。",
+    "example_translation": "No, that's not right.",
+    "pronunciation": "iie"
+  },
+  {
+    "word": "すみません",
+    "meaning": "excuse me / sorry",
+    "example": "すみません、道を教えてください。",
+    "example_translation": "Excuse me, please show me the way.",
+    "pronunciation": "sumimasen"
+  },
+  {
+    "word": "わかりません",
+    "meaning": "I don't understand",
+    "example": "ごめんなさい、わかりません。",
+    "example_translation": "Sorry, I don't understand.",
+    "pronunciation": "wakarimasen"
+  },
+  {
+    "word": "英語を話せますか",
+    "meaning": "Can you speak English?",
+    "example": "英語を話せますか？",
+    "example_translation": "Can you speak English?",
+    "pronunciation": "eigo o hanasemasu ka"
+  },
+  {
+    "word": "どこ",
+    "meaning": "where",
+    "example": "駅はどこですか？",
+    "example_translation": "Where is the station?",
+    "pronunciation": "doko"
+  },
+  {
+    "word": "いくら",
+    "meaning": "how much",
+    "example": "これはいくらですか？",
+    "example_translation": "How much is this?",
+    "pronunciation": "ikura"
+  },
+  {
+    "word": "名前",
+    "meaning": "name",
+    "example": "あなたの名前は何ですか？",
+    "example_translation": "What is your name?",
+    "pronunciation": "namae"
+  },
+  {
+    "word": "日本",
+    "meaning": "Japan",
+    "example": "私は日本が大好きです。",
+    "example_translation": "I love Japan.",
+    "pronunciation": "nihon"
+  },
+  {
+    "word": "駅",
+    "meaning": "station",
+    "example": "駅はあちらです。",
+    "example_translation": "The station is that way.",
+    "pronunciation": "eki"
+  },
+  {
+    "word": "ホテル",
+    "meaning": "hotel",
+    "example": "ホテルに泊まります。",
+    "example_translation": "I will stay at a hotel.",
+    "pronunciation": "hoteru"
+  },
+  {
+    "word": "部屋",
+    "meaning": "room",
+    "example": "シングルの部屋はありますか？",
+    "example_translation": "Do you have a single room?",
+    "pronunciation": "heya"
+  },
+  {
+    "word": "鍵",
+    "meaning": "key",
+    "example": "部屋の鍵をなくしました。",
+    "example_translation": "I lost the room key.",
+    "pronunciation": "kagi"
+  },
+  {
+    "word": "水",
+    "meaning": "water",
+    "example": "水を一杯ください。",
+    "example_translation": "A glass of water, please.",
+    "pronunciation": "mizu"
+  },
+  {
+    "word": "食べ物",
+    "meaning": "food",
+    "example": "日本の食べ物は美味しいです。",
+    "example_translation": "Japanese food is delicious.",
+    "pronunciation": "tabemono"
+  },
+  {
+    "word": "飲み物",
+    "meaning": "drink",
+    "example": "飲み物は何がありますか？",
+    "example_translation": "What drinks do you have?",
+    "pronunciation": "nomimono"
+  },
+  {
+    "word": "メニュー",
+    "meaning": "menu",
+    "example": "メニューをください。",
+    "example_translation": "Please give me the menu.",
+    "pronunciation": "menyuu"
+  },
+  {
+    "word": "お金",
+    "meaning": "money",
+    "example": "お金を持っていません。",
+    "example_translation": "I don't have money.",
+    "pronunciation": "okane"
+  },
+  {
+    "word": "トイレ",
+    "meaning": "toilet",
+    "example": "トイレはどこですか？",
+    "example_translation": "Where is the toilet?",
+    "pronunciation": "toire"
+  },
+  {
+    "word": "病院",
+    "meaning": "hospital",
+    "example": "病院へ行きたいです。",
+    "example_translation": "I want to go to the hospital.",
+    "pronunciation": "byouin"
+  },
+  {
+    "word": "警察",
+    "meaning": "police",
+    "example": "警察を呼んでください。",
+    "example_translation": "Please call the police.",
+    "pronunciation": "keisatsu"
+  },
+  {
+    "word": "パスポート",
+    "meaning": "passport",
+    "example": "パスポートをなくしました。",
+    "example_translation": "I lost my passport.",
+    "pronunciation": "pasupooto"
+  },
+  {
+    "word": "電話",
+    "meaning": "phone",
+    "example": "電話を使ってもいいですか？",
+    "example_translation": "Can I use the phone?",
+    "pronunciation": "denwa"
+  },
+  {
+    "word": "助けて",
+    "meaning": "help",
+    "example": "助けてください！",
+    "example_translation": "Please help!",
+    "pronunciation": "tasukete"
+  },
+  {
+    "word": "道",
+    "meaning": "road / way",
+    "example": "道に迷いました。",
+    "example_translation": "I’m lost.",
+    "pronunciation": "michi"
+  },
+  {
+    "word": "ホテル予約",
+    "meaning": "hotel reservation",
+    "example": "ホテル予約を確認したいです。",
+    "example_translation": "I want to confirm my hotel reservation.",
+    "pronunciation": "hoteru yoyaku"
+  },
+  {
+    "word": "今日",
+    "meaning": "today",
+    "example": "今日は忙しいです。",
+    "example_translation": "I’m busy today.",
+    "pronunciation": "kyou"
+  },
+  {
+    "word": "明日",
+    "meaning": "tomorrow",
+    "example": "明日行きます。",
+    "example_translation": "I will go tomorrow.",
+    "pronunciation": "ashita"
+  },
+  {
+    "word": "朝",
+    "meaning": "morning",
+    "example": "朝ごはんを食べましたか？",
+    "example_translation": "Did you have breakfast?",
+    "pronunciation": "asa"
+  },
+  {
+    "word": "夜",
+    "meaning": "night",
+    "example": "夜は静かです。",
+    "example_translation": "It’s quiet at night.",
+    "pronunciation": "yoru"
+  },
+  {
+    "word": "時間",
+    "meaning": "time",
+    "example": "時間がありますか？",
+    "example_translation": "Do you have time?",
+    "pronunciation": "jikan"
+  },
+  {
+    "word": "今",
+    "meaning": "now",
+    "example": "今、忙しいです。",
+    "example_translation": "I am busy right now.",
+    "pronunciation": "ima"
+  },
+  {
+    "word": "行きたい",
+    "meaning": "want to go",
+    "example": "京都に行きたいです。",
+    "example_translation": "I want to go to Kyoto.",
+    "pronunciation": "ikitai"
+  },
+  {
+    "word": "電車",
+    "meaning": "train",
+    "example": "電車はどこで乗りますか？",
+    "example_translation": "Where do I catch the train?",
+    "pronunciation": "densha"
+  },
+  {
+    "word": "バス",
+    "meaning": "bus",
+    "example": "バス停はあそこです。",
+    "example_translation": "The bus stop is over there.",
+    "pronunciation": "basu"
+  },
+  {
+    "word": "空港",
+    "meaning": "airport",
+    "example": "空港へはどうやって行きますか？",
+    "example_translation": "How do I get to the airport?",
+    "pronunciation": "kuukou"
+  },
+  {
+    "word": "飛行機",
+    "meaning": "airplane",
+    "example": "飛行機に乗ります。",
+    "example_translation": "I’m taking the airplane.",
+    "pronunciation": "hikouki"
+  },
+  {
+    "word": "地図",
+    "meaning": "map",
+    "example": "地図を持っていますか？",
+    "example_translation": "Do you have a map?",
+    "pronunciation": "chizu"
+  },
+  {
+    "word": "友達",
+    "meaning": "friend",
+    "example": "友達と旅行します。",
+    "example_translation": "I’m traveling with a friend.",
+    "pronunciation": "tomodachi"
+  },
+  {
+    "word": "写真",
+    "meaning": "photo",
+    "example": "写真を撮ってもいいですか？",
+    "example_translation": "Can I take a photo?",
+    "pronunciation": "shashin"
+  },
+  {
+    "word": "料理",
+    "meaning": "cuisine",
+    "example": "日本の料理を試してみたい。",
+    "example_translation": "I want to try Japanese cuisine.",
+    "pronunciation": "ryouri"
+  },
+  {
+    "word": "おいしい",
+    "meaning": "delicious",
+    "example": "この料理はおいしいです。",
+    "example_translation": "This food is delicious.",
+    "pronunciation": "oishii"
+  },
+  {
+    "word": "高い",
+    "meaning": "expensive / high",
+    "example": "このバッグは高いです。",
+    "example_translation": "This bag is expensive.",
+    "pronunciation": "takai"
+  },
+  {
+    "word": "安い",
+    "meaning": "cheap",
+    "example": "このホテルは安いです。",
+    "example_translation": "This hotel is cheap.",
+    "pronunciation": "yasui"
+  },
+  {
+    "word": "開いていますか？",
+    "meaning": "Is it open?",
+    "example": "まだ開いていますか？",
+    "example_translation": "Is it still open?",
+    "pronunciation": "aita imasu ka?"
+  },
+  {
+    "word": "観光",
+    "meaning": "sightseeing",
+    "example": "観光におすすめの場所はどこですか？",
+    "example_translation": "What places do you recommend for sightseeing?",
+    "pronunciation": "kankou"
+  },
+  {
+    "word": "予約",
+    "meaning": "reservation",
+    "example": "予約を確認したいのですが。",
+    "example_translation": "I'd like to confirm my reservation.",
+    "pronunciation": "yoyaku"
+  },
+  {
+    "word": "文化",
+    "meaning": "culture",
+    "example": "日本の文化はとても面白いです。",
+    "example_translation": "Japanese culture is very interesting.",
+    "pronunciation": "bunka"
+  },
+  {
+    "word": "伝統",
+    "meaning": "tradition",
+    "example": "その祭りは日本の伝統です。",
+    "example_translation": "That festival is a Japanese tradition.",
+    "pronunciation": "dentou"
+  },
+  {
+    "word": "神社",
+    "meaning": "shrine",
+    "example": "神社で写真を撮りました。",
+    "example_translation": "I took pictures at the shrine.",
+    "pronunciation": "jinja"
+  },
+  {
+    "word": "お寺",
+    "meaning": "temple",
+    "example": "京都には多くのお寺があります。",
+    "example_translation": "Kyoto has many temples.",
+    "pronunciation": "otera"
+  },
+  {
+    "word": "祭り",
+    "meaning": "festival",
+    "example": "夏祭りに参加しました。",
+    "example_translation": "I participated in the summer festival.",
+    "pronunciation": "matsuri"
+  },
+  {
+    "word": "交通",
+    "meaning": "transportation",
+    "example": "東京の交通は便利です。",
+    "example_translation": "Tokyo’s transportation is convenient.",
+    "pronunciation": "koutsuu"
+  },
+  {
+    "word": "地元",
+    "meaning": "local / hometown",
+    "example": "地元の料理を食べました。",
+    "example_translation": "I ate local food.",
+    "pronunciation": "jimoto"
+  },
+  {
+    "word": "案内",
+    "meaning": "guidance / guide",
+    "example": "案内してもらえますか？",
+    "example_translation": "Can you guide me?",
+    "pronunciation": "annai"
+  },
+  {
+    "word": "買い物",
+    "meaning": "shopping",
+    "example": "今日は買い物に行きます。",
+    "example_translation": "I’m going shopping today.",
+    "pronunciation": "kaimono"
+  },
+  {
+    "word": "支払い",
+    "meaning": "payment",
+    "example": "支払いはカードでお願いします。",
+    "example_translation": "Please pay by card.",
+    "pronunciation": "shiharai"
+  },
+  {
+    "word": "両替",
+    "meaning": "currency exchange",
+    "example": "両替所はどこにありますか？",
+    "example_translation": "Where is the currency exchange?",
+    "pronunciation": "ryougae"
+  },
+  {
+    "word": "現金",
+    "meaning": "cash",
+    "example": "現金しか使えませんか？",
+    "example_translation": "Can I only use cash?",
+    "pronunciation": "genkin"
+  },
+  {
+    "word": "営業時間",
+    "meaning": "business hours",
+    "example": "営業時間は何時からですか？",
+    "example_translation": "What are your business hours?",
+    "pronunciation": "eigyou jikan"
+  },
+  {
+    "word": "割引",
+    "meaning": "discount",
+    "example": "学生割引はありますか？",
+    "example_translation": "Do you have student discounts?",
+    "pronunciation": "waribiki"
+  },
+  {
+    "word": "会社",
+    "meaning": "company",
+    "example": "私は日本の会社で働いています。",
+    "example_translation": "I work at a Japanese company.",
+    "pronunciation": "kaisha"
+  },
+  {
+    "word": "会議",
+    "meaning": "meeting",
+    "example": "会議は午後3時に始まります。",
+    "example_translation": "The meeting starts at 3 PM.",
+    "pronunciation": "kaigi"
+  },
+  {
+    "word": "資料",
+    "meaning": "documents/materials",
+    "example": "資料を見せてください。",
+    "example_translation": "Please show me the materials.",
+    "pronunciation": "shiryou"
+  },
+  {
+    "word": "連絡",
+    "meaning": "contact / communication",
+    "example": "後で連絡します。",
+    "example_translation": "I will contact you later.",
+    "pronunciation": "renraku"
+  },
+  {
+    "word": "申請",
+    "meaning": "application (formal)",
+    "example": "ビザの申請をしました。",
+    "example_translation": "I submitted a visa application.",
+    "pronunciation": "shinsei"
+  },
+  {
+    "word": "証明書",
+    "meaning": "certificate",
+    "example": "出生証明書が必要です。",
+    "example_translation": "A birth certificate is required.",
+    "pronunciation": "shoumeisho"
+  },
+  {
+    "word": "署名",
+    "meaning": "signature",
+    "example": "ここに署名してください。",
+    "example_translation": "Please sign here.",
+    "pronunciation": "shomei"
+  },
+  {
+    "word": "雇用",
+    "meaning": "employment",
+    "example": "雇用契約を結びました。",
+    "example_translation": "I signed an employment contract.",
+    "pronunciation": "koyou"
+  },
+  {
+    "word": "履歴書",
+    "meaning": "resume",
+    "example": "履歴書を提出しました。",
+    "example_translation": "I submitted my resume.",
+    "pronunciation": "rirekisho"
+  },
+  {
+    "word": "面接",
+    "meaning": "interview",
+    "example": "明日、面接があります。",
+    "example_translation": "I have an interview tomorrow.",
+    "pronunciation": "mensetsu"
+  },
+  {
+    "word": "上場",
+    "meaning": "going public (stock)",
+    "example": "その企業は上場企業です。",
+    "example_translation": "That company is publicly traded.",
+    "pronunciation": "joujou"
+  },
+  {
+    "word": "投資",
+    "meaning": "investment",
+    "example": "外国への投資が増えています。",
+    "example_translation": "Foreign investment is increasing.",
+    "pronunciation": "toushi"
+  },
+  {
+    "word": "株式",
+    "meaning": "stocks",
+    "example": "株式を購入しました。",
+    "example_translation": "I purchased some stocks.",
+    "pronunciation": "kabushiki"
+  },
+  {
+    "word": "利益",
+    "meaning": "profit",
+    "example": "今年の利益は予想以上です。",
+    "example_translation": "This year’s profit is more than expected.",
+    "pronunciation": "rieki"
+  },
+  {
+    "word": "損失",
+    "meaning": "loss",
+    "example": "会社は損失を出しました。",
+    "example_translation": "The company incurred a loss.",
+    "pronunciation": "sonshitsu"
+  },
+  {
+    "word": "顧客",
+    "meaning": "client / customer",
+    "example": "新しい顧客を獲得しました。",
+    "example_translation": "We acquired a new client.",
+    "pronunciation": "kokyaku"
+  },
+  {
+    "word": "提案",
+    "meaning": "proposal",
+    "example": "新しい提案があります。",
+    "example_translation": "I have a new proposal.",
+    "pronunciation": "teian"
+  },
+  {
+    "word": "交渉",
+    "meaning": "negotiation",
+    "example": "価格について交渉しました。",
+    "example_translation": "We negotiated the price.",
+    "pronunciation": "koushou"
+  },
+  {
+    "word": "契約",
+    "meaning": "contract",
+    "example": "契約を締結しました。",
+    "example_translation": "We signed a contract.",
+    "pronunciation": "keiyaku"
+  },
+  {
+    "word": "税金",
+    "meaning": "tax",
+    "example": "税金を払わなければなりません。",
+    "example_translation": "You must pay taxes.",
+    "pronunciation": "zeikin"
+  },
+  {
+    "word": "法務",
+    "meaning": "legal affairs",
+    "example": "この件は法務部が担当します。",
+    "example_translation": "The legal department will handle this matter.",
+    "pronunciation": "houmu"
+  },
+  {
+    "word": "戦略",
+    "meaning": "strategy",
+    "example": "販売戦略を見直しましょう。",
+    "example_translation": "Let’s review the sales strategy.",
+    "pronunciation": "senryaku"
+  },
+  {
+    "word": "分析",
+    "meaning": "analysis",
+    "example": "データを分析しました。",
+    "example_translation": "We analyzed the data.",
+    "pronunciation": "bunseki"
+  },
+  {
+    "word": "会計",
+    "meaning": "accounting",
+    "example": "彼は会計士です。",
+    "example_translation": "He is an accountant.",
+    "pronunciation": "kaikei"
+  },
+  {
+    "word": "経済",
+    "meaning": "economy",
+    "example": "経済が回復しています。",
+    "example_translation": "The economy is recovering.",
+    "pronunciation": "keizai"
+  },
+  {
+    "word": "産業",
+    "meaning": "industry",
+    "example": "観光産業が盛んです。",
+    "example_translation": "The tourism industry is thriving.",
+    "pronunciation": "sangyou"
+  },
+  {
+    "word": "輸出",
+    "meaning": "export",
+    "example": "日本は多くの商品を輸出しています。",
+    "example_translation": "Japan exports many products.",
+    "pronunciation": "yushutsu"
+  },
+  {
+    "word": "輸入",
+    "meaning": "import",
+    "example": "この製品は輸入品です。",
+    "example_translation": "This product is imported.",
+    "pronunciation": "yunyuu"
+  },
+  {
+    "word": "貿易",
+    "meaning": "trade",
+    "example": "両国の貿易関係は良好です。",
+    "example_translation": "Trade relations between the two countries are good.",
+    "pronunciation": "boueki"
+  },
+  {
+    "word": "資源",
+    "meaning": "resources",
+    "example": "日本には天然資源が少ないです。",
+    "example_translation": "Japan has few natural resources.",
+    "pronunciation": "shigen"
+  },
+  {
+    "word": "発展",
+    "meaning": "development",
+    "example": "都市の発展が進んでいます。",
+    "example_translation": "The city is developing rapidly.",
+    "pronunciation": "hatten"
+  },
+  {
+    "word": "支店",
+    "meaning": "branch (office)",
+    "example": "大阪に新しい支店を開設しました。",
+    "example_translation": "We opened a new branch in Osaka.",
+    "pronunciation": "shiten"
+  },
+  {
+    "word": "本社",
+    "meaning": "headquarters",
+    "example": "本社は東京にあります。",
+    "example_translation": "The headquarters is in Tokyo.",
+    "pronunciation": "honsha"
+  },
+  {
+    "word": "手続き",
+    "meaning": "procedure",
+    "example": "手続きを完了しました。",
+    "example_translation": "I completed the procedure.",
+    "pronunciation": "tetsuzuki"
+  },
+  {
+    "word": "法律",
+    "meaning": "law",
+    "example": "新しい法律が制定されました。",
+    "example_translation": "A new law was enacted.",
+    "pronunciation": "houritsu"
+  },
+  {
+    "word": "義務",
+    "meaning": "obligation",
+    "example": "納税は国民の義務です。",
+    "example_translation": "Paying taxes is a citizen's obligation.",
+    "pronunciation": "gimu"
+  },
+  {
+    "word": "権利",
+    "meaning": "right",
+    "example": "誰もが平等な権利を持っています。",
+    "example_translation": "Everyone has equal rights.",
+    "pronunciation": "kenri"
+  },
+  {
+    "word": "署",
+    "meaning": "department/office (e.g., police station)",
+    "example": "警察署に届けました。",
+    "example_translation": "I reported it to the police station.",
+    "pronunciation": "sho"
+  },
+  {
+    "word": "許可",
+    "meaning": "permission",
+    "example": "許可が必要ですか？",
+    "example_translation": "Is permission required?",
+    "pronunciation": "kyoka"
+  },
+  {
+    "word": "通知",
+    "meaning": "notification",
+    "example": "通知が届きました。",
+    "example_translation": "I received a notification.",
+    "pronunciation": "tsuuchi"
+  },
+  {
+    "word": "報道",
+    "meaning": "news coverage",
+    "example": "報道によると地震があったそうです。",
+    "example_translation": "According to the news, there was an earthquake.",
+    "pronunciation": "houdou"
+  },
+  {
+    "word": "議論",
+    "meaning": "debate / discussion",
+    "example": "その問題について議論しました。",
+    "example_translation": "We debated the issue.",
+    "pronunciation": "giron"
+  },
+  {
+    "word": "選挙",
+    "meaning": "election",
+    "example": "来月は選挙があります。",
+    "example_translation": "There will be an election next month.",
+    "pronunciation": "senkyo"
+  },
+  {
+    "word": "改革",
+    "meaning": "reform",
+    "example": "教育改革が進んでいます。",
+    "example_translation": "Education reform is underway.",
+    "pronunciation": "kaikaku"
+  },
+  {
+    "word": "環境",
+    "meaning": "environment",
+    "example": "環境問題が深刻です。",
+    "example_translation": "Environmental issues are serious.",
+    "pronunciation": "kankyou"
+  },
+  {
+    "word": "技術",
+    "meaning": "technology / skill",
+    "example": "日本の技術は世界的に有名です。",
+    "example_translation": "Japanese technology is world-famous.",
+    "pronunciation": "gijutsu"
+  },
+  {
+    "word": "開発",
+    "meaning": "development (tech/product)",
+    "example": "新製品の開発が進んでいます。",
+    "example_translation": "Development of the new product is ongoing.",
+    "pronunciation": "kaihatsu"
+  },
+  {
+    "word": "研究",
+    "meaning": "research",
+    "example": "その研究は重要です。",
+    "example_translation": "That research is important.",
+    "pronunciation": "kenkyuu"
+  },
+  {
+    "word": "発明",
+    "meaning": "invention",
+    "example": "画期的な発明です。",
+    "example_translation": "It's a groundbreaking invention.",
+    "pronunciation": "hatsumei"
+  },
+  {
+    "word": "特許",
+    "meaning": "patent",
+    "example": "その技術は特許を取得しています。",
+    "example_translation": "That technology has a patent.",
+    "pronunciation": "tokkyo"
+  },
+  {
+    "word": "品質",
+    "meaning": "quality",
+    "example": "品質管理が徹底されています。",
+    "example_translation": "Quality control is thorough.",
+    "pronunciation": "hinshitsu"
+  },
+  {
+    "word": "製造",
+    "meaning": "manufacturing",
+    "example": "日本は製造業が強いです。",
+    "example_translation": "Japan has a strong manufacturing industry.",
+    "pronunciation": "seizou"
+  },
+  {
+    "word": "輸送",
+    "meaning": "transport",
+    "example": "貨物の輸送が遅れています。",
+    "example_translation": "Cargo transport is delayed.",
+    "pronunciation": "yusou"
+  },
+  {
+    "word": "取引先",
+    "meaning": "client",
+    "example": "取引先と打ち合わせがあります。",
+    "example_translation": "I have a meeting with the client.",
+    "pronunciation": "torihikisaki"
+  },
+  {
+    "word": "出張",
+    "meaning": "business trip",
+    "example": "来週、出張に行きます。",
+    "example_translation": "I’m going on a business trip next week.",
+    "pronunciation": "shucchou"
+  },
+  {
+    "word": "報告書",
+    "meaning": "report",
+    "example": "報告書を提出しました。",
+    "example_translation": "I submitted the report.",
+    "pronunciation": "houkokusho"
+  },
+  {
+    "word": "社員",
+    "meaning": "employee",
+    "example": "新しい社員が入りました。",
+    "example_translation": "A new employee has joined.",
+    "pronunciation": "shain"
+  },
+  {
+    "word": "上司",
+    "meaning": "supervisor / boss",
+    "example": "上司に相談します。",
+    "example_translation": "I will consult with my boss.",
+    "pronunciation": "joushi"
+  },
+  {
+    "word": "予定",
+    "meaning": "schedule / plan",
+    "example": "予定を変更できますか？",
+    "example_translation": "Can you change the schedule?",
+    "pronunciation": "yotei"
+  },
+  {
+    "word": "確認",
+    "meaning": "confirmation",
+    "example": "時間を確認してください。",
+    "example_translation": "Please confirm the time.",
+    "pronunciation": "kakunin"
+  },
+  {
+    "word": "受付",
+    "meaning": "reception / front desk",
+    "example": "受付はどこですか？",
+    "example_translation": "Where is the reception?",
+    "pronunciation": "uketsuke"
+  },
+  {
+    "word": "名刺",
+    "meaning": "business card",
+    "example": "名刺を交換しましょう。",
+    "example_translation": "Let’s exchange business cards.",
+    "pronunciation": "meishi"
+  },
+  {
+    "word": "住所",
+    "meaning": "address",
+    "example": "こちらが会社の住所です。",
+    "example_translation": "This is the company address.",
+    "pronunciation": "juusho"
+  },
+  {
+    "word": "郵便局",
+    "meaning": "post office",
+    "example": "郵便局はどこにありますか？",
+    "example_translation": "Where is the post office?",
+    "pronunciation": "yuubinkyoku"
+  },
+  {
+    "word": "切符",
+    "meaning": "ticket (train, bus)",
+    "example": "切符を2枚ください。",
+    "example_translation": "Two tickets, please.",
+    "pronunciation": "kippu"
+  },
+  {
+    "word": "安全",
+    "meaning": "safety",
+    "example": "安全が一番大事です。",
+    "example_translation": "Safety is the most important.",
+    "pronunciation": "anzen"
+  },
+  {
+    "word": "危険",
+    "meaning": "danger",
+    "example": "そこは危険です。",
+    "example_translation": "That place is dangerous.",
+    "pronunciation": "kiken"
+  },
+  {
+    "word": "荷物",
+    "meaning": "luggage",
+    "example": "荷物を預けられますか？",
+    "example_translation": "Can I store my luggage?",
+    "pronunciation": "nimotsu"
+  },
+  {
+    "word": "観客",
+    "meaning": "audience",
+    "example": "観客がたくさん来ました。",
+    "example_translation": "Many people came as audience.",
+    "pronunciation": "kankyaku"
+  },
+  {
+    "word": "試合",
+    "meaning": "match / game",
+    "example": "今日は大事な試合です。",
+    "example_translation": "Today is an important match.",
+    "pronunciation": "shiai"
+  },
+  {
+    "word": "趣味",
+    "meaning": "hobby",
+    "example": "あなたの趣味は何ですか？",
+    "example_translation": "What is your hobby?",
+    "pronunciation": "shumi"
+  },
+  {
+    "word": "音楽",
+    "meaning": "music",
+    "example": "音楽を聴くのが好きです。",
+    "example_translation": "I like listening to music.",
+    "pronunciation": "ongaku"
+  },
+  {
+    "word": "映画",
+    "meaning": "movie",
+    "example": "映画を見に行きましょう。",
+    "example_translation": "Let’s go watch a movie.",
+    "pronunciation": "eiga"
+  },
+  {
+    "word": "美術館",
+    "meaning": "art museum",
+    "example": "美術館は静かで素敵です。",
+    "example_translation": "The art museum is quiet and beautiful.",
+    "pronunciation": "bijutsukan"
+  },
+  {
+    "word": "写真撮影",
+    "meaning": "photography",
+    "example": "写真撮影は禁止されています。",
+    "example_translation": "Photography is not allowed.",
+    "pronunciation": "shashin satsuei"
+  },
+  {
+    "word": "土産",
+    "meaning": "souvenir",
+    "example": "土産を買いました。",
+    "example_translation": "I bought a souvenir.",
+    "pronunciation": "omiyage"
+  },
+  {
+    "word": "店員",
+    "meaning": "store clerk",
+    "example": "店員さんは親切でした。",
+    "example_translation": "The store clerk was kind.",
+    "pronunciation": "ten'in"
+  },
+  {
+    "word": "値段",
+    "meaning": "price",
+    "example": "値段を教えてください。",
+    "example_translation": "Please tell me the price.",
+    "pronunciation": "nedan"
+  },
+  {
+    "word": "便利",
+    "meaning": "convenient",
+    "example": "このアプリはとても便利です。",
+    "example_translation": "This app is very convenient.",
+    "pronunciation": "benri"
+  },
+  {
+    "word": "不便",
+    "meaning": "inconvenient",
+    "example": "田舎は不便です。",
+    "example_translation": "The countryside is inconvenient.",
+    "pronunciation": "fuben"
+  },
+  {
+    "word": "専門店",
+    "meaning": "specialty store",
+    "example": "ラーメンの専門店に行きました。",
+    "example_translation": "I went to a ramen specialty store.",
+    "pronunciation": "senmonten"
+  }
+
+]

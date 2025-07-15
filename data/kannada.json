@@ -1,0 +1,986 @@
+[
+  {
+    "word": "ನಮಸ್ಕಾರ",
+    "meaning": "hello/greetings",
+    "example": "ನಮಸ್ಕಾರ, ನೀವು ಹೇಗಿದ್ದೀರಾ?",
+    "example_translation": "Hello, how are you?",
+    "pronunciation": "namaskāra"
+  },
+  {
+    "word": "ಧನ್ಯವಾದ",
+    "meaning": "thank you",
+    "example": "ನಿಮ್ಮ ಸಹಾಯಕ್ಕೆ ಧನ್ಯವಾದಗಳು.",
+    "example_translation": "Thank you for your help.",
+    "pronunciation": "dhanyavāda"
+  },
+  {
+    "word": "ದಯವಿಟ್ಟು",
+    "meaning": "please",
+    "example": "ದಯವಿಟ್ಟು ಅಲ್ಲಿ ಹೋಗಿ ಕುಳಿ.",
+    "example_translation": "Please go sit there.",
+    "pronunciation": "dayaviṭṭu"
+  },
+  {
+    "word": "ಹೌದು",
+    "meaning": "yes",
+    "example": "ಹೌದು, ನಾನು ಬರುತ್ತೇನೆ.",
+    "example_translation": "Yes, I will come.",
+    "pronunciation": "haudu"
+  },
+  {
+    "word": "ಇಲ್ಲ",
+    "meaning": "no",
+    "example": "ಇಲ್ಲ, ನನಗೆ ಬೇಡ.",
+    "example_translation": "No, I don’t want it.",
+    "pronunciation": "illa"
+  },
+  {
+    "word": "ಕ್ಷಮಿಸಿ",
+    "meaning": "sorry/excuse me",
+    "example": "ಕ್ಷಮಿಸಿ, ನಾನು ತಡವಾಯಿತು.",
+    "example_translation": "Sorry, I was late.",
+    "pronunciation": "kṣamisi"
+  },
+  {
+    "word": "ನೀರು",
+    "meaning": "water",
+    "example": "ನನಗೆ ಸ್ವಲ್ಪ ನೀರು ಬೇಕು.",
+    "example_translation": "I need some water.",
+    "pronunciation": "nīru"
+  },
+  {
+    "word": "ಅನ್ನ",
+    "meaning": "food/rice",
+    "example": "ನಾನು ಅನ್ನ ತಿಂದೆ.",
+    "example_translation": "I ate food.",
+    "pronunciation": "anna"
+  },
+  {
+    "word": "ಹೋಟೆಲ್",
+    "meaning": "hotel/restaurant",
+    "example": "ಈ ಹೋಟೆಲ್ ಎಲ್ಲಿ ಇದೆ?",
+    "example_translation": "Where is this hotel?",
+    "pronunciation": "hōṭel"
+  },
+  {
+    "word": "ಮನೆ",
+    "meaning": "house/home",
+    "example": "ನಾನು ನನ್ನ ಮನೆಯಲ್ಲಿ ಇದ್ದೇನೆ.",
+    "example_translation": "I am at my home.",
+    "pronunciation": "mane"
+  },
+  {
+    "word": "ಪ್ರೀತಿ",
+    "meaning": "love",
+    "example": "ಅವರು ನನ್ನನ್ನು ಪ್ರೀತಿ ಮಾಡುತ್ತಾರೆ.",
+    "example_translation": "They love me.",
+    "pronunciation": "prīti"
+  },
+  {
+    "word": "ಪರ್ಯಾಯ",
+    "meaning": "alternative/option",
+    "example": "ನೀವು ಬೇರೆ ಪರ್ಯಾಯ ಹುಡುಕಿ.",
+    "example_translation": "Find another option.",
+    "pronunciation": "paryāya"
+  },
+  {
+    "word": "ಬಸ್",
+    "meaning": "bus",
+    "example": "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿ?",
+    "example_translation": "Where is the bus stop?",
+    "pronunciation": "bas"
+  },
+  {
+    "word": "ಟ್ರೇನ್",
+    "meaning": "train",
+    "example": "ಟ್ರೇನ್ ಯಾವ ಸಮಯದಲ್ಲಿ ಬರುತ್ತದೆ?",
+    "example_translation": "What time does the train arrive?",
+    "pronunciation": "ṭrēn"
+  },
+  {
+    "word": "ಟಿಕೆಟ್",
+    "meaning": "ticket",
+    "example": "ನನಗೆ ಒಂದು ಟಿಕೆಟ್ ಬೇಕು.",
+    "example_translation": "I need one ticket.",
+    "pronunciation": "ṭikeṭ"
+  },
+  {
+    "word": "ದಾರಿ",
+    "meaning": "path/way",
+    "example": "ದಯವಿಟ್ಟು ದಾರಿಯನ್ನು ತೋರಿಸಿ.",
+    "example_translation": "Please show the way.",
+    "pronunciation": "dāri"
+  },
+  {
+    "word": "ದವಾಖಾನೆ",
+    "meaning": "hospital",
+    "example": "ನಾನು ದವಾಖಾನೆಗೆ ಹೋಗಬೇಕಿದೆ.",
+    "example_translation": "I need to go to the hospital.",
+    "pronunciation": "davākhāne"
+  },
+  {
+    "word": "ದೂರು",
+    "meaning": "complaint",
+    "example": "ನಾನು ದೂರು ನೀಡಿದೆ.",
+    "example_translation": "I filed a complaint.",
+    "pronunciation": "dūru"
+  },
+  {
+    "word": "ಅಪಾಯ",
+    "meaning": "danger",
+    "example": "ಅದು ಅಪಾಯಕಾರಿಯಾಗಿದೆ.",
+    "example_translation": "That is dangerous.",
+    "pronunciation": "apāya"
+  },
+  {
+    "word": "ಪೋಲಿಸ್",
+    "meaning": "police",
+    "example": "ಪೋಲಿಸ್ ಕಚೇರಿ ಎಲ್ಲಿ ಇದೆ?",
+    "example_translation": "Where is the police station?",
+    "pronunciation": "pōlis"
+  },
+  {
+    "word": "ಅರ್ಥ",
+    "meaning": "meaning",
+    "example": "ಈ ಶಬ್ದದ ಅರ್ಥ ಏನು?",
+    "example_translation": "What is the meaning of this word?",
+    "pronunciation": "artha"
+  },
+  {
+    "word": "ವಿಮಾನ",
+    "meaning": "airplane",
+    "example": "ನಾನು ವಿಮಾನದಲ್ಲಿ ಪ್ರಯಾಣಿಸುತ್ತಿದ್ದೇನೆ.",
+    "example_translation": "I’m traveling by airplane.",
+    "pronunciation": "vimāna"
+  },
+  {
+    "word": "ಗಮನಿಸಿ",
+    "meaning": "attention/notice",
+    "example": "ದಯವಿಟ್ಟು ಗಮನಿಸಿ.",
+    "example_translation": "Please pay attention.",
+    "pronunciation": "gamanisi"
+  },
+  {
+    "word": "ದಿನ",
+    "meaning": "day",
+    "example": "ಇಂದು ಚಳಿ ದಿನ.",
+    "example_translation": "Today is a cold day.",
+    "pronunciation": "dina"
+  },
+  {
+    "word": "ಸಂಜೆ",
+    "meaning": "evening",
+    "example": "ನಾವು ಸಂಜೆ ಭೇಟಿ ಮಾಡೋಣ.",
+    "example_translation": "Let’s meet in the evening.",
+    "pronunciation": "sanje"
+  },
+  {
+    "word": "ಬೆಳಗ್ಗೆ",
+    "meaning": "morning",
+    "example": "ಬೆಳಗ್ಗೆ ಹಸಿರು ಚಹಾ ಕುಡಿಯಿರಿ.",
+    "example_translation": "Drink green tea in the morning.",
+    "pronunciation": "beḷagge"
+  },
+  {
+    "word": "ರಾತ್ರಿ",
+    "meaning": "night",
+    "example": "ರಾತ್ರಿ ಊಟ ಆಗಿದೆಯೆ?",
+    "example_translation": "Did you have dinner at night?",
+    "pronunciation": "rātri"
+  },
+  {
+    "word": "ಹಣ",
+    "meaning": "money",
+    "example": "ನನಗೆ ಹಣ ಬೇಕು.",
+    "example_translation": "I need money.",
+    "pronunciation": "haṇa"
+  },
+  {
+    "word": "ಬ್ಯಾಂಕ್",
+    "meaning": "bank",
+    "example": "ಈ ಪ್ರದೇಶದಲ್ಲಿ ಬ್ಯಾಂಕ್ ಇಲ್ಲ.",
+    "example_translation": "There is no bank in this area.",
+    "pronunciation": "byāṅk"
+  },
+  {
+    "word": "ಬಗ್ಗೆ",
+    "meaning": "about",
+    "example": "ಇದು ನನ್ನ ಬಗ್ಗೆ.",
+    "example_translation": "This is about me.",
+    "pronunciation": "bagge"
+  },
+  {
+    "word": "ಮೈತ್ರಿ",
+    "meaning": "friendship",
+    "example": "ನಮ್ಮ ನಡುವೆ ಉತ್ತಮ ಮೈತ್ರಿ ಇದೆ.",
+    "example_translation": "There is good friendship between us.",
+    "pronunciation": "maitri"
+  },
+  {
+    "word": "ಬಟ್ಟೆ",
+    "meaning": "clothes",
+    "example": "ನಾನು ಹೊಸ ಬಟ್ಟೆಗಳನ್ನು ಕೊಂಡೆ.",
+    "example_translation": "I bought new clothes.",
+    "pronunciation": "baṭṭe"
+  },
+  {
+    "word": "ಕಡೈ",
+    "meaning": "shop/store",
+    "example": "ಈ ಹತ್ತಿರಲ್ಲಿ ಯಾವುದೇ ಕಡೈ ಇದೆಯೆ?",
+    "example_translation": "Is there any shop nearby?",
+    "pronunciation": "kaḍai"
+  },
+  {
+    "word": "ಉತ್ತಮ",
+    "meaning": "excellent/good",
+    "example": "ನಿಮ್ಮ ಕೆಲಸ ಉತ್ತಮವಾಗಿದೆ.",
+    "example_translation": "Your work is excellent.",
+    "pronunciation": "uttama"
+  },
+  {
+    "word": "ಶುಭೋದಯ",
+    "meaning": "good morning",
+    "example": "ಶುಭೋದಯ! ಹೇಗಿದ್ದೀರಿ?",
+    "example_translation": "Good morning! How are you?",
+    "pronunciation": "shubhodaya"
+  },
+  {
+    "word": "ಶುಭರಾತ್ರಿ",
+    "meaning": "good night",
+    "example": "ಶುಭರಾತ್ರಿ, ಕನಸುಗಳಲ್ಲಿ ಕಾಣಿಸಿಕೋ.",
+    "example_translation": "Good night, see you in dreams.",
+    "pronunciation": "shubharātri"
+  },
+  {
+    "word": "ಬೆಲೆ",
+    "meaning": "price",
+    "example": "ಇದರ ಬೆಲೆ ಎಷ್ಟು?",
+    "example_translation": "What is the price of this?",
+    "pronunciation": "bele"
+  },
+  {
+    "word": "ಸಹಾಯ",
+    "meaning": "help",
+    "example": "ನಿಮ್ಮ ಸಹಾಯ ಬೇಕು.",
+    "example_translation": "I need your help.",
+    "pronunciation": "sahāya"
+  },
+  {
+    "word": "ಅನುಮತಿ",
+    "meaning": "permission",
+    "example": "ಅನುಮತಿ ಇಲ್ಲದೆ ಹೋಗಬೇಡಿ.",
+    "example_translation": "Do not go without permission.",
+    "pronunciation": "anumati"
+  },
+  {
+    "word": "ತುರ್ತು",
+    "meaning": "emergency",
+    "example": "ತುರ್ತು ಪರಿಸ್ಥಿತಿ ಇದೆ.",
+    "example_translation": "It is an emergency situation.",
+    "pronunciation": "turṭu"
+  },
+  {
+    "word": "ಸಾಕಷ್ಟು",
+    "meaning": "enough",
+    "example": "ಇದು ಸಾಕಷ್ಟು ಇದೆ.",
+    "example_translation": "This is enough.",
+    "pronunciation": "sākashṭu"
+  },
+  {
+    "word": "ಹೊಸದು",
+    "meaning": "new thing",
+    "example": "ಇದು ನನಗೆ ಹೊಸದು.",
+    "example_translation": "This is new to me.",
+    "pronunciation": "hosadu"
+  },
+  {
+    "word": "ಹಳೆಯದು",
+    "meaning": "old thing",
+    "example": "ಈದು ಹಳೆಯದು ಆದರೆ ಮೌಲ್ಯಮಯ.",
+    "example_translation": "This is old but valuable.",
+    "pronunciation": "haḷeyadu"
+  },
+  {
+    "word": "ಅಂಗಡಿಗೆ",
+    "meaning": "to the shop",
+    "example": "ನಾನು ಅಂಗಡಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.",
+    "example_translation": "I am going to the shop.",
+    "pronunciation": "angaḍige"
+  },
+  {
+    "word": "ಮಾರುಕಟ್ಟೆ",
+    "meaning": "market",
+    "example": "ಮಾರುಕಟ್ಟೆ ತುಂಬಾ ಗದ್ದಲವಾಗಿದೆ.",
+    "example_translation": "The market is very crowded.",
+    "pronunciation": "mārukaṭṭe"
+  },
+  {
+    "word": "ವಿದೇಶ",
+    "meaning": "foreign/abroad",
+    "example": "ನಾನು ವಿದೇಶಕ್ಕೆ ಹೋಗುತ್ತೇನೆ.",
+    "example_translation": "I am going abroad.",
+    "pronunciation": "vidēsha"
+  },
+  {
+    "word": "ಅಭ್ಯಾಸ",
+    "meaning": "practice",
+    "example": "ಅಭ್ಯಾಸವು ಪರಿಪೂರ್ಣತೆಗೆ ದಾರಿ.",
+    "example_translation": "Practice leads to perfection.",
+    "pronunciation": "abhyāsa"
+  },
+
+  {
+    "word": "ಬೆಂಗ್ಳೂರು",
+    "meaning": "Bangalore",
+    "example": "ನಾನು ಈಗ ಬೆಂಗ್ಳೂರಿನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ.",
+    "example_translation": "I now work in Bangalore.",
+    "pronunciation": "beṅgaḷūru"
+  },
+  {
+    "word": "ಕೆಲಸ",
+    "meaning": "job/work",
+    "example": "ನಾನು IT ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ.",
+    "example_translation": "I work in an IT company.",
+    "pronunciation": "kelasa"
+  },
+  {
+    "word": "ಕಚೇರಿ",
+    "meaning": "office",
+    "example": "ನನ್ನ ಕಚೇರಿ ಓಪೀಸ್ ರಸ್ತೆಯ ಮೇಲೆ ಇದೆ.",
+    "example_translation": "My office is on Old Airport Road.",
+    "pronunciation": "kachēri"
+  },
+  {
+    "word": "ಸಂಜೆ",
+    "meaning": "evening",
+    "example": "ನಾವು ಸಂಜೆ ಕಾಫಿ ಕುಡಿಯೋಣ.",
+    "example_translation": "Let’s have coffee in the evening.",
+    "pronunciation": "sanje"
+  },
+  {
+    "word": "ಬಿಡುಗಡೆ",
+    "meaning": "release/leave (from work)",
+    "example": "ನನಗೆ ಈಗ ಕೆಲಸದಿಂದ ಬಿಡುಗಡೆ.",
+    "example_translation": "I'm off work now.",
+    "pronunciation": "biḍugaḍe"
+  },
+  {
+    "word": "ಊಟ",
+    "meaning": "meal/food",
+    "example": "ಊಟ ಆಗಿದೆಯೆ?",
+    "example_translation": "Did you have your meal?",
+    "pronunciation": "ūṭa"
+  },
+  {
+    "word": "ಭದ್ರತಾ",
+    "meaning": "security",
+    "example": "ಇಲ್ಲಿ ಭದ್ರತಾ ಜಾಗ್ರತೆ ಇದೆ.",
+    "example_translation": "Security is strict here.",
+    "pronunciation": "bhadratā"
+  },
+  {
+    "word": "ಪಾಸ್",
+    "meaning": "pass (ID/pass)",
+    "example": "ನಿಮ್ಮ ಪಾಸ್ ತೋರಿಸಿ.",
+    "example_translation": "Show your pass.",
+    "pronunciation": "paas"
+  },
+  {
+    "word": "ಪ್ರವೇಶ",
+    "meaning": "entry",
+    "example": "ಪ್ರವೇಶ ಕಡ್ಡಾಯವಾಗಿ ಪಾಸ್ ಮೂಲಕವೇ ಆಗಬೇಕು.",
+    "example_translation": "Entry must be through a pass only.",
+    "pronunciation": "pravēsha"
+  },
+  {
+    "word": "ಹೆಸರು",
+    "meaning": "name",
+    "example": "ನಿಮ್ಮ ಹೆಸರು ಏನು?",
+    "example_translation": "What is your name?",
+    "pronunciation": "hesaru"
+  },
+  {
+    "word": "ಪಠ್ಯಪುಸ್ತಕ",
+    "meaning": "textbook",
+    "example": "ನಾನು ಕನ್ನಡ ಪಠ್ಯಪುಸ್ತಕ ಖರೀದಿಸಿದ್ದೇನೆ.",
+    "example_translation": "I bought a Kannada textbook.",
+    "pronunciation": "paṭhyapustaka"
+  },
+  {
+    "word": "ಇಂಗ್ಲೀಷ್",
+    "meaning": "English",
+    "example": "ನಾನು ಇಂಗ್ಲೀಷ್ ಮಾತನಾಡಬಹುದು.",
+    "example_translation": "I can speak English.",
+    "pronunciation": "inglīṣ"
+  },
+  {
+    "word": "ಸಂಪರ್ಕಿಸಿ",
+    "meaning": "contact",
+    "example": "ಯಾವುದೇ ಸಹಾಯಕ್ಕೆ ಸಂಪರ್ಕಿಸಿ.",
+    "example_translation": "Contact for any help.",
+    "pronunciation": "samparkisi"
+  },
+  {
+    "word": "ಡಾಕ್ಟರ್",
+    "meaning": "doctor",
+    "example": "ನಾನು ಡಾಕ್ಟರ್‌ನ್ನು ಭೇಟಿಮಾಡಬೇಕಾಗಿದೆ.",
+    "example_translation": "I need to see the doctor.",
+    "pronunciation": "ḍākṭar"
+  },
+  {
+    "word": "ದಾರಿಹೊಡೆ",
+    "meaning": "route",
+    "example": "ಈ ಬಸ್ ಯಾವ ದಾರಿಹೊಡೆಗೆ ಹೋಗುತ್ತದೆ?",
+    "example_translation": "Which route does this bus take?",
+    "pronunciation": "dārihoḍe"
+  },
+  {
+    "word": "ಜವಾಬ್ದಾರಿ",
+    "meaning": "responsibility",
+    "example": "ಈ ಕೆಲಸ ನನ್ನ ಜವಾಬ್ದಾರಿ.",
+    "example_translation": "This job is my responsibility.",
+    "pronunciation": "javābdāri"
+  },
+  {
+    "word": "ಚುಕ್ಕಾಣಿ",
+    "meaning": "rent",
+    "example": "ಈ ಮನೆಯ ಚುಕ್ಕಾಣಿ ಎಷ್ಟು?",
+    "example_translation": "What is the rent for this house?",
+    "pronunciation": "chukkaṇi"
+  },
+  {
+    "word": "ಮನೆಬಾಡಿಗೆ",
+    "meaning": "tenant",
+    "example": "ನಾನು ಮನೆಬಾಡಿಗೆಯಾಗಿದ್ದೇನೆ.",
+    "example_translation": "I am a tenant.",
+    "pronunciation": "manebāḍige"
+  },
+  {
+    "word": "ಮಾಲೀಕ",
+    "meaning": "owner/landlord",
+    "example": "ಮಾಲೀಕ ಬರಲಿಲ್ಲ.",
+    "example_translation": "The landlord hasn’t come.",
+    "pronunciation": "mālīka"
+  },
+  {
+    "word": "ಮರಳಿ",
+    "meaning": "again/return",
+    "example": "ನಾನು ಬಸ್‌ನಲ್ಲಿ ಮರಳುತ್ತೇನೆ.",
+    "example_translation": "I’ll return by bus.",
+    "pronunciation": "maraḷi"
+  },
+  {
+    "word": "ಹೊಸದು",
+    "meaning": "new one",
+    "example": "ನಾವು ಹೊಸದು ಖರೀದಿಸಿದ್ದೇವೆ.",
+    "example_translation": "We bought a new one.",
+    "pronunciation": "hosadu"
+  },
+  {
+    "word": "ಹಳೆಯದು",
+    "meaning": "old one",
+    "example": "ಈದು ಹಳೆಯದು ಆದರೆ ಚೆನ್ನಾಗಿದೆ.",
+    "example_translation": "This is old but good.",
+    "pronunciation": "haḷeyadu"
+  },
+  {
+    "word": "ಅವನ",
+    "meaning": "his",
+    "example": "ಅವನ ಹೆಸರು ಸುನೀಲ್.",
+    "example_translation": "His name is Sunil.",
+    "pronunciation": "avana"
+  },
+  {
+    "word": "ಅವಳು",
+    "meaning": "she",
+    "example": "ಅವಳು ನನ್ನ ಗೆಳತಿ.",
+    "example_translation": "She is my friend.",
+    "pronunciation": "avaḷu"
+  },
+  {
+    "word": "ಅವರು",
+    "meaning": "they/respectful he/she",
+    "example": "ಅವರು ಬಂದುಹೋದರು.",
+    "example_translation": "They came and left.",
+    "pronunciation": "avaru"
+  },
+  {
+    "word": "ನೀವು",
+    "meaning": "you (formal/plural)",
+    "example": "ನೀವು ಏಕೆ ಇಲ್ಲ?",
+    "example_translation": "Why are you not here?",
+    "pronunciation": "nīvu"
+  },
+  {
+    "word": "ಸಮಯ",
+    "meaning": "time",
+    "example": "ನಮ್ಮ ಸಭೆ ಸಮಯ ಏನು?",
+    "example_translation": "What is the meeting time?",
+    "pronunciation": "samaya"
+  },
+  {
+    "word": "ಫೋನ್",
+    "meaning": "phone",
+    "example": "ನನಗೆ ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆ ನೀಡಿ.",
+    "example_translation": "Give me your phone number.",
+    "pronunciation": "phōn"
+  },
+  {
+    "word": "ಸಂದೇಶ",
+    "meaning": "message",
+    "example": "ನಾನು ಸಂದೇಶ ಕಳುಹಿಸಿದ್ದೇನೆ.",
+    "example_translation": "I sent a message.",
+    "pronunciation": "sandēsha"
+  },
+  {
+    "word": "ದಿನಚರಿ",
+    "meaning": "daily routine",
+    "example": "ನನ್ನ ದಿನಚರಿ ಬಹಳ ವ್ಯಸ್ತವಾಗಿದೆ.",
+    "example_translation": "My routine is very busy.",
+    "pronunciation": "dinachari"
+  },
+  {
+    "word": "ತಿನ್ನು",
+    "meaning": "eat",
+    "example": "ತಿಂಡಿ ತಿನ್ನಿ.",
+    "example_translation": "Eat the snacks.",
+    "pronunciation": "tinnu"
+  },
+  {
+    "word": "ಕುಡಿಯು",
+    "meaning": "drink",
+    "example": "ನೀರು ಕುಡಿಯಿರಿ.",
+    "example_translation": "Drink water.",
+    "pronunciation": "kuḍiyu"
+  },
+  {
+    "word": "ಉಳಿಸಿ",
+    "meaning": "save/keep",
+    "example": "ಇದು ಉಳಿಸಿ ಇಡಿ.",
+    "example_translation": "Keep it safe.",
+    "pronunciation": "uḷisi"
+  },
+  {
+    "word": "ಬಾಗಿಲು",
+    "meaning": "door",
+    "example": "ಬಾಗಿಲು ಮುಚ್ಚಿ.",
+    "example_translation": "Close the door.",
+    "pronunciation": "bāgilu"
+  },
+  {
+    "word": "ಕಿಟಕಿ",
+    "meaning": "window",
+    "example": "ಕಿಟಕಿ ತೆಗೆಯಿರಿ.",
+    "example_translation": "Open the window.",
+    "pronunciation": "kiṭaki"
+  },
+  {
+    "word": "ಕಂಪನಿ",
+    "meaning": "company",
+    "example": "ನಾನು ಖಾಸಗಿ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ.",
+    "example_translation": "I work at a private company.",
+    "pronunciation": "kampani"
+  },
+  {
+    "word": "ಪಗಡು",
+    "meaning": "salary",
+    "example": "ಈ ತಿಂಗಳ ಪಗಡು ಬಂದಿದೆ.",
+    "example_translation": "This month's salary has arrived.",
+    "pronunciation": "pagaḍu"
+  },
+  {
+    "word": "ಅನುಭವ",
+    "meaning": "experience",
+    "example": "ನನಗೆ ಎರಡು ವರ್ಷದ ಅನುಭವವಿದೆ.",
+    "example_translation": "I have two years of experience.",
+    "pronunciation": "anubhava"
+  },
+  {
+    "word": "ನಿಮಿಷ",
+    "meaning": "minute",
+    "example": "ದಯವಿಟ್ಟು ಒಂದು ನಿಮಿಷ ಕಾಯಿರಿ.",
+    "example_translation": "Please wait for a minute.",
+    "pronunciation": "nimiṣa"
+  },
+  {
+    "word": "ಶಕ್ತಿಯುತ",
+    "meaning": "powerful",
+    "example": "ಅವರು ಶಕ್ತಿಯುತ ವ್ಯಕ್ತಿ.",
+    "example_translation": "He is a powerful person.",
+    "pronunciation": "shaktiyuta"
+  },
+  {
+    "word": "ಸ್ನೇಹಿತ",
+    "meaning": "friend",
+    "example": "ಅವರು ನನ್ನ ಸ್ನೇಹಿತ.",
+    "example_translation": "They are my friend.",
+    "pronunciation": "snēhita"
+  },
+  {
+    "word": "ತಾಜಾ",
+    "meaning": "fresh",
+    "example": "ಇದು ತಾಜಾ ಹಣ್ಣು.",
+    "example_translation": "This is a fresh fruit.",
+    "pronunciation": "tāja"
+  },
+  {
+    "word": "ಚಲಾವಣೆ",
+    "meaning": "movement/transaction",
+    "example": "ಈ ಚಲಾವಣೆಯ ಬಗ್ಗೆ ವಿವರ ನೀಡಿ.",
+    "example_translation": "Give details about this transaction.",
+    "pronunciation": "chalāvaṇe"
+  },
+  {
+    "word": "ಮಾರ್ಗ",
+    "meaning": "direction/route",
+    "example": "ಈದು ಸರಿಯಾದ ಮಾರ್ಗವಲ್ಲ.",
+    "example_translation": "This is not the right way.",
+    "pronunciation": "mārga"
+  },
+  {
+    "word": "ಪ್ರಯತ್ನ",
+    "meaning": "effort",
+    "example": "ನೀವು ಉತ್ತಮ ಪ್ರಯತ್ನ ಮಾಡುತ್ತೀರಿ.",
+    "example_translation": "You are making a good effort.",
+    "pronunciation": "prayatna"
+  },
+
+  {
+    "word": "ಸಭೆ",
+    "meaning": "meeting",
+    "example": "ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಸಭೆ ಇದೆ.",
+    "example_translation": "There is a meeting tomorrow morning.",
+    "pronunciation": "sabhe"
+  },
+  {
+    "word": "ವಿಷಯ",
+    "meaning": "topic",
+    "example": "ಈದು ನಮ್ಮ ಸಭೆಯ ವಿಷಯ.",
+    "example_translation": "This is the topic of our meeting.",
+    "pronunciation": "viṣaya"
+  },
+  {
+    "word": "ಗಮನಿಸಿ",
+    "meaning": "pay attention",
+    "example": "ದಯವಿಟ್ಟು ಗಮನಿಸಿ.",
+    "example_translation": "Please pay attention.",
+    "pronunciation": "gamanisi"
+  },
+  {
+    "word": "ವಿವರಣೆ",
+    "meaning": "explanation",
+    "example": "ದಯವಿಟ್ಟು ವಿವರಿಸಿ.",
+    "example_translation": "Please explain.",
+    "pronunciation": "vivaraṇe"
+  },
+  {
+    "word": "ಸಹೋದ್ಯೋಗಿ",
+    "meaning": "colleague",
+    "example": "ಅವರು ನನ್ನ ಸಹೋದ್ಯೋಗಿ.",
+    "example_translation": "They are my colleague.",
+    "pronunciation": "sahōdyōgi"
+  },
+  {
+    "word": "ಪ್ರಸ್ತಾಪ",
+    "meaning": "proposal",
+    "example": "ನಾವು ಹೊಸ ಪ್ರಸ್ತಾಪ ನೀಡಿದ್ದೇವೆ.",
+    "example_translation": "We have submitted a new proposal.",
+    "pronunciation": "prastāpa"
+  },
+  {
+    "word": "ಯೋಜನೆ",
+    "meaning": "plan",
+    "example": "ನಿಮ್ಮ ಯೋಜನೆ ಚೆನ್ನಾಗಿದೆ.",
+    "example_translation": "Your plan is good.",
+    "pronunciation": "yōjane"
+  },
+  {
+    "word": "ಅನುಮೋದನೆ",
+    "meaning": "approval",
+    "example": "ಅವರು ಯೋಜನೆಗೆ ಅನುಮೋದನೆ ನೀಡಿದರು.",
+    "example_translation": "They approved the plan.",
+    "pronunciation": "anumōdane"
+  },
+  {
+    "word": "ಅಧಿಕಾರಿ",
+    "meaning": "officer",
+    "example": "ಅಧಿಕಾರಿ ಕಚೇರಿಯಲ್ಲಿ ಇಲ್ಲ.",
+    "example_translation": "The officer is not in the office.",
+    "pronunciation": "adhikāri"
+  },
+  {
+    "word": "ವಿಭಾಗ",
+    "meaning": "department",
+    "example": "ನಾನು ಹಣಕಾಸು ವಿಭಾಗದಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ.",
+    "example_translation": "I work in the finance department.",
+    "pronunciation": "vibhāga"
+  },
+  {
+    "word": "ಸರ್ಕಾರ",
+    "meaning": "government",
+    "example": "ಇದು ಸರ್ಕಾರಿ ಯೋಜನೆ.",
+    "example_translation": "This is a government scheme.",
+    "pronunciation": "sarkāra"
+  },
+  {
+    "word": "ದಾಖಲೆ",
+    "meaning": "document",
+    "example": "ನಿಮ್ಮ ದಾಖಲೆ ತೋರಿಸಿ.",
+    "example_translation": "Show your document.",
+    "pronunciation": "dākhale"
+  },
+  {
+    "word": "ಅಧಿಕೃತ",
+    "meaning": "authorized",
+    "example": "ನಾನು ಅಧಿಕೃತ ವ್ಯಕ್ತಿ.",
+    "example_translation": "I am an authorized person.",
+    "pronunciation": "adhikr̥ta"
+  },
+  {
+    "word": "ತಪ್ಪು",
+    "meaning": "mistake",
+    "example": "ದಯವಿಟ್ಟು ಈ ತಪ್ಪು ಸರಿಪಡಿಸಿ.",
+    "example_translation": "Please correct this mistake.",
+    "pronunciation": "tappu"
+  },
+  {
+    "word": "ಸರಿಯಾದ",
+    "meaning": "correct",
+    "example": "ಇದು ಸರಿಯಾದ ಉತ್ತರ.",
+    "example_translation": "This is the correct answer.",
+    "pronunciation": "sariyāda"
+  },
+  {
+    "word": "ಸಂದರ್ಶನ",
+    "meaning": "interview",
+    "example": "ನಾಳೆ ನನಗೆ ಸಂದರ್ಶನ ಇದೆ.",
+    "example_translation": "I have an interview tomorrow.",
+    "pronunciation": "sandharṣana"
+  },
+  {
+    "word": "ಅರ್ಜಿ",
+    "meaning": "application",
+    "example": "ನಾನು ಅರ್ಜಿ ಸಲ್ಲಿಸಿದ್ದೇನೆ.",
+    "example_translation": "I have submitted an application.",
+    "pronunciation": "arji"
+  },
+  {
+    "word": "ದಕ್ಷಿಣ",
+    "meaning": "south",
+    "example": "ಬೆಂಗಳೂರಿನ ದಕ್ಷಿಣ ಭಾಗದಲ್ಲಿ ನಾನು ವಾಸಿಸುತ್ತಿದ್ದೇನೆ.",
+    "example_translation": "I live in the southern part of Bangalore.",
+    "pronunciation": "dakṣiṇa"
+  },
+  {
+    "word": "ಹಬ್ಬ",
+    "meaning": "festival",
+    "example": "ಇದು ಕನ್ನಡ ನಾಡಹಬ್ಬ.",
+    "example_translation": "This is the Kannada state festival.",
+    "pronunciation": "habba"
+  },
+  {
+    "word": "ಪೂಜೆ",
+    "meaning": "prayer/worship",
+    "example": "ನಾಳೆ ಬೆಳಗ್ಗೆ ಪೂಜೆ ಇದೆ.",
+    "example_translation": "There is a prayer in the morning.",
+    "pronunciation": "pūje"
+  },
+  {
+    "word": "ಸಂಸ್ಕೃತಿ",
+    "meaning": "culture",
+    "example": "ಇದು ಕರ್ನಾಟಕದ ಸಂಸ್ಕೃತಿ.",
+    "example_translation": "This is Karnataka’s culture.",
+    "pronunciation": "saṃskr̥ti"
+  },
+  {
+    "word": "ಪದವಿ",
+    "meaning": "degree (education)",
+    "example": "ನಾನು ಇಂಜಿನಿಯರಿಂಗ್ ಪದವಿ ಪಡೆದಿದ್ದೇನೆ.",
+    "example_translation": "I have an engineering degree.",
+    "pronunciation": "padavi"
+  },
+  {
+    "word": "ನಿವಾಸಿ",
+    "meaning": "resident",
+    "example": "ನಾನು ಇಲ್ಲಿನ ನಿವಾಸಿ.",
+    "example_translation": "I am a resident here.",
+    "pronunciation": "nivāsi"
+  },
+  {
+    "word": "ಸ್ಥಾಯಿ",
+    "meaning": "permanent",
+    "example": "ಇದು ನನ್ನ ಸ್ಥಾಯಿ ವಿಳಾಸ.",
+    "example_translation": "This is my permanent address.",
+    "pronunciation": "sthāyi"
+  },
+  {
+    "word": "ತಾತ್ಕಾಲಿಕ",
+    "meaning": "temporary",
+    "example": "ನಾನು ತಾತ್ಕಾಲಿಕ ನೌಕರನು.",
+    "example_translation": "I am a temporary employee.",
+    "pronunciation": "tātkālika"
+  },
+  {
+    "word": "ವಿದ್ಯುತ್",
+    "meaning": "electricity",
+    "example": "ಇಲ್ಲಿಗೆ ವಿದ್ಯುತ್ ಇಲ್ಲ.",
+    "example_translation": "There is no electricity here.",
+    "pronunciation": "vidyut"
+  },
+  {
+    "word": "ನೀರು",
+    "meaning": "water",
+    "example": "ನೀರು ಬಂದಿದೆ.",
+    "example_translation": "Water has arrived.",
+    "pronunciation": "nīru"
+  },
+  {
+    "word": "ಸಾಫ್ಟ್‌ವೇರ್",
+    "meaning": "software",
+    "example": "ನಾನು ಸಾಫ್ಟ್‌ವೇರ್ ಎಂಜಿನಿಯರ್.",
+    "example_translation": "I am a software engineer.",
+    "pronunciation": "sāphṭvēr"
+  },
+  {
+    "word": "ಗಡಸುತನ",
+    "meaning": "rudeness",
+    "example": "ದಯವಿಟ್ಟು ಗಡಸುತನ ಬೇಡ.",
+    "example_translation": "Please don’t be rude.",
+    "pronunciation": "gaḍasutana"
+  },
+  {
+    "word": "ಅಧ್ಯಯನ",
+    "meaning": "study",
+    "example": "ನಾನು ಕನ್ನಡ ಅಧ್ಯಯನ ಮಾಡುತ್ತಿದ್ದೇನೆ.",
+    "example_translation": "I am studying Kannada.",
+    "pronunciation": "adhyayana"
+  },
+  {
+    "word": "ವ್ಯಾಕರಣ",
+    "meaning": "grammar",
+    "example": "ಕನ್ನಡ ವ್ಯಾಕರಣ ತಿಳಿದುಕೊಳ್ಳುವುದು ಮುಖ್ಯ.",
+    "example_translation": "Learning Kannada grammar is important.",
+    "pronunciation": "vyākaraṇa"
+  },
+  {
+    "word": "ಶಾಲೆ",
+    "meaning": "school",
+    "example": "ಮಗನು ಶಾಲೆಗೆ ಹೋಗಿದ್ದಾನೆ.",
+    "example_translation": "The boy has gone to school.",
+    "pronunciation": "shāle"
+  },
+  {
+    "word": "ಅಂಗಡಿ",
+    "meaning": "shop",
+    "example": "ನಾನು ಹತ್ತಿರದ ಅಂಗಡಿಗೆ ಹೋಗಿದ್ದೆ.",
+    "example_translation": "I went to the nearby shop.",
+    "pronunciation": "angaḍi"
+  },
+  {
+    "word": "ದರ್ಬಾರ್",
+    "meaning": "court/assembly (historical)",
+    "example": "ಈದು ರಾಜನ ದರ್ಬಾರ್.",
+    "example_translation": "This is the king’s court.",
+    "pronunciation": "darbaār"
+  },
+  {
+    "word": "ಸಂವಾದ",
+    "meaning": "dialogue/conversation",
+    "example": "ನಮ್ಮಲ್ಲಿ ಉತ್ತಮ ಸಂವಾದ ನಡೆಯುತ್ತಿದೆ.",
+    "example_translation": "We are having a good conversation.",
+    "pronunciation": "saṃvāda"
+  },
+  {
+    "word": "ಅಡಿಗೆ",
+    "meaning": "cooking",
+    "example": "ಅವಳು ಒಳ್ಳೆಯ ಅಡಿಗೆ ಮಾಡುತ್ತಾಳೆ.",
+    "example_translation": "She cooks well.",
+    "pronunciation": "aḍige"
+  },
+  {
+    "word": "ಹೆಚ್ಚು",
+    "meaning": "more",
+    "example": "ಇದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬೇಕು.",
+    "example_translation": "I want more than this.",
+    "pronunciation": "heccu"
+  },
+  {
+    "word": "ಕಡಿಮೆ",
+    "meaning": "less",
+    "example": "ಇದು ಕಡಿಮೆ ಇದೆ.",
+    "example_translation": "This is less.",
+    "pronunciation": "kaḍime"
+  },
+  {
+    "word": "ವೈದ್ಯ",
+    "meaning": "doctor/physician",
+    "example": "ಅವರು ಪ್ರಸಿದ್ಧ ವೈದ್ಯರು.",
+    "example_translation": "He is a well-known doctor.",
+    "pronunciation": "vaidya"
+  },
+  {
+    "word": "ದವಾಖಾನೆ",
+    "meaning": "clinic/hospital",
+    "example": "ಅವನು ದವಾಖಾನೆಗೆ ಹೋಗಿದ್ದಾನೆ.",
+    "example_translation": "He went to the hospital.",
+    "pronunciation": "davākhāne"
+  },
+  {
+    "word": "ಮೆಡಿಸಿನ್",
+    "meaning": "medicine",
+    "example": "ನೀವು ಮೆಡಿಸಿನ್ ತೆಗೆದುಕೊಂಡಿದೀರಾ?",
+    "example_translation": "Did you take the medicine?",
+    "pronunciation": "meḍisin"
+  },
+  {
+    "word": "ಪ್ರಶ್ನೆ",
+    "meaning": "question",
+    "example": "ನನಗೆ ಒಂದು ಪ್ರಶ್ನೆ ಇದೆ.",
+    "example_translation": "I have a question.",
+    "pronunciation": "praśne"
+  },
+  {
+    "word": "ಉತ್ತರ",
+    "meaning": "answer",
+    "example": "ನಾನು ಉತ್ತರ ನೀಡುತ್ತೇನೆ.",
+    "example_translation": "I will answer.",
+    "pronunciation": "uttara"
+  },
+  {
+    "word": "ಪಠಣ",
+    "meaning": "reading",
+    "example": "ಅವನು ಪಠಣ ಮಾಡುತ್ತಿದ್ದಾನೆ.",
+    "example_translation": "He is reading.",
+    "pronunciation": "paṭhana"
+  },
+  {
+    "word": "ಬೇಡಿಕೆ",
+    "meaning": "request",
+    "example": "ನಿಮ್ಮ ಬೇಡಿಕೆಗೆ ಸ್ಪಂದಿಸಲಾಗಿದೆ.",
+    "example_translation": "Your request has been responded to.",
+    "pronunciation": "bēḍike"
+  },
+  {
+    "word": "ನೀಡಿಕೆ",
+    "meaning": "offer",
+    "example": "ಇದು ನಮ್ಮ ನೀಡಿಕೆ.",
+    "example_translation": "This is our offer.",
+    "pronunciation": "nīḍike"
+  },
+  {
+    "word": "ಪತ್ರಿಕೆ",
+    "meaning": "newspaper",
+    "example": "ನಾನು ದಿನವೂ ಪತ್ರಿಕೆ ಓದುತ್ತೇನೆ.",
+    "example_translation": "I read the newspaper every day.",
+    "pronunciation": "patrike"
+  },
+  {
+    "word": "ಅಧೀನ",
+    "meaning": "under control",
+    "example": "ಇದು ಸರ್ಕಾರದ ಅಧೀನದಲ್ಲಿ ಇದೆ.",
+    "example_translation": "It is under government control.",
+    "pronunciation": "adhīna"
+  }
+
+
+]

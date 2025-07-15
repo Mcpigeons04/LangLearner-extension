@@ -1,0 +1,962 @@
+[
+  {
+    "word": "hallo",
+    "meaning": "hello",
+    "example": "Hallo, wie geht es dir?",
+    "example_translation": "Hello, how are you?",
+    "pronunciation": "hah-loh"
+  },
+  {
+    "word": "danke",
+    "meaning": "thank you",
+    "example": "Danke für Ihre Hilfe.",
+    "example_translation": "Thank you for your help.",
+    "pronunciation": "dahn-kuh"
+  },
+  {
+    "word": "bitte",
+    "meaning": "please / you're welcome",
+    "example": "Ein Kaffee, bitte.",
+    "example_translation": "A coffee, please.",
+    "pronunciation": "bi-teh"
+  },
+  {
+    "word": "ja",
+    "meaning": "yes",
+    "example": "Ja, ich verstehe.",
+    "example_translation": "Yes, I understand.",
+    "pronunciation": "yah"
+  },
+  {
+    "word": "nein",
+    "meaning": "no",
+    "example": "Nein, danke.",
+    "example_translation": "No, thank you.",
+    "pronunciation": "nine"
+  },
+  {
+    "word": "entschuldigung",
+    "meaning": "excuse me / sorry",
+    "example": "Entschuldigung, wo ist die Toilette?",
+    "example_translation": "Excuse me, where is the restroom?",
+    "pronunciation": "ent-shool-dee-goong"
+  },
+  {
+    "word": "tschüss",
+    "meaning": "bye",
+    "example": "Tschüss! Bis bald!",
+    "example_translation": "Bye! See you soon!",
+    "pronunciation": "chooss"
+  },
+  {
+    "word": "bitte schön",
+    "meaning": "you're welcome",
+    "example": "Danke! – Bitte schön.",
+    "example_translation": "Thank you! – You're welcome.",
+    "pronunciation": "bit-teh shurn"
+  },
+  {
+    "word": "hilfe",
+    "meaning": "help",
+    "example": "Hilfe! Ich brauche Hilfe!",
+    "example_translation": "Help! I need help!",
+    "pronunciation": "hil-feh"
+  },
+  {
+    "word": "toilette",
+    "meaning": "toilet",
+    "example": "Wo ist die Toilette?",
+    "example_translation": "Where is the toilet?",
+    "pronunciation": "toi-let-te"
+  },
+  {
+    "word": "wasser",
+    "meaning": "water",
+    "example": "Ich möchte ein Glas Wasser.",
+    "example_translation": "I’d like a glass of water.",
+    "pronunciation": "vah-ser"
+  },
+  {
+    "word": "essen",
+    "meaning": "food / to eat",
+    "example": "Das Essen ist lecker.",
+    "example_translation": "The food is delicious.",
+    "pronunciation": "es-sen"
+  },
+  {
+    "word": "trinken",
+    "meaning": "to drink",
+    "example": "Was möchten Sie trinken?",
+    "example_translation": "What would you like to drink?",
+    "pronunciation": "trin-ken"
+  },
+  {
+    "word": "brot",
+    "meaning": "bread",
+    "example": "Ich esse gern Brot.",
+    "example_translation": "I like eating bread.",
+    "pronunciation": "broht"
+  },
+  {
+    "word": "kaffee",
+    "meaning": "coffee",
+    "example": "Ein Kaffee, bitte.",
+    "example_translation": "A coffee, please.",
+    "pronunciation": "kah-feh"
+  },
+  {
+    "word": "bahn",
+    "meaning": "train",
+    "example": "Wo ist der Bahnhof?",
+    "example_translation": "Where is the train station?",
+    "pronunciation": "bahn"
+  },
+  {
+    "word": "flugzeug",
+    "meaning": "airplane",
+    "example": "Ich fliege mit dem Flugzeug.",
+    "example_translation": "I am flying by airplane.",
+    "pronunciation": "flook-tsoyk"
+  },
+  {
+    "word": "hotel",
+    "meaning": "hotel",
+    "example": "Ich habe ein Zimmer im Hotel.",
+    "example_translation": "I have a room at the hotel.",
+    "pronunciation": "ho-tel"
+  },
+  {
+    "word": "zimmer",
+    "meaning": "room",
+    "example": "Gibt es ein freies Zimmer?",
+    "example_translation": "Is there a free room?",
+    "pronunciation": "tsi-mer"
+  },
+  {
+    "word": "rechnung",
+    "meaning": "bill / invoice",
+    "example": "Die Rechnung, bitte.",
+    "example_translation": "The bill, please.",
+    "pronunciation": "rekh-noong"
+  },
+  {
+    "word": "straße",
+    "meaning": "street",
+    "example": "Das Hotel ist in dieser Straße.",
+    "example_translation": "The hotel is on this street.",
+    "pronunciation": "shtrah-suh"
+  },
+  {
+    "word": "links",
+    "meaning": "left",
+    "example": "Gehen Sie nach links.",
+    "example_translation": "Go to the left.",
+    "pronunciation": "links"
+  },
+  {
+    "word": "rechts",
+    "meaning": "right",
+    "example": "Dann biegen Sie rechts ab.",
+    "example_translation": "Then turn right.",
+    "pronunciation": "rekhts"
+  },
+  {
+    "word": "geradeaus",
+    "meaning": "straight ahead",
+    "example": "Gehen Sie geradeaus.",
+    "example_translation": "Go straight ahead.",
+    "pronunciation": "geh-rah-deh-ows"
+  },
+  {
+    "word": "markt",
+    "meaning": "market",
+    "example": "Der Markt ist sehr lebendig.",
+    "example_translation": "The market is very lively.",
+    "pronunciation": "markt"
+  },
+  {
+    "word": "preis",
+    "meaning": "price",
+    "example": "Was ist der Preis?",
+    "example_translation": "What is the price?",
+    "pronunciation": "prys"
+  },
+  {
+    "word": "geschäft",
+    "meaning": "shop / business",
+    "example": "Das Geschäft öffnet um 9 Uhr.",
+    "example_translation": "The shop opens at 9 o'clock.",
+    "pronunciation": "geh-sheft"
+  },
+  {
+    "word": "arbeit",
+    "meaning": "work",
+    "example": "Ich gehe zur Arbeit.",
+    "example_translation": "I’m going to work.",
+    "pronunciation": "ahr-byt"
+  },
+  {
+    "word": "büro",
+    "meaning": "office",
+    "example": "Mein Büro ist im dritten Stock.",
+    "example_translation": "My office is on the third floor.",
+    "pronunciation": "bew-roh"
+  },
+  {
+    "word": "chef",
+    "meaning": "boss",
+    "example": "Mein Chef ist sehr nett.",
+    "example_translation": "My boss is very nice.",
+    "pronunciation": "shef"
+  },
+  {
+    "word": "meeting",
+    "meaning": "meeting",
+    "example": "Wir haben ein Meeting um 10 Uhr.",
+    "example_translation": "We have a meeting at 10 o’clock.",
+    "pronunciation": "mee-ting"
+  },
+  {
+    "word": "kollege",
+    "meaning": "colleague",
+    "example": "Mein Kollege spricht auch Englisch.",
+    "example_translation": "My colleague also speaks English.",
+    "pronunciation": "koh-leh-geh"
+  },
+  {
+    "word": "projekt",
+    "meaning": "project",
+    "example": "Das ist ein großes Projekt.",
+    "example_translation": "That is a big project.",
+    "pronunciation": "pro-yekt"
+  },
+  {
+    "word": "vertrag",
+    "meaning": "contract",
+    "example": "Ich habe den Vertrag unterschrieben.",
+    "example_translation": "I have signed the contract.",
+    "pronunciation": "fer-trahk"
+  },
+  {
+    "word": "firma",
+    "meaning": "company",
+    "example": "Ich arbeite bei einer großen Firma.",
+    "example_translation": "I work at a big company.",
+    "pronunciation": "feer-mah"
+  },
+  {
+    "word": "urlaub",
+    "meaning": "vacation",
+    "example": "Ich mache Urlaub in Spanien.",
+    "example_translation": "I am vacationing in Spain.",
+    "pronunciation": "oor-laup"
+  },
+  {
+    "word": "flug",
+    "meaning": "flight",
+    "example": "Mein Flug ist um 18 Uhr.",
+    "example_translation": "My flight is at 6 PM.",
+    "pronunciation": "flook"
+  },
+  {
+    "word": "pass",
+    "meaning": "passport",
+    "example": "Ich habe meinen Pass vergessen.",
+    "example_translation": "I forgot my passport.",
+    "pronunciation": "pass"
+  },
+  {
+    "word": "visum",
+    "meaning": "visa",
+    "example": "Ich brauche ein Visum für Indien.",
+    "example_translation": "I need a visa for India.",
+    "pronunciation": "vee-zoom"
+  },
+  {
+    "word": "tourist",
+    "meaning": "tourist",
+    "example": "Der Tourist fragt nach dem Weg.",
+    "example_translation": "The tourist is asking for directions.",
+    "pronunciation": "too-rist"
+  },
+  {
+    "word": "urlaubsort",
+    "meaning": "holiday destination",
+    "example": "Mallorca ist ein beliebter Urlaubsort.",
+    "example_translation": "Mallorca is a popular holiday destination.",
+    "pronunciation": "oor-laups-ort"
+  },
+  {
+    "word": "sehenswürdigkeit",
+    "meaning": "sightseeing attraction",
+    "example": "Berlin hat viele Sehenswürdigkeiten.",
+    "example_translation": "Berlin has many tourist attractions.",
+    "pronunciation": "zay-ens-vür-dish-kite"
+  },
+  {
+    "word": "kamera",
+    "meaning": "camera",
+    "example": "Ich habe meine Kamera vergessen.",
+    "example_translation": "I forgot my camera.",
+    "pronunciation": "kah-meh-rah"
+  },
+  {
+    "word": "foto",
+    "meaning": "photo",
+    "example": "Darf ich ein Foto machen?",
+    "example_translation": "May I take a photo?",
+    "pronunciation": "foh-toh"
+  },
+  {
+    "word": "telefon",
+    "meaning": "phone",
+    "example": "Mein Telefon ist kaputt.",
+    "example_translation": "My phone is broken.",
+    "pronunciation": "teh-leh-fohn"
+  },
+  {
+    "word": "internet",
+    "meaning": "internet",
+    "example": "Gibt es hier WLAN?",
+    "example_translation": "Is there WiFi here?",
+    "pronunciation": "inter-net"
+  },
+  {
+    "word": "ladung",
+    "meaning": "charging / charge",
+    "example": "Mein Handy braucht Ladung.",
+    "example_translation": "My phone needs charging.",
+    "pronunciation": "lah-doong"
+  },
+  {
+    "word": "verantwortung",
+    "meaning": "responsibility",
+    "example": "Er trägt die volle Verantwortung für das Projekt.",
+    "example_translation": "He bears full responsibility for the project.",
+    "pronunciation": "fehr-an-tvort-oong"
+  },
+  {
+    "word": "entscheidend",
+    "meaning": "crucial / decisive",
+    "example": "Ihre Entscheidung war entscheidend für den Erfolg.",
+    "example_translation": "Her decision was crucial for the success.",
+    "pronunciation": "ent-shy-dent"
+  },
+  {
+    "word": "verhandlung",
+    "meaning": "negotiation",
+    "example": "Die Verhandlungen dauerten mehrere Stunden.",
+    "example_translation": "The negotiations lasted several hours.",
+    "pronunciation": "fer-han-dloong"
+  },
+  {
+    "word": "bewertung",
+    "meaning": "evaluation",
+    "example": "Die Bewertung des Projekts war positiv.",
+    "example_translation": "The evaluation of the project was positive.",
+    "pronunciation": "beh-vehr-toong"
+  },
+  {
+    "word": "umsetzung",
+    "meaning": "implementation",
+    "example": "Die Umsetzung des Plans beginnt nächste Woche.",
+    "example_translation": "The implementation of the plan begins next week.",
+    "pronunciation": "oom-set-soong"
+  },
+  {
+    "word": "zielsetzung",
+    "meaning": "goal setting",
+    "example": "Klare Zielsetzung ist entscheidend für den Erfolg.",
+    "example_translation": "Clear goal setting is crucial for success.",
+    "pronunciation": "tseel-zet-soong"
+  },
+  {
+    "word": "geschäftspartner",
+    "meaning": "business partner",
+    "example": "Mein Geschäftspartner ist sehr zuverlässig.",
+    "example_translation": "My business partner is very reliable.",
+    "pronunciation": "geh-shefts-part-ner"
+  },
+  {
+    "word": "marktanalyse",
+    "meaning": "market analysis",
+    "example": "Wir müssen eine gründliche Marktanalyse durchführen.",
+    "example_translation": "We must conduct a thorough market analysis.",
+    "pronunciation": "markt-ana-ly-zeh"
+  },
+  {
+    "word": "konkurrenz",
+    "meaning": "competition",
+    "example": "Die Konkurrenz auf dem Markt ist sehr stark.",
+    "example_translation": "The competition in the market is very strong.",
+    "pronunciation": "kon-koor-enz"
+  },
+  {
+    "word": "investition",
+    "meaning": "investment",
+    "example": "Die Investition hat sich gelohnt.",
+    "example_translation": "The investment was worth it.",
+    "pronunciation": "in-ves-ti-tsyon"
+  },
+  {
+    "word": "innovation",
+    "meaning": "innovation",
+    "example": "Technologische Innovationen sind der Schlüssel zur Zukunft.",
+    "example_translation": "Technological innovations are the key to the future.",
+    "pronunciation": "in-no-va-tsyon"
+  },
+  {
+    "word": "digitalisierung",
+    "meaning": "digitization",
+    "example": "Digitalisierung verändert die Arbeitswelt.",
+    "example_translation": "Digitization is changing the world of work.",
+    "pronunciation": "di-gi-ta-li-see-roong"
+  },
+  {
+    "word": "zusammenarbeit",
+    "meaning": "collaboration",
+    "example": "Gute Zusammenarbeit ist wichtig für den Erfolg.",
+    "example_translation": "Good collaboration is important for success.",
+    "pronunciation": "tsoo-zam-men-ar-byt"
+  },
+  {
+    "word": "verfügbarkeit",
+    "meaning": "availability",
+    "example": "Die Verfügbarkeit des Produkts ist begrenzt.",
+    "example_translation": "The availability of the product is limited.",
+    "pronunciation": "fer-fewg-bar-kite"
+  },
+  {
+    "word": "nachhaltigkeit",
+    "meaning": "sustainability",
+    "example": "Nachhaltigkeit spielt eine zentrale Rolle.",
+    "example_translation": "Sustainability plays a central role.",
+    "pronunciation": "nakh-halt-ik-kite"
+  },
+  {
+    "word": "vertraulichkeit",
+    "meaning": "confidentiality",
+    "example": "Vertraulichkeit ist in diesem Vertrag sehr wichtig.",
+    "example_translation": "Confidentiality is very important in this contract.",
+    "pronunciation": "fer-trow-likh-kite"
+  },
+  {
+    "word": "genehmigung",
+    "meaning": "approval / permit",
+    "example": "Für den Bau brauchen wir eine Genehmigung.",
+    "example_translation": "We need a permit for the construction.",
+    "pronunciation": "geh-nay-mee-goong"
+  },
+  {
+    "word": "vereinbarung",
+    "meaning": "agreement",
+    "example": "Die Parteien haben eine Vereinbarung getroffen.",
+    "example_translation": "The parties have reached an agreement.",
+    "pronunciation": "fehr-ine-bar-oong"
+  },
+  {
+    "word": "zustimmung",
+    "meaning": "consent / approval",
+    "example": "Wir brauchen die Zustimmung des Vorstands.",
+    "example_translation": "We need the board's approval.",
+    "pronunciation": "tsoo-shtim-oong"
+  },
+  {
+    "word": "mitteilung",
+    "meaning": "notification",
+    "example": "Wir haben eine Mitteilung vom Amt erhalten.",
+    "example_translation": "We received a notification from the office.",
+    "pronunciation": "mit-ty-loong"
+  },
+  {
+    "word": "besprechung",
+    "meaning": "meeting / discussion",
+    "example": "Die Besprechung findet morgen statt.",
+    "example_translation": "The meeting takes place tomorrow.",
+    "pronunciation": "beh-shprekh-oong"
+  },
+  {
+    "word": "weiterbildung",
+    "meaning": "further education",
+    "example": "Weiterbildung ist wichtig für die Karriere.",
+    "example_translation": "Further education is important for the career.",
+    "pronunciation": "vy-ter-bil-doong"
+  },
+  {
+    "word": "zuständigkeit",
+    "meaning": "responsibility / jurisdiction",
+    "example": "Das liegt nicht in meiner Zuständigkeit.",
+    "example_translation": "That is not within my responsibility.",
+    "pronunciation": "tsoo-shten-dikh-kite"
+  },
+  {
+    "word": "einschränkung",
+    "meaning": "restriction",
+    "example": "Es gibt neue Einschränkungen wegen der Pandemie.",
+    "example_translation": "There are new restrictions due to the pandemic.",
+    "pronunciation": "ine-shrank-oong"
+  },
+  {
+    "word": "anwendung",
+    "meaning": "application (of something)",
+    "example": "Die Anwendung dieser Methode ist effektiv.",
+    "example_translation": "The application of this method is effective.",
+    "pronunciation": "an-ven-doong"
+  },
+  {
+    "word": "datenschutz",
+    "meaning": "data protection",
+    "example": "Datenschutz ist in Europa sehr streng.",
+    "example_translation": "Data protection is very strict in Europe.",
+    "pronunciation": "da-ten-shoots"
+  },
+  {
+    "word": "kundenbindung",
+    "meaning": "customer retention",
+    "example": "Kundenbindung ist für Unternehmen entscheidend.",
+    "example_translation": "Customer retention is crucial for businesses.",
+    "pronunciation": "koon-den-bin-doong"
+  },
+  {
+    "word": "gewinnspanne",
+    "meaning": "profit margin",
+    "example": "Die Gewinnspanne war dieses Jahr höher.",
+    "example_translation": "The profit margin was higher this year.",
+    "pronunciation": "geh-vin-shpan-neh"
+  },
+  {
+    "word": "wettbewerbsfähig",
+    "meaning": "competitive",
+    "example": "Unsere Produkte sind international wettbewerbsfähig.",
+    "example_translation": "Our products are internationally competitive.",
+    "pronunciation": "vet-be-verbz-fay-ikh"
+  },
+  {
+    "word": "überschuss",
+    "meaning": "surplus",
+    "example": "Das Unternehmen erzielte einen Überschuss.",
+    "example_translation": "The company achieved a surplus.",
+    "pronunciation": "oo-ber-shoos"
+  },
+  {
+    "word": "bilanz",
+    "meaning": "balance sheet",
+    "example": "Die Bilanz wurde am Jahresende veröffentlicht.",
+    "example_translation": "The balance sheet was published at the end of the year.",
+    "pronunciation": "bee-lants"
+  },
+  {
+    "word": "rückmeldung",
+    "meaning": "feedback",
+    "example": "Wir warten auf Ihre Rückmeldung.",
+    "example_translation": "We are waiting for your feedback.",
+    "pronunciation": "rük-mel-doong"
+  },
+  {
+    "word": "bedingung",
+    "meaning": "condition / requirement",
+    "example": "Die Bedingungen sind im Vertrag festgelegt.",
+    "example_translation": "The conditions are specified in the contract.",
+    "pronunciation": "beh-ding-oong"
+  },
+  {
+    "word": "förderung",
+    "meaning": "promotion / support",
+    "example": "Das Projekt erhält staatliche Förderung.",
+    "example_translation": "The project receives government support.",
+    "pronunciation": "fer-de-roong"
+  },
+  {
+    "word": "zustand",
+    "meaning": "condition / state",
+    "example": "Das Auto ist in gutem Zustand.",
+    "example_translation": "The car is in good condition.",
+    "pronunciation": "tsoo-shtand"
+  },
+  {
+    "word": "strategie",
+    "meaning": "strategy",
+    "example": "Unsere Marketingstrategie war sehr erfolgreich.",
+    "example_translation": "Our marketing strategy was very successful.",
+    "pronunciation": "shtrah-teh-ghee"
+  },
+  {
+    "word": "lösungsvorschlag",
+    "meaning": "proposed solution",
+    "example": "Wir benötigen einen Lösungsvorschlag bis morgen.",
+    "example_translation": "We need a proposed solution by tomorrow.",
+    "pronunciation": "luh-zungs-for-shlahg"
+  },
+  {
+    "word": "verfügbarkeit",
+    "meaning": "availability",
+    "example": "Die Verfügbarkeit hängt von der Nachfrage ab.",
+    "example_translation": "The availability depends on demand.",
+    "pronunciation": "fer-fewg-bar-kite"
+  },
+  {
+    "word": "konferenz",
+    "meaning": "conference",
+    "example": "Die Konferenz findet in Berlin statt.",
+    "example_translation": "The conference is taking place in Berlin.",
+    "pronunciation": "kon-fe-renz"
+  },
+  {
+    "word": "ausschreibung",
+    "meaning": "tender / announcement",
+    "example": "Die Ausschreibung wurde gestern veröffentlicht.",
+    "example_translation": "The tender was published yesterday.",
+    "pronunciation": "ows-shry-boong"
+  },
+  {
+    "word": "zielgruppe",
+    "meaning": "target group",
+    "example": "Unsere Zielgruppe sind junge Erwachsene.",
+    "example_translation": "Our target group is young adults.",
+    "pronunciation": "tseel-groop-peh"
+  },
+  {
+    "word": "wertschöpfung",
+    "meaning": "value creation",
+    "example": "Wertschöpfung ist ein wichtiger Wirtschaftsfaktor.",
+    "example_translation": "Value creation is an important economic factor.",
+    "pronunciation": "vehrt-shöp-foong"
+  },
+  {
+    "word": "relevanz",
+    "meaning": "relevance",
+    "example": "Diese Information hat große Relevanz.",
+    "example_translation": "This information has great relevance.",
+    "pronunciation": "re-le-vants"
+  },
+  {
+    "word": "bescheinigung",
+    "meaning": "certificate",
+    "example": "Ich brauche eine Bescheinigung vom Arzt.",
+    "example_translation": "I need a certificate from the doctor.",
+    "pronunciation": "beh-shy-nig-oong"
+  },
+  {
+    "word": "voraussetzung",
+    "meaning": "prerequisite / requirement",
+    "example": "Deutschkenntnisse sind eine Voraussetzung.",
+    "example_translation": "Knowledge of German is a prerequisite.",
+    "pronunciation": "foh-raus-set-soong"
+  },
+  {
+    "word": "unterstützung",
+    "meaning": "support / assistance",
+    "example": "Vielen Dank für Ihre Unterstützung.",
+    "example_translation": "Thank you for your support.",
+    "pronunciation": "oon-ter-shtoot-soong"
+  },
+  {
+    "word": "verbindlichkeit",
+    "meaning": "commitment / obligation",
+    "example": "Verbindlichkeit ist eine zentrale Eigenschaft im Geschäftsleben.",
+    "example_translation": "Commitment is a key trait in business life.",
+    "pronunciation": "fer-bint-likh-kite"
+  },
+  {
+    "word": "transparenz",
+    "meaning": "transparency",
+    "example": "Transparenz ist für das Vertrauen der Kunden essenziell.",
+    "example_translation": "Transparency is essential for customer trust.",
+    "pronunciation": "trans-pa-renz"
+  },
+  {
+    "word": "nachweis",
+    "meaning": "proof / verification",
+    "example": "Ein Nachweis der Qualifikation ist erforderlich.",
+    "example_translation": "Proof of qualification is required.",
+    "pronunciation": "nakh-vise"
+  },
+  {
+    "word": "gewährleistung",
+    "meaning": "warranty / guarantee",
+    "example": "Die Gewährleistung beträgt zwei Jahre.",
+    "example_translation": "The warranty period is two years.",
+    "pronunciation": "geh-vehr-ly-stoong"
+  },
+  {
+    "word": "zugänglichkeit",
+    "meaning": "accessibility",
+    "example": "Die Zugänglichkeit für Menschen mit Behinderung ist wichtig.",
+    "example_translation": "Accessibility for people with disabilities is important.",
+    "pronunciation": "tsoo-geng-likh-kite"
+  },
+  {
+    "word": "arbeitsrecht",
+    "meaning": "labor law",
+    "example": "Das Arbeitsrecht schützt die Arbeitnehmer.",
+    "example_translation": "Labor law protects employees.",
+    "pronunciation": "ar-bytz-rekht"
+  },
+  {
+    "word": "kompetenz",
+    "meaning": "competence",
+    "example": "Fachliche Kompetenz ist ein entscheidender Erfolgsfaktor.",
+    "example_translation": "Technical competence is a key success factor.",
+    "pronunciation": "kom-pe-tenz"
+  },
+  {
+    "word": "rückerstattung",
+    "meaning": "reimbursement",
+    "example": "Die Rückerstattung erfolgt innerhalb von 14 Tagen.",
+    "example_translation": "The reimbursement will occur within 14 days.",
+    "pronunciation": "rük-er-shta-toong"
+  },
+  {
+    "word": "verhältnis",
+    "meaning": "relationship / ratio",
+    "example": "Das Verhältnis zwischen Aufwand und Ertrag stimmt.",
+    "example_translation": "The ratio between effort and return is balanced.",
+    "pronunciation": "fer-helt-niss"
+  },
+  {
+    "word": "herausforderung",
+    "meaning": "challenge",
+    "example": "Die Globalisierung stellt eine große Herausforderung dar.",
+    "example_translation": "Globalization presents a major challenge.",
+    "pronunciation": "heh-rouss-for-de-roong"
+  },
+  {
+    "word": "zustandekommen",
+    "meaning": "realization / coming about",
+    "example": "Das Projekt kam durch internationale Zusammenarbeit zustande.",
+    "example_translation": "The project came about through international collaboration.",
+    "pronunciation": "tsoo-shtan-de-kom-men"
+  },
+  {
+    "word": "leistungsfähigkeit",
+    "meaning": "performance capacity",
+    "example": "Die Leistungsfähigkeit des Teams ist beeindruckend.",
+    "example_translation": "The team's performance capacity is impressive.",
+    "pronunciation": "ly-stoongs-fay-ik-kite"
+  },
+  {
+    "word": "rechtsgrundlage",
+    "meaning": "legal basis",
+    "example": "Die Maßnahme hat keine rechtliche Grundlage.",
+    "example_translation": "The measure has no legal basis.",
+    "pronunciation": "rekhts-groond-lah-geh"
+  },
+  {
+    "word": "einspruch",
+    "meaning": "objection / appeal",
+    "example": "Sie legten Einspruch gegen die Entscheidung ein.",
+    "example_translation": "They filed an objection to the decision.",
+    "pronunciation": "ine-shprookh"
+  },
+  {
+    "word": "überwachung",
+    "meaning": "monitoring / surveillance",
+    "example": "Die Überwachung erfolgt durch Kameras.",
+    "example_translation": "The monitoring is done via cameras.",
+    "pronunciation": "oo-ber-vakh-oong"
+  },
+  {
+    "word": "rechtsverordnung",
+    "meaning": "legal regulation",
+    "example": "Die neue Rechtsverordnung tritt ab sofort in Kraft.",
+    "example_translation": "The new legal regulation comes into effect immediately.",
+    "pronunciation": "rekhts-fer-ort-noong"
+  },
+  {
+    "word": "auswirkung",
+    "meaning": "effect / impact",
+    "example": "Die Pandemie hatte gravierende Auswirkungen.",
+    "example_translation": "The pandemic had serious effects.",
+    "pronunciation": "ows-vir-koong"
+  },
+  {
+    "word": "verallgemeinerung",
+    "meaning": "generalization",
+    "example": "Diese Verallgemeinerung ist nicht zulässig.",
+    "example_translation": "This generalization is not permissible.",
+    "pronunciation": "fer-al-guh-my-ner-oong"
+  },
+  {
+    "word": "verunsicherung",
+    "meaning": "uncertainty / insecurity",
+    "example": "Die Nachrichten sorgten für Verunsicherung.",
+    "example_translation": "The news caused uncertainty.",
+    "pronunciation": "fer-oon-zee-khe-roong"
+  },
+  {
+    "word": "qualitätsstandard",
+    "meaning": "quality standard",
+    "example": "Unsere Produkte erfüllen hohe Qualitätsstandards.",
+    "example_translation": "Our products meet high-quality standards.",
+    "pronunciation": "kva-li-taits-shtan-dart"
+  },
+  {
+    "word": "bewusstseinsbildung",
+    "meaning": "awareness-building",
+    "example": "Bewusstseinsbildung ist Teil unserer Kampagne.",
+    "example_translation": "Awareness-building is part of our campaign.",
+    "pronunciation": "beh-voost-zines-bil-doong"
+  },
+  {
+    "word": "dienstleistung",
+    "meaning": "service",
+    "example": "Unsere Dienstleistung ist kundenorientiert.",
+    "example_translation": "Our service is customer-oriented.",
+    "pronunciation": "deents-ly-stoong"
+  },
+  {
+    "word": "unternehmensethik",
+    "meaning": "corporate ethics",
+    "example": "Unternehmensethik spielt eine immer größere Rolle.",
+    "example_translation": "Corporate ethics plays an increasingly important role.",
+    "pronunciation": "oon-ter-nay-mens-ay-tik"
+  },
+  {
+    "word": "ressourcenschonung",
+    "meaning": "resource conservation",
+    "example": "Ressourcenschonung ist ein Ziel nachhaltiger Entwicklung.",
+    "example_translation": "Resource conservation is a goal of sustainable development.",
+    "pronunciation": "reh-soor-tsen-sho-nung"
+  },
+  {
+    "word": "wertorientierung",
+    "meaning": "value orientation",
+    "example": "Wertorientierung ist Teil der Unternehmenskultur.",
+    "example_translation": "Value orientation is part of corporate culture.",
+    "pronunciation": "vehrt-or-ee-en-teer-oong"
+  },
+  {
+    "word": "verfahrensweise",
+    "meaning": "procedure / approach",
+    "example": "Die Verfahrensweise ist noch nicht festgelegt.",
+    "example_translation": "The procedure has not yet been determined.",
+    "pronunciation": "fer-fahr-ens-vy-zeh"
+  },
+  {
+    "word": "zielvereinbarung",
+    "meaning": "goal agreement",
+    "example": "Wir haben eine Zielvereinbarung mit dem Team getroffen.",
+    "example_translation": "We made a goal agreement with the team.",
+    "pronunciation": "tseel-fair-ine-bar-oong"
+  },
+  {
+    "word": "handlungsfähigkeit",
+    "meaning": "capacity to act",
+    "example": "Die Regierung zeigt Handlungsfähigkeit in der Krise.",
+    "example_translation": "The government shows capacity to act in the crisis.",
+    "pronunciation": "hand-loongs-fay-ik-kite"
+  },
+  {
+    "word": "rahmenbedingungen",
+    "meaning": "framework conditions",
+    "example": "Die Rahmenbedingungen müssen angepasst werden.",
+    "example_translation": "The framework conditions need to be adjusted.",
+    "pronunciation": "rah-men-beh-ding-oongen"
+  },
+  {
+    "word": "bedarfsanalyse",
+    "meaning": "needs analysis",
+    "example": "Eine Bedarfsanalyse wird regelmäßig durchgeführt.",
+    "example_translation": "A needs analysis is conducted regularly.",
+    "pronunciation": "beh-darfs-ana-ly-zeh"
+  },
+  {
+    "word": "wirtschaftlichkeit",
+    "meaning": "economic efficiency",
+    "example": "Die Wirtschaftlichkeit des Verfahrens ist entscheidend.",
+    "example_translation": "The economic efficiency of the process is crucial.",
+    "pronunciation": "virt-shafts-likh-kite"
+  },
+  {
+    "word": "zugriffsrecht",
+    "meaning": "access right",
+    "example": "Nur Administratoren haben das Zugriffsrecht.",
+    "example_translation": "Only administrators have access rights.",
+    "pronunciation": "tsoo-griffs-rekht"
+  },
+  {
+    "word": "sicherheitsvorschrift",
+    "meaning": "safety regulation",
+    "example": "Alle Sicherheitsvorschriften müssen beachtet werden.",
+    "example_translation": "All safety regulations must be observed.",
+    "pronunciation": "zi-kher-hyts-for-shrift"
+  },
+  {
+    "word": "betriebsergebnis",
+    "meaning": "operating result",
+    "example": "Das Betriebsergebnis war besser als erwartet.",
+    "example_translation": "The operating result was better than expected.",
+    "pronunciation": "beh-treebs-er-gehb-niss"
+  },
+  {
+    "word": "wachstumsstrategie",
+    "meaning": "growth strategy",
+    "example": "Unsere Wachstumsstrategie umfasst neue Märkte.",
+    "example_translation": "Our growth strategy includes new markets.",
+    "pronunciation": "vakhs-tooms-shtra-teh-ghee"
+  },
+  {
+    "word": "entscheidungsfindung",
+    "meaning": "decision making",
+    "example": "Transparenz ist wichtig für die Entscheidungsfindung.",
+    "example_translation": "Transparency is important for decision-making.",
+    "pronunciation": "ent-shy-doongs-fin-doong"
+  },
+  {
+    "word": "interessensvertretung",
+    "meaning": "interest representation",
+    "example": "Gewerkschaften sind eine Form der Interessensvertretung.",
+    "example_translation": "Unions are a form of interest representation.",
+    "pronunciation": "in-ter-es-sens-fer-treh-toong"
+  },
+  {
+    "word": "verpflichtungserklärung",
+    "meaning": "declaration of commitment",
+    "example": "Bitte unterzeichnen Sie die Verpflichtungserklärung.",
+    "example_translation": "Please sign the declaration of commitment.",
+    "pronunciation": "fer-plikt-oongs-er-klair-oong"
+  },
+  {
+    "word": "arbeitsverhältnis",
+    "meaning": "employment relationship",
+    "example": "Das Arbeitsverhältnis wird aufgelöst.",
+    "example_translation": "The employment relationship is being terminated.",
+    "pronunciation": "ar-bytz-fer-helt-niss"
+  },
+  {
+    "word": "rechtsstreitigkeit",
+    "meaning": "legal dispute",
+    "example": "Die Firma ist in mehrere Rechtsstreitigkeiten verwickelt.",
+    "example_translation": "The company is involved in several legal disputes.",
+    "pronunciation": "rekhts-shtry-tik-kite"
+  },
+  {
+    "word": "kompetenzentwicklung",
+    "meaning": "competence development",
+    "example": "Kompetenzentwicklung ist Teil des Trainingsprogramms.",
+    "example_translation": "Competence development is part of the training program.",
+    "pronunciation": "kom-pe-tenz-ent-vik-loong"
+  },
+  {
+    "word": "arbeitszeitregelung",
+    "meaning": "working time regulation",
+    "example": "Die Arbeitszeitregelung wurde überarbeitet.",
+    "example_translation": "The working time regulation was revised.",
+    "pronunciation": "ar-bytz-tsyt-ray-gel-oong"
+  },
+  {
+    "word": "verantwortungsträger",
+    "meaning": "person in charge",
+    "example": "Der Verantwortungsträger wurde benannt.",
+    "example_translation": "The person in charge was named.",
+    "pronunciation": "fer-ant-vort-oongs-tray-ger"
+  },
+  {
+    "word": "tarifvertrag",
+    "meaning": "collective agreement",
+    "example": "Der neue Tarifvertrag wurde akzeptiert.",
+    "example_translation": "The new collective agreement was accepted.",
+    "pronunciation": "ta-reef-fer-trahk"
+  }
+
+]

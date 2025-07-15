@@ -1,0 +1,832 @@
+[
+  {
+    "word": "bonjour",
+    "meaning": "hello",
+    "example": "Bonjour, comment allez-vous ?",
+    "example_translation": "Hello, how are you?",
+    "pronunciation": "bohn-zhoor"
+     
+  },
+  {
+    "word": "merci",
+    "meaning": "thank you",
+    "example": "Merci pour votre aide.",
+    "example_translation": "Thank you for your help.",
+    "pronunciation": "mehr-see"
+     
+  },
+  {
+    "word": "s'il vous plaît",
+    "meaning": "please",
+    "example": "Un café, s'il vous plaît.",
+    "example_translation": "A coffee, please.",
+    "pronunciation": "seel voo pleh"
+     
+  },
+  {
+    "word": "oui",
+    "meaning": "yes",
+    "example": "Oui, j'aime ça.",
+    "example_translation": "Yes, I like it.",
+    "pronunciation": "wee"
+     
+  },
+  {
+    "word": "non",
+    "meaning": "no",
+    "example": "Non, merci.",
+    "example_translation": "No, thank you.",
+    "pronunciation": "noh"
+     
+  },
+  {
+    "word": "au revoir",
+    "meaning": "goodbye",
+    "example": "Au revoir et bonne journée.",
+    "example_translation": "Goodbye and have a nice day.",
+    "pronunciation": "oh ruh-vwahr"
+     
+  },
+  {
+    "word": "excusez-moi",
+    "meaning": "excuse me",
+    "example": "Excusez-moi, où sont les toilettes ?",
+    "example_translation": "Excuse me, where are the restrooms?",
+    "pronunciation": "ehk-skew-zay mwah"
+     
+  },
+  {
+    "word": "je ne comprends pas",
+    "meaning": "I don’t understand",
+    "example": "Désolé, je ne comprends pas.",
+    "example_translation": "Sorry, I don’t understand.",
+    "pronunciation": "zhuh nuh kom-prohn pah"
+     
+  },
+  {
+    "word": "parlez-vous anglais",
+    "meaning": "do you speak English",
+    "example": "Parlez-vous anglais ?",
+    "example_translation": "Do you speak English?",
+    "pronunciation": "par-lay voo ahn-glay"
+     
+  },
+  {
+    "word": "toilettes",
+    "meaning": "restrooms",
+    "example": "Où sont les toilettes ?",
+    "example_translation": "Where are the restrooms?",
+    "pronunciation": "twa-let"
+     
+  },
+  {
+    "word": "eau",
+    "meaning": "water",
+    "example": "Je voudrais de l'eau.",
+    "example_translation": "I would like some water.",
+    "pronunciation": "oh"
+     
+  },
+  {
+    "word": "pain",
+    "meaning": "bread",
+    "example": "J’achète du pain frais.",
+    "example_translation": "I buy fresh bread.",
+    "pronunciation": "pan"
+     
+  },
+  {
+    "word": "fromage",
+    "meaning": "cheese",
+    "example": "Le fromage est délicieux.",
+    "example_translation": "The cheese is delicious.",
+    "pronunciation": "froh-mahzh"
+     
+  },
+  {
+    "word": "vin",
+    "meaning": "wine",
+    "example": "Je voudrais un verre de vin.",
+    "example_translation": "I would like a glass of wine.",
+    "pronunciation": "van"
+     
+  },
+  {
+    "word": "ticket",
+    "meaning": "ticket",
+    "example": "Je voudrais un ticket, s'il vous plaît.",
+    "example_translation": "I would like a ticket, please.",
+    "pronunciation": "tee-kay"
+     
+  },
+  {
+    "word": "train",
+    "meaning": "train",
+    "example": "Où est la gare de train ?",
+    "example_translation": "Where is the train station?",
+    "pronunciation": "tranh"
+     
+  },
+  {
+    "word": "aéroport",
+    "meaning": "airport",
+    "example": "L’aéroport est loin d’ici.",
+    "example_translation": "The airport is far from here.",
+    "pronunciation": "ah-eh-ro-por"
+     
+  },
+  {
+    "word": "hôtel",
+    "meaning": "hotel",
+    "example": "Je cherche un hôtel.",
+    "example_translation": "I'm looking for a hotel.",
+    "pronunciation": "oh-tel"
+     
+  },
+  {
+    "word": "chambre",
+    "meaning": "room",
+    "example": "Avez-vous une chambre disponible ?",
+    "example_translation": "Do you have a room available?",
+    "pronunciation": "shahm-bruh"
+     
+  },
+  {
+    "word": "clés",
+    "meaning": "keys",
+    "example": "Voici vos clés.",
+    "example_translation": "Here are your keys.",
+    "pronunciation": "klay"
+     
+  },
+  {
+    "word": "bonjour",
+    "meaning": "hello",
+    "example": "Bonjour, je m'appelle Marie.",
+    "example_translation": "Hello, my name is Marie.",
+    "pronunciation": "bohn-zhoor"
+     
+  },
+  {
+    "word": "adresse",
+    "meaning": "address",
+    "example": "Quelle est votre adresse ?",
+    "example_translation": "What is your address?",
+    "pronunciation": "ah-dress"
+     
+  },
+  {
+    "word": "carte",
+    "meaning": "map",
+    "example": "Avez-vous une carte ?",
+    "example_translation": "Do you have a map?",
+    "pronunciation": "kart"
+     
+  },
+  {
+    "word": "nourriture",
+    "meaning": "food",
+    "example": "La nourriture est excellente ici.",
+    "example_translation": "The food is excellent here.",
+    "pronunciation": "noo-ree-toor"
+     
+  },
+  {
+    "word": "boisson",
+    "meaning": "drink",
+    "example": "Quelle boisson préférez-vous ?",
+    "example_translation": "Which drink do you prefer?",
+    "pronunciation": "bwah-sohn"
+     
+  },
+  {
+    "word": "menu",
+    "meaning": "menu",
+    "example": "Puis-je voir le menu ?",
+    "example_translation": "Can I see the menu?",
+    "pronunciation": "meh-nu"
+     
+  },
+  {
+    "word": "addition",
+    "meaning": "bill",
+    "example": "L’addition, s’il vous plaît.",
+    "example_translation": "The bill, please.",
+    "pronunciation": "ah-dee-syon"
+     
+  },
+  {
+    "word": "entrée",
+    "meaning": "starter",
+    "example": "Je prends une entrée.",
+    "example_translation": "I'll take a starter.",
+    "pronunciation": "on-tray"
+     
+  },
+  {
+    "word": "plat",
+    "meaning": "dish",
+    "example": "Quel est le plat du jour ?",
+    "example_translation": "What is the dish of the day?",
+    "pronunciation": "plah"
+     
+  },
+  {
+    "word": "désert",
+    "meaning": "dessert",
+    "example": "Je voudrais un dessert.",
+    "example_translation": "I would like a dessert.",
+    "pronunciation": "deh-sehr"
+     
+  },
+  {
+    "word": "ticket de métro",
+    "meaning": "metro ticket",
+    "example": "Où acheter un ticket de métro ?",
+    "example_translation": "Where to buy a metro ticket?",
+    "pronunciation": "tee-kay duh meh-tro"
+     
+  },
+  {
+    "word": "taxi",
+    "meaning": "taxi",
+    "example": "Je prends un taxi.",
+    "example_translation": "I am taking a taxi.",
+    "pronunciation": "tak-see"
+     
+  },
+  {
+    "word": "bus",
+    "meaning": "bus",
+    "example": "Où est l’arrêt de bus ?",
+    "example_translation": "Where is the bus stop?",
+    "pronunciation": "boos"
+     
+  },
+  {
+    "word": "horaire",
+    "meaning": "schedule",
+    "example": "Quel est l’horaire du train ?",
+    "example_translation": "What is the train schedule?",
+    "pronunciation": "oh-rehr"
+     
+  },
+  {
+    "word": "matin",
+    "meaning": "morning",
+    "example": "Je pars demain matin.",
+    "example_translation": "I’m leaving tomorrow morning.",
+    "pronunciation": "mah-tahn"
+     
+  },
+  {
+    "word": "nuit",
+    "meaning": "night",
+    "example": "Bonne nuit !",
+    "example_translation": "Good night!",
+    "pronunciation": "nwee"
+     
+  },
+  {
+    "word": "jour",
+    "meaning": "day",
+    "example": "Bonne journée !",
+    "example_translation": "Have a good day!",
+    "pronunciation": "zhoor"
+     
+  },
+  {
+    "word": "ami",
+    "meaning": "friend",
+    "example": "C’est mon ami.",
+    "example_translation": "He is my friend.",
+    "pronunciation": "ah-mee"
+     
+  },
+  {
+    "word": "famille",
+    "meaning": "family",
+    "example": "Ma famille est ici.",
+    "example_translation": "My family is here.",
+    "pronunciation": "fa-mee"
+     
+  },
+  {
+    "word": "malade",
+    "meaning": "sick",
+    "example": "Je suis malade.",
+    "example_translation": "I am sick.",
+    "pronunciation": "mah-lahd"
+     
+  },
+  {
+    "word": "pharmacie",
+    "meaning": "pharmacy",
+    "example": "Où est la pharmacie la plus proche ?",
+    "example_translation": "Where is the nearest pharmacy?",
+    "pronunciation": "far-mah-see"
+     
+  },
+  {
+    "word": "bonjournée",
+    "meaning": "have a good day",
+    "example": "Passez une bonne journée !",
+    "example_translation": "Have a good day!",
+    "pronunciation": "bohn-zhoor-nay"
+  },
+  {
+    "word": "bonjoursoirée",
+    "meaning": "have a good evening",
+    "example": "Bonne soirée à vous !",
+    "example_translation": "Have a good evening!",
+    "pronunciation": "bohn swah-ray"
+  },
+  {
+    "word": "bagage",
+    "meaning": "luggage",
+    "example": "Où puis-je récupérer mes bagages ?",
+    "example_translation": "Where can I collect my luggage?",
+    "pronunciation": "bah-gahzh"
+  },
+  {
+    "word": "réservation",
+    "meaning": "reservation",
+    "example": "J'ai une réservation au nom de Martin.",
+    "example_translation": "I have a reservation under the name Martin.",
+    "pronunciation": "ray-zehr-vah-syon"
+  },
+  {
+    "word": "disponible",
+    "meaning": "available",
+    "example": "Avez-vous une table disponible ?",
+    "example_translation": "Do you have an available table?",
+    "pronunciation": "dees-poh-nee-bluh"
+  },
+  {
+    "word": "serveur",
+    "meaning": "waiter",
+    "example": "Le serveur est très sympathique.",
+    "example_translation": "The waiter is very friendly.",
+    "pronunciation": "sehr-vuhr"
+  },
+  {
+    "word": "commande",
+    "meaning": "order",
+    "example": "Je voudrais passer une commande.",
+    "example_translation": "I would like to place an order.",
+    "pronunciation": "koh-mand"
+  },
+  {
+    "word": "glace",
+    "meaning": "ice cream",
+    "example": "Je vais prendre une glace au chocolat.",
+    "example_translation": "I’ll have a chocolate ice cream.",
+    "pronunciation": "glass"
+  },
+  {
+    "word": "traduction",
+    "meaning": "translation",
+    "example": "Avez-vous une traduction en anglais ?",
+    "example_translation": "Do you have a translation in English?",
+    "pronunciation": "tra-dook-syon"
+  },
+  {
+    "word": "location",
+    "meaning": "rental",
+    "example": "Nous avons une voiture de location.",
+    "example_translation": "We have a rental car.",
+    "pronunciation": "loh-kah-syon"
+  },
+  {
+    "word": "station-service",
+    "meaning": "gas station",
+    "example": "La prochaine station-service est à 10 km.",
+    "example_translation": "The next gas station is 10 km away.",
+    "pronunciation": "sta-syon sehr-vees"
+  },
+  {
+    "word": "gendarmerie",
+    "meaning": "police station (rural)",
+    "example": "La gendarmerie est juste après la mairie.",
+    "example_translation": "The police station is just after the town hall.",
+    "pronunciation": "zhahn-dar-muh-ree"
+  },
+  {
+    "word": "ambulance",
+    "meaning": "ambulance",
+    "example": "Appelez une ambulance immédiatement !",
+    "example_translation": "Call an ambulance immediately!",
+    "pronunciation": "ahm-byoo-lahns"
+  },
+  {
+    "word": "carte bancaire",
+    "meaning": "bank card",
+    "example": "Puis-je payer par carte bancaire ?",
+    "example_translation": "Can I pay with a bank card?",
+    "pronunciation": "kart bahn-kehr"
+  },
+  {
+    "word": "taux de change",
+    "meaning": "exchange rate",
+    "example": "Quel est le taux de change actuel ?",
+    "example_translation": "What is the current exchange rate?",
+    "pronunciation": "toh duh shahnzh"
+  },
+  {
+    "word": "facture",
+    "meaning": "invoice",
+    "example": "Pouvez-vous me donner une facture ?",
+    "example_translation": "Can you give me an invoice?",
+    "pronunciation": "fak-toor"
+  },
+  {
+    "word": "employé",
+    "meaning": "employee",
+    "example": "L’employé m’a bien aidé.",
+    "example_translation": "The employee helped me well.",
+    "pronunciation": "om-plwah-yay"
+  },
+  {
+    "word": "entretien",
+    "meaning": "interview",
+    "example": "J’ai un entretien demain matin.",
+    "example_translation": "I have an interview tomorrow morning.",
+    "pronunciation": "on-treh-tyehn"
+  },
+  {
+    "word": "conférence",
+    "meaning": "conference",
+    "example": "Je participe à une conférence internationale.",
+    "example_translation": "I'm attending an international conference.",
+    "pronunciation": "kon-fay-rahns"
+  },
+  {
+    "word": "investissement",
+    "meaning": "investment",
+    "example": "C’est un bon investissement à long terme.",
+    "example_translation": "It’s a good long-term investment.",
+    "pronunciation": "ehn-ves-tees-mohn"
+  },
+  {
+    "word": "culturel",
+    "meaning": "cultural",
+    "example": "Le musée est un centre culturel important.",
+    "example_translation": "The museum is an important cultural center.",
+    "pronunciation": "kool-too-rel"
+  },
+  {
+    "word": "événement",
+    "meaning": "event",
+    "example": "Il y a un événement ce week-end.",
+    "example_translation": "There’s an event this weekend.",
+    "pronunciation": "eh-veh-neh-mohn"
+  },
+  {
+    "word": "artisanat",
+    "meaning": "craftsmanship",
+    "example": "Le marché propose de l’artisanat local.",
+    "example_translation": "The market offers local crafts.",
+    "pronunciation": "ar-tee-zah-nah"
+  },
+  {
+    "word": "visite guidée",
+    "meaning": "guided tour",
+    "example": "La visite guidée commence à 14 heures.",
+    "example_translation": "The guided tour starts at 2 PM.",
+    "pronunciation": "vee-zeet gee-day"
+  },
+  {
+    "word": "monument",
+    "meaning": "monument",
+    "example": "Ce monument est classé historique.",
+    "example_translation": "This monument is classified as historical.",
+    "pronunciation": "moh-nyoo-mahn"
+  },
+  {
+    "word": "gastronomie",
+    "meaning": "gastronomy",
+    "example": "La gastronomie française est célèbre dans le monde entier.",
+    "example_translation": "French gastronomy is famous around the world.",
+    "pronunciation": "gah-stroh-noh-mee"
+  },
+  {
+    "word": "réclamation",
+    "meaning": "complaint",
+    "example": "Je voudrais faire une réclamation.",
+    "example_translation": "I would like to file a complaint.",
+    "pronunciation": "ray-klah-mah-syon"
+  },
+  {
+    "word": "retard",
+    "meaning": "delay",
+    "example": "Notre vol a du retard.",
+    "example_translation": "Our flight is delayed.",
+    "pronunciation": "ruh-tar"
+  },
+  {
+    "word": "douane",
+    "meaning": "customs",
+    "example": "Ils m’ont posé des questions à la douane.",
+    "example_translation": "They asked me questions at customs.",
+    "pronunciation": "dwan"
+  },
+  {
+    "word": "itinéraire",
+    "meaning": "itinerary",
+    "example": "Voici notre itinéraire pour le voyage.",
+    "example_translation": "Here is our itinerary for the trip.",
+    "pronunciation": "ee-tee-neh-rehr"
+  },
+
+  {
+    "word": "urgence",
+    "meaning": "emergency",
+    "example": "C’est une urgence !",
+    "example_translation": "It’s an emergency!",
+    "pronunciation": "ur-zhahns"
+     
+  },
+  {
+    "word": "police",
+    "meaning": "police",
+    "example": "Appelez la police !",
+    "example_translation": "Call the police!",
+    "pronunciation": "poh-lees"
+     
+  },
+  {
+    "word": "hôpital",
+    "meaning": "hospital",
+    "example": "Emmenez-moi à l’hôpital.",
+    "example_translation": "Take me to the hospital.",
+    "pronunciation": "oh-pee-tal"
+     
+  },
+  {
+    "word": "argent",
+    "meaning": "money",
+    "example": "J’ai besoin d’argent.",
+    "example_translation": "I need money.",
+    "pronunciation": "ar-zhahn"
+     
+  },
+  {
+    "word": "banque",
+    "meaning": "bank",
+    "example": "La banque est ouverte ?",
+    "example_translation": "Is the bank open?",
+    "pronunciation": "bonk"
+     
+  },
+  {
+    "word": "ouvert",
+    "meaning": "open",
+    "example": "Le magasin est ouvert.",
+    "example_translation": "The shop is open.",
+    "pronunciation": "oo-vehr"
+     
+  },
+  {
+    "word": "fermé",
+    "meaning": "closed",
+    "example": "Le restaurant est fermé.",
+    "example_translation": "The restaurant is closed.",
+    "pronunciation": "fehr-may"
+     
+  },
+  {
+    "word": "heure",
+    "meaning": "time",
+    "example": "Quelle heure est-il ?",
+    "example_translation": "What time is it?",
+    "pronunciation": "ur"
+     
+  },
+  {
+    "word": "maintenant",
+    "meaning": "now",
+    "example": "Je dois y aller maintenant.",
+    "example_translation": "I have to go now.",
+    "pronunciation": "meh-tuh-nahn"
+     
+  },
+  {
+    "word": "demain",
+    "meaning": "tomorrow",
+    "example": "Nous partons demain.",
+    "example_translation": "We leave tomorrow.",
+    "pronunciation": "duh-mahn"
+     
+  },
+  
+  {
+    "word": "réception",
+    "meaning": "reception",
+    "example": "La réception est au rez-de-chaussée.",
+    "example_translation": "The reception is on the ground floor.",
+    "pronunciation": "ray-sep-syon"
+  },
+  {
+    "word": "ascenseur",
+    "meaning": "elevator",
+    "example": "L’ascenseur est en panne.",
+    "example_translation": "The elevator is out of order.",
+    "pronunciation": "ah-sahn-suhr"
+  },
+  {
+    "word": "étage",
+    "meaning": "floor (level)",
+    "example": "Ma chambre est au troisième étage.",
+    "example_translation": "My room is on the third floor.",
+    "pronunciation": "ay-tahzh"
+  },
+  {
+    "word": "clé USB",
+    "meaning": "USB stick",
+    "example": "J’ai sauvegardé les fichiers sur une clé USB.",
+    "example_translation": "I saved the files on a USB stick.",
+    "pronunciation": "clay oo-ess-bay"
+  },
+  {
+    "word": "ordinateur portable",
+    "meaning": "laptop",
+    "example": "Mon ordinateur portable est neuf.",
+    "example_translation": "My laptop is new.",
+    "pronunciation": "or-dee-nah-teur por-tah-bluh"
+  },
+  {
+    "word": "wifi",
+    "meaning": "Wi-Fi",
+    "example": "Le wifi est gratuit dans l’hôtel.",
+    "example_translation": "Wi-Fi is free in the hotel.",
+    "pronunciation": "wee-fee"
+  },
+  {
+    "word": "mot de passe",
+    "meaning": "password",
+    "example": "Quel est le mot de passe du wifi ?",
+    "example_translation": "What is the Wi-Fi password?",
+    "pronunciation": "moh duh pass"
+  },
+  {
+    "word": "impression",
+    "meaning": "printing",
+    "example": "Puis-je faire une impression ici ?",
+    "example_translation": "Can I print something here?",
+    "pronunciation": "am-preh-syon"
+  },
+  {
+    "word": "réunion",
+    "meaning": "meeting",
+    "example": "J’ai une réunion importante à 10h.",
+    "example_translation": "I have an important meeting at 10 AM.",
+    "pronunciation": "ray-oo-nyon"
+  },
+  {
+    "word": "facturation",
+    "meaning": "billing",
+    "example": "La facturation se fait en ligne.",
+    "example_translation": "Billing is done online.",
+    "pronunciation": "fak-tu-rah-syon"
+  },
+  {
+    "word": "retour",
+    "meaning": "return",
+    "example": "Le vol retour est prévu pour samedi.",
+    "example_translation": "The return flight is scheduled for Saturday.",
+    "pronunciation": "ruh-toor"
+  },
+  {
+    "word": "dommages",
+    "meaning": "damages",
+    "example": "Y a-t-il eu des dommages pendant le transport ?",
+    "example_translation": "Was there any damage during transport?",
+    "pronunciation": "doh-mahzh"
+  },
+  {
+    "word": "climatisation",
+    "meaning": "air conditioning",
+    "example": "La climatisation ne fonctionne pas.",
+    "example_translation": "The air conditioning is not working.",
+    "pronunciation": "kleem-ah-tee-zah-syon"
+  },
+  {
+    "word": "chauffage",
+    "meaning": "heating",
+    "example": "Le chauffage est trop fort.",
+    "example_translation": "The heating is too strong.",
+    "pronunciation": "shoh-fahzh"
+  },
+  {
+    "word": "distributeur",
+    "meaning": "vending machine/ATM",
+    "example": "Le distributeur ne prend pas ma carte.",
+    "example_translation": "The vending machine doesn't take my card.",
+    "pronunciation": "dees-tree-bu-teur"
+  },
+  {
+    "word": "embouteillage",
+    "meaning": "traffic jam",
+    "example": "Il y a un grand embouteillage en centre-ville.",
+    "example_translation": "There is a big traffic jam downtown.",
+    "pronunciation": "om-boo-tay-yahzh"
+  },
+  {
+    "word": "itinéraire",
+    "meaning": "itinerary",
+    "example": "L’itinéraire passe par Lyon.",
+    "example_translation": "The itinerary goes through Lyon.",
+    "pronunciation": "ee-tee-neh-rehr"
+  },
+  {
+    "word": "stationnement",
+    "meaning": "parking",
+    "example": "Le stationnement est interdit ici.",
+    "example_translation": "Parking is prohibited here.",
+    "pronunciation": "stah-syon-nuh-mohn"
+  },
+  {
+    "word": "remboursement",
+    "meaning": "refund",
+    "example": "Je demande un remboursement.",
+    "example_translation": "I am requesting a refund.",
+    "pronunciation": "rohm-boors-mohn"
+  },
+  {
+    "word": "douleur",
+    "meaning": "pain",
+    "example": "J’ai une douleur au dos.",
+    "example_translation": "I have back pain.",
+    "pronunciation": "doo-leur"
+  },
+  {
+    "word": "pièce d'identité",
+    "meaning": "ID card",
+    "example": "Montrez-moi votre pièce d'identité, s’il vous plaît.",
+    "example_translation": "Please show me your ID.",
+    "pronunciation": "pyess dee-don-tee-tay"
+  },
+  {
+    "word": "assurance",
+    "meaning": "insurance",
+    "example": "Avez-vous une assurance voyage ?",
+    "example_translation": "Do you have travel insurance?",
+    "pronunciation": "ah-syoo-rahns"
+  },
+  {
+    "word": "perdu",
+    "meaning": "lost",
+    "example": "J’ai perdu mon passeport.",
+    "example_translation": "I lost my passport.",
+    "pronunciation": "pehr-doo"
+  },
+  {
+    "word": "valise",
+    "meaning": "suitcase",
+    "example": "Ma valise est trop lourde.",
+    "example_translation": "My suitcase is too heavy.",
+    "pronunciation": "vah-leez"
+  },
+  {
+    "word": "bureau de change",
+    "meaning": "currency exchange office",
+    "example": "Y a-t-il un bureau de change à proximité ?",
+    "example_translation": "Is there a currency exchange office nearby?",
+    "pronunciation": "byoo-ro duh shonzh"
+  },
+  {
+    "word": "vol direct",
+    "meaning": "direct flight",
+    "example": "C’est un vol direct pour Paris.",
+    "example_translation": "It’s a direct flight to Paris.",
+    "pronunciation": "vol dee-rekt"
+  },
+  {
+    "word": "location de voiture",
+    "meaning": "car rental",
+    "example": "La location de voiture est à gauche.",
+    "example_translation": "The car rental is on the left.",
+    "pronunciation": "loh-kah-syon duh vwah-tyur"
+  },
+  {
+    "word": "heure d’arrivée",
+    "meaning": "arrival time",
+    "example": "L’heure d’arrivée est prévue à 15h.",
+    "example_translation": "The arrival time is scheduled for 3 PM.",
+    "pronunciation": "ur dah-ree-vay"
+  },
+  {
+    "word": "retardé",
+    "meaning": "delayed",
+    "example": "Le vol est retardé à cause du brouillard.",
+    "example_translation": "The flight is delayed because of the fog.",
+    "pronunciation": "ruh-tar-day"
+  },
+  {
+    "word": "annulé",
+    "meaning": "cancelled",
+    "example": "Le concert est annulé.",
+    "example_translation": "The concert is cancelled.",
+    "pronunciation": "ah-nyoo-lay"
+  }
+]

@@ -1,0 +1,65 @@
+<!-- <!DOCTYPE html>
+<html>
+  <head>
+    <title><h1>Langlearner</h1></title>
+    <link rel="stylesheet" href="popup.css">
+
+  </head>
+  <body>
+    <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+
+    <a href="dashboard.html" target="_blank" class="dashboard-link">Open Word History</a>
+
+    <h2>Word of the Day</h2>
+    <hr>
+    <div id="content"></div>
+    <select id="languageSelector">
+      <option value="spanish">Spanish</option>
+      <option value="french">French</option>
+      <option value="hindi">Hindi</option>
+      <option value="german">German</option>
+      <option value="japanese">Japanese</option>
+      <option value="korean">Korean</option>
+      <option value="kannada">Kannada</option>
+    </select>
+    <hr>
+    <p><b>Note:</b><i> Any word you view irrespective of the language gets saved in the Word History! Keep revising and Happy Learning!</i></p>
+    <script src="popup.js"></script>
+    <script src="dashboard.js"></script>
+  </body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Langlearner</title>
+  <link rel="stylesheet" href="popup.css" />
+  <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+</head>
+<body>
+  <div class="container mt-3">
+    <a href="dashboard.html" target="_blank" class="dashboard-link btn btn-primary mb-3">Open Word History</a>
+
+    <h2>Word of the Day</h2>
+    <hr>
+
+    <!-- Word content -->
+    <div id="content" class="mb-3"></div>
+
+    <!-- New searchable language input -->
+    <label for="languageInput"><b>Choose Language:</b></label>
+    <input type="text" id="languageInput" placeholder="Type a language..." class="form-control" autocomplete="off" />
+    <ul id="languageDropdown" class="dropdown"></ul>
+
+    <hr>
+    <p class="small text-muted">
+      <b>Note:</b> <i>Any word you view, irrespective of the language, gets saved in the Word History!<br>Keep revising and Happy Learning!</i>
+    </p>
+  </div>
+
+  <script src="popup.js"></script>
+  <script src="dashboard.js"></script>
+</body>
+</html>

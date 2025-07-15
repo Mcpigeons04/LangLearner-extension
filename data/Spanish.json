@@ -1,0 +1,959 @@
+[
+  {
+    "word": "hola",
+    "meaning": "hello",
+    "example": "Hola, ¿cómo estás?",
+    "example_translation": "Hello, how are you?",
+    "pronunciation": "oh-lah"
+  },
+  {
+    "word": "gracias",
+    "meaning": "thank you",
+    "example": "Muchas gracias por tu ayuda.",
+    "example_translation": "Thank you very much for your help.",
+    "pronunciation": "grah-syahs"
+  },
+  {
+    "word": "adiós",
+    "meaning": "goodbye",
+    "example": "Adiós, hasta mañana.",
+    "example_translation": "Goodbye, see you tomorrow.",
+    "pronunciation": "ah-dee-ohs"
+  },
+  {
+    "word": "por favor",
+    "meaning": "please",
+    "example": "Una cerveza, por favor.",
+    "example_translation": "A beer, please.",
+    "pronunciation": "por fah-bor"
+  },
+  {
+    "word": "sí",
+    "meaning": "yes",
+    "example": "Sí, me gusta mucho.",
+    "example_translation": "Yes, I like it a lot.",
+    "pronunciation": "see"
+  },
+  {
+    "word": "no",
+    "meaning": "no",
+    "example": "No quiero eso.",
+    "example_translation": "I don't want that.",
+    "pronunciation": "noh"
+  },
+  {
+    "word": "baño",
+    "meaning": "bathroom",
+    "example": "¿Dónde está el baño?",
+    "example_translation": "Where is the bathroom?",
+    "pronunciation": "bah-nyoh"
+  },
+  {
+    "word": "agua",
+    "meaning": "water",
+    "example": "Quiero un vaso de agua.",
+    "example_translation": "I want a glass of water.",
+    "pronunciation": "ah-gwah"
+  },
+  {
+    "word": "comida",
+    "meaning": "food",
+    "example": "La comida está deliciosa.",
+    "example_translation": "The food is delicious.",
+    "pronunciation": "koh-mee-dah"
+  },
+  {
+    "word": "amigo",
+    "meaning": "friend",
+    "example": "Mi amigo vive en Madrid.",
+    "example_translation": "My friend lives in Madrid.",
+    "pronunciation": "ah-mee-goh"
+  },
+  {
+    "word": "familia",
+    "meaning": "family",
+    "example": "Mi familia es muy grande.",
+    "example_translation": "My family is very big.",
+    "pronunciation": "fah-mee-lyah"
+  },
+  {
+    "word": "cultura",
+    "meaning": "culture",
+    "example": "La cultura española es fascinante.",
+    "example_translation": "Spanish culture is fascinating.",
+    "pronunciation": "cool-too-rah"
+  },
+  {
+    "word": "fiesta",
+    "meaning": "party",
+    "example": "Vamos a una fiesta esta noche.",
+    "example_translation": "We're going to a party tonight.",
+    "pronunciation": "fyehs-tah"
+  },
+
+  {
+    "word": "itinerario",
+    "meaning": "itinerary",
+    "example": "Nuestro itinerario incluye tres ciudades.",
+    "example_translation": "Our itinerary includes three cities.",
+    "pronunciation": "ee-tee-neh-rah-ryo"
+  },
+  {
+    "word": "aduana",
+    "meaning": "customs (border)",
+    "example": "Pasamos por la aduana sin problemas.",
+    "example_translation": "We passed through customs without any problems.",
+    "pronunciation": "ah-dwah-nah"
+  },
+  {
+    "word": "equipaje",
+    "meaning": "luggage",
+    "example": "Mi equipaje fue perdido en el aeropuerto.",
+    "example_translation": "My luggage was lost at the airport.",
+    "pronunciation": "eh-kee-pah-heh"
+  },
+  {
+    "word": "reserva",
+    "meaning": "reservation",
+    "example": "Tengo una reserva para esta noche.",
+    "example_translation": "I have a reservation for tonight.",
+    "pronunciation": "reh-sehr-bah"
+  },
+  {
+    "word": "negocio",
+    "meaning": "business",
+    "example": "Tiene su propio negocio de diseño.",
+    "example_translation": "She has her own design business.",
+    "pronunciation": "neh-goh-syo"
+  },
+  {
+    "word": "factura",
+    "meaning": "invoice",
+    "example": "La factura debe pagarse antes del viernes.",
+    "example_translation": "The invoice must be paid before Friday.",
+    "pronunciation": "fahk-too-rah"
+  },
+  {
+    "word": "reunión",
+    "meaning": "meeting",
+    "example": "Tenemos una reunión importante a las 10.",
+    "example_translation": "We have an important meeting at 10.",
+    "pronunciation": "reh-oo-nyon"
+  },
+  {
+    "word": "folklore",
+    "meaning": "folklore",
+    "example": "El folklore mexicano es muy colorido.",
+    "example_translation": "Mexican folklore is very colorful.",
+    "pronunciation": "folk-loh-reh"
+  },
+  {
+    "word": "artesanía",
+    "meaning": "handicraft",
+    "example": "Compramos artesanía local en el mercado.",
+    "example_translation": "We bought local handicrafts at the market.",
+    "pronunciation": "ahr-teh-sah-nee-ah"
+  },
+  {
+    "word": "museo",
+    "meaning": "museum",
+    "example": "El museo está cerrado los lunes.",
+    "example_translation": "The museum is closed on Mondays.",
+    "pronunciation": "moo-seh-oh"
+  },
+  {
+    "word": "senderismo",
+    "meaning": "hiking",
+    "example": "El senderismo es mi pasatiempo favorito.",
+    "example_translation": "Hiking is my favorite hobby.",
+    "pronunciation": "sen-deh-rees-moh"
+  },
+  {
+    "word": "fotografía",
+    "meaning": "photography",
+    "example": "Estudia fotografía digital.",
+    "example_translation": "He studies digital photography.",
+    "pronunciation": "fo-to-grah-fee-ah"
+  },
+  {
+    "word": "idioma local",
+    "meaning": "local language",
+    "example": "Me gusta aprender el idioma local cuando viajo.",
+    "example_translation": "I like to learn the local language when I travel.",
+    "pronunciation": "ee-dyo-mah lo-kal"
+  },
+  {
+    "word": "gastronomía",
+    "meaning": "gastronomy / cuisine",
+    "example": "La gastronomía peruana es famosa.",
+    "example_translation": "Peruvian cuisine is famous.",
+    "pronunciation": "gahs-troh-noh-mee-ah"
+  },
+  {
+    "word": "alojamiento",
+    "meaning": "accommodation",
+    "example": "Buscamos un alojamiento económico.",
+    "example_translation": "We are looking for an affordable accommodation.",
+    "pronunciation": "ah-loh-hah-myen-to"
+  },
+
+  {
+    "word": "mercado",
+    "meaning": "market",
+    "example": "El mercado abre a las 9.",
+    "example_translation": "The market opens at 9.",
+    "pronunciation": "mehr-kah-doh"
+  },
+  {
+    "word": "dinero",
+    "meaning": "money",
+    "example": "No tengo suficiente dinero.",
+    "example_translation": "I don't have enough money.",
+    "pronunciation": "dee-neh-roh"
+  },
+  {
+    "word": "tiempo",
+    "meaning": "weather/time",
+    "example": "El tiempo está perfecto hoy.",
+    "example_translation": "The weather is perfect today.",
+    "pronunciation": "tyem-poh"
+  },
+  {
+    "word": "calle",
+    "meaning": "street",
+    "example": "Mi hotel está en esta calle.",
+    "example_translation": "My hotel is on this street.",
+    "pronunciation": "kah-yeh"
+  },
+  {
+    "word": "ciudad",
+    "meaning": "city",
+    "example": "La ciudad es muy bonita.",
+    "example_translation": "The city is very beautiful.",
+    "pronunciation": "see-yoo-dahd"
+  },
+  {
+    "word": "país",
+    "meaning": "country",
+    "example": "Este país tiene mucha historia.",
+    "example_translation": "This country has a lot of history.",
+    "pronunciation": "pah-ees"
+  },
+  {
+    "word": "playa",
+    "meaning": "beach",
+    "example": "Vamos a la playa mañana.",
+    "example_translation": "We are going to the beach tomorrow.",
+    "pronunciation": "plah-yah"
+  },
+  {
+    "word": "palabra",
+    "meaning": "please",
+    "example": "Una cerveza, por favor_575.",
+    "example_translation": "A beer, please.",
+    "pronunciation": "por fah-bor"
+  },
+  
+  {
+    "word": "alojamiento",
+    "meaning": "accommodation",
+    "example": "Estamos buscando un alojamiento económico cerca del centro.",
+    "example_translation": "We are looking for affordable accommodation near the city center.",
+    "pronunciation": "ah-loh-hah-myen-to"
+  },
+  {
+    "word": "reservación",
+    "meaning": "reservation",
+    "example": "Hice una reservación para dos noches en el hotel.",
+    "example_translation": "I made a reservation for two nights at the hotel.",
+    "pronunciation": "reh-sehr-bah-syon"
+  },
+  {
+    "word": "habitación doble",
+    "meaning": "double room",
+    "example": "Queremos una habitación doble con vista al mar.",
+    "example_translation": "We want a double room with a sea view.",
+    "pronunciation": "ah-bee-tah-syon doh-bleh"
+  },
+  {
+    "word": "recepción",
+    "meaning": "reception",
+    "example": "La recepción está abierta las 24 horas.",
+    "example_translation": "The reception is open 24 hours.",
+    "pronunciation": "reh-sep-syon"
+  },
+  {
+    "word": "mochila",
+    "meaning": "backpack",
+    "example": "Mi mochila está llena de provisiones.",
+    "example_translation": "My backpack is full of supplies.",
+    "pronunciation": "moh-chee-lah"
+  },
+  {
+    "word": "carretera",
+    "meaning": "highway/road",
+    "example": "Tomamos la carretera hacia el norte.",
+    "example_translation": "We took the highway heading north.",
+    "pronunciation": "kah-reh-teh-rah"
+  },
+  {
+    "word": "alquiler de coches",
+    "meaning": "car rental",
+    "example": "Buscamos una empresa de alquiler de coches cerca del aeropuerto.",
+    "example_translation": "We are looking for a car rental company near the airport.",
+    "pronunciation": "al-kee-lehr de koh-ches"
+  },
+  {
+    "word": "pasaporte",
+    "meaning": "passport",
+    "example": "Necesito renovar mi pasaporte antes del viaje.",
+    "example_translation": "I need to renew my passport before the trip.",
+    "pronunciation": "pah-sah-por-teh"
+  },
+  {
+    "word": "tarjeta de turista",
+    "meaning": "tourist card",
+    "example": "Algunos países requieren una tarjeta de turista.",
+    "example_translation": "Some countries require a tourist card.",
+    "pronunciation": "tar-heh-tah de too-rees-tah"
+  },
+  {
+    "word": "consulado",
+    "meaning": "consulate",
+    "example": "Debemos ir al consulado para obtener ayuda.",
+    "example_translation": "We need to go to the consulate to get help.",
+    "pronunciation": "kon-soo-lah-doh"
+  },
+  {
+    "word": "boleto de ida y vuelta",
+    "meaning": "round-trip ticket",
+    "example": "Compramos boletos de ida y vuelta para ahorrar dinero.",
+    "example_translation": "We bought round-trip tickets to save money.",
+    "pronunciation": "bo-leh-to de ee-dah ee bwel-tah"
+  },
+  {
+    "word": "escalera mecánica",
+    "meaning": "escalator",
+    "example": "La escalera mecánica está al final del pasillo.",
+    "example_translation": "The escalator is at the end of the hallway.",
+    "pronunciation": "es-kah-leh-rah meh-kah-nee-kah"
+  },
+  {
+    "word": "asiento de ventanilla",
+    "meaning": "window seat",
+    "example": "Prefiero un asiento de ventanilla para ver el paisaje.",
+    "example_translation": "I prefer a window seat to see the landscape.",
+    "pronunciation": "ah-syen-toh de ven-tah-nee-yah"
+  },
+  {
+    "word": "aduanas",
+    "meaning": "customs",
+    "example": "Pasamos mucho tiempo en aduanas.",
+    "example_translation": "We spent a long time at customs.",
+    "pronunciation": "ah-dwah-nahs"
+  },
+  {
+    "word": "demora",
+    "meaning": "delay",
+    "example": "El vuelo tiene una demora de dos horas.",
+    "example_translation": "The flight has a two-hour delay.",
+    "pronunciation": "deh-moh-rah"
+  },
+  {
+    "word": "despegue",
+    "meaning": "takeoff",
+    "example": "El avión está listo para el despegue.",
+    "example_translation": "The plane is ready for takeoff.",
+    "pronunciation": "des-peh-geh"
+  },
+  {
+    "word": "aterrizaje",
+    "meaning": "landing",
+    "example": "El aterrizaje fue suave.",
+    "example_translation": "The landing was smooth.",
+    "pronunciation": "ah-teh-rree-sah-heh"
+  },
+  {
+    "word": "pensión",
+    "meaning": "guesthouse",
+    "example": "Nos quedamos en una pensión familiar.",
+    "example_translation": "We stayed in a family-run guesthouse.",
+    "pronunciation": "pen-syon"
+  },
+  {
+    "word": "sendero",
+    "meaning": "trail/path",
+    "example": "El sendero lleva a una cascada oculta.",
+    "example_translation": "The trail leads to a hidden waterfall.",
+    "pronunciation": "sen-deh-ro"
+  },
+  {
+    "word": "excursión guiada",
+    "meaning": "guided tour",
+    "example": "Reservamos una excursión guiada por el casco antiguo.",
+    "example_translation": "We booked a guided tour of the old town.",
+    "pronunciation": "eks-koor-syon gee-ah-dah"
+  },
+  {
+    "word": "balneario",
+    "meaning": "spa resort",
+    "example": "Pasamos el fin de semana en un balneario de lujo.",
+    "example_translation": "We spent the weekend at a luxury spa resort.",
+    "pronunciation": "bal-neh-ah-ryo"
+  },
+  {
+    "word": "vistas panorámicas",
+    "meaning": "panoramic views",
+    "example": "Desde la cima hay vistas panorámicas increíbles.",
+    "example_translation": "From the top, there are incredible panoramic views.",
+    "pronunciation": "vees-tas pah-no-rah-mee-kas"
+  },
+  {
+    "word": "folleto",
+    "meaning": "brochure",
+    "example": "El folleto incluye todas las atracciones del parque.",
+    "example_translation": "The brochure includes all the park's attractions.",
+    "pronunciation": "fo-yeh-to"
+  },
+  {
+    "word": "guía de viaje",
+    "meaning": "travel guide",
+    "example": "Compramos una guía de viaje antes de salir.",
+    "example_translation": "We bought a travel guide before leaving.",
+    "pronunciation": "gee-ah de vyah-heh"
+  },
+  {
+    "word": "hora de embarque",
+    "meaning": "boarding time",
+    "example": "La hora de embarque es a las 7:15.",
+    "example_translation": "Boarding time is at 7:15.",
+    "pronunciation": "oh-rah de em-bar-keh"
+  },
+  {
+    "word": "seguro de viaje",
+    "meaning": "travel insurance",
+    "example": "Es recomendable contratar un seguro de viaje.",
+    "example_translation": "It’s advisable to get travel insurance.",
+    "pronunciation": "seh-goo-ro de vyah-heh"
+  },
+  {
+    "word": "itinerario",
+    "meaning": "itinerary",
+    "example": "Nuestro itinerario incluye tres ciudades.",
+    "example_translation": "Our itinerary includes three cities.",
+    "pronunciation": "ee-tee-neh-rah-ryo"
+  },
+  {
+    "word": "mal de altura",
+    "meaning": "altitude sickness",
+    "example": "Tomó pastillas para el mal de altura.",
+    "example_translation": "He took pills for altitude sickness.",
+    "pronunciation": "mahl de al-too-rah"
+  },
+  {
+    "word": "mochilero",
+    "meaning": "backpacker",
+    "example": "El mochilero viaja con bajo presupuesto.",
+    "example_translation": "The backpacker travels on a low budget.",
+    "pronunciation": "moh-chee-leh-ro"
+  },
+  {
+    "word": "casco antiguo",
+    "meaning": "old town",
+    "example": "El casco antiguo es muy pintoresco.",
+    "example_translation": "The old town is very picturesque.",
+    "pronunciation": "kas-ko an-tee-gwoh"
+  },
+  
+  {
+    "word": "perro",
+    "meaning": "dog",
+    "example": "El perro duerme en la cama.",
+    "example_translation": "The dog sleeps on the bed.",
+    "pronunciation": "peh-rro"
+  },
+  {
+    "word": "llave",
+    "meaning": "key",
+    "example": "Perdí la llave de la casa.",
+    "example_translation": "I lost the house key.",
+    "pronunciation": "yah-veh"
+  },
+  {
+    "word": "cielo",
+    "meaning": "sky",
+    "example": "El cielo está azul hoy.",
+    "example_translation": "The sky is blue today.",
+    "pronunciation": "syeh-lo"
+  },
+  {
+    "word": "pantalla",
+    "meaning": "screen",
+    "example": "La pantalla de mi computadora está rota.",
+    "example_translation": "My computer screen is broken.",
+    "pronunciation": "pahn-tah-yah"
+  },
+  {
+    "word": "respuesta",
+    "meaning": "answer",
+    "example": "No sé la respuesta correcta.",
+    "example_translation": "I don’t know the correct answer.",
+    "pronunciation": "rehs-pwehs-tah"
+  },
+  {
+    "word": "desarrollar",
+    "meaning": "to develop",
+    "example": "Queremos desarrollar una nueva aplicación.",
+    "example_translation": "We want to develop a new application.",
+    "pronunciation": "deh-sah-roh-yar"
+  },
+  {
+    "word": "medioambiente",
+    "meaning": "environment",
+    "example": "El medioambiente necesita protección urgente.",
+    "example_translation": "The environment needs urgent protection.",
+    "pronunciation": "meh-dyo-amb-yen-teh"
+  },
+  {
+    "word": "menú",
+    "meaning": "menu",
+    "example": "¿Puedo ver el menú, por favor?",
+    "example_translation": "Can I see the menu, please?",
+    "pronunciation": "meh-noo"
+  },
+  {
+    "word": "plato principal",
+    "meaning": "main course",
+    "example": "El plato principal es pescado a la plancha.",
+    "example_translation": "The main course is grilled fish.",
+    "pronunciation": "plah-toh preen-see-pal"
+  },
+  {
+    "word": "entrada",
+    "meaning": "starter/appetizer",
+    "example": "De entrada pedí una ensalada.",
+    "example_translation": "I ordered a salad as a starter.",
+    "pronunciation": "en-trah-dah"
+  },
+  {
+    "word": "postre",
+    "meaning": "dessert",
+    "example": "¿Qué hay de postre hoy?",
+    "example_translation": "What's for dessert today?",
+    "pronunciation": "pos-treh"
+  },
+  {
+    "word": "propina",
+    "meaning": "tip",
+    "example": "Dejamos una propina del diez por ciento.",
+    "example_translation": "We left a ten percent tip.",
+    "pronunciation": "pro-pee-nah"
+  },
+  {
+    "word": "camarero",
+    "meaning": "waiter",
+    "example": "El camarero fue muy amable.",
+    "example_translation": "The waiter was very friendly.",
+    "pronunciation": "kah-mah-reh-ro"
+  },
+  {
+    "word": "cuenta",
+    "meaning": "bill/check",
+    "example": "¿Nos puede traer la cuenta, por favor?",
+    "example_translation": "Can you bring us the bill, please?",
+    "pronunciation": "kwehn-tah"
+  },
+  {
+    "word": "empresa",
+    "meaning": "company",
+    "example": "Trabajo en una empresa tecnológica.",
+    "example_translation": "I work in a tech company.",
+    "pronunciation": "em-preh-sah"
+  },
+  {
+    "word": "negocio",
+    "meaning": "business",
+    "example": "Quiere iniciar su propio negocio.",
+    "example_translation": "He wants to start his own business.",
+    "pronunciation": "neh-goh-syo"
+  },
+  {
+    "word": "reunión",
+    "meaning": "meeting",
+    "example": "Tenemos una reunión con los inversores.",
+    "example_translation": "We have a meeting with the investors.",
+    "pronunciation": "reh-oo-nyon"
+  },
+  {
+    "word": "gerente",
+    "meaning": "manager",
+    "example": "La gerente aprobó el proyecto.",
+    "example_translation": "The manager approved the project.",
+    "pronunciation": "heh-ren-teh"
+  },
+  {
+    "word": "empleado",
+    "meaning": "employee",
+    "example": "Los empleados reciben beneficios.",
+    "example_translation": "Employees receive benefits.",
+    "pronunciation": "em-pleh-ah-doh"
+  },
+  {
+    "word": "jefe",
+    "meaning": "boss",
+    "example": "Mi jefe es muy exigente.",
+    "example_translation": "My boss is very demanding.",
+    "pronunciation": "heh-feh"
+  },
+  {
+    "word": "asistente",
+    "meaning": "assistant",
+    "example": "La asistente organizó toda la agenda.",
+    "example_translation": "The assistant organized the entire schedule.",
+    "pronunciation": "ah-sees-ten-teh"
+  },
+  {
+    "word": "reporte",
+    "meaning": "report",
+    "example": "Debemos entregar el reporte mensual.",
+    "example_translation": "We need to submit the monthly report.",
+    "pronunciation": "reh-por-teh"
+  },
+  {
+    "word": "proyecto",
+    "meaning": "project",
+    "example": "El proyecto fue un éxito.",
+    "example_translation": "The project was a success.",
+    "pronunciation": "pro-yek-toh"
+  },
+  {
+    "word": "plan de negocios",
+    "meaning": "business plan",
+    "example": "El plan de negocios está bien estructurado.",
+    "example_translation": "The business plan is well structured.",
+    "pronunciation": "plan deh neh-goh-syos"
+  },
+  {
+    "word": "presupuesto",
+    "meaning": "budget",
+    "example": "Tenemos un presupuesto limitado.",
+    "example_translation": "We have a limited budget.",
+    "pronunciation": "preh-soo-pwes-to"
+  },
+  {
+    "word": "estrategia",
+    "meaning": "strategy",
+    "example": "Necesitamos una estrategia de marketing efectiva.",
+    "example_translation": "We need an effective marketing strategy.",
+    "pronunciation": "es-trah-teh-hee-ah"
+  },
+  {
+    "word": "objetivo",
+    "meaning": "goal/objective",
+    "example": "Nuestro objetivo es aumentar las ventas.",
+    "example_translation": "Our objective is to increase sales.",
+    "pronunciation": "ob-heh-tee-bo"
+  },
+  {
+    "word": "revisión",
+    "meaning": "review",
+    "example": "Haremos una revisión del desempeño.",
+    "example_translation": "We’ll do a performance review.",
+    "pronunciation": "reh-bee-syon"
+  },
+  {
+    "word": "informe",
+    "meaning": "report",
+    "example": "El informe financiero ya está listo.",
+    "example_translation": "The financial report is ready.",
+    "pronunciation": "een-for-meh"
+  },
+  {
+    "word": "sucursal",
+    "meaning": "branch (of a company)",
+    "example": "Abrieron una nueva sucursal en Madrid.",
+    "example_translation": "They opened a new branch in Madrid.",
+    "pronunciation": "soo-koohr-sahl"
+  },
+  {
+    "word": "contrato",
+    "meaning": "contract",
+    "example": "El contrato fue firmado por ambas partes.",
+    "example_translation": "The contract was signed by both parties.",
+    "pronunciation": "kon-trah-to"
+  },
+  {
+    "word": "reclutamiento",
+    "meaning": "recruitment",
+    "example": "El proceso de reclutamiento dura un mes.",
+    "example_translation": "The recruitment process lasts one month.",
+    "pronunciation": "reh-kloo-tah-myen-to"
+  },
+  {
+    "word": "currículum",
+    "meaning": "résumé/CV",
+    "example": "Adjuntó su currículum a la solicitud.",
+    "example_translation": "He attached his résumé to the application.",
+    "pronunciation": "koo-ree-koo-loom"
+  },
+  {
+    "word": "beneficios",
+    "meaning": "benefits",
+    "example": "Ofrecemos beneficios como seguro médico.",
+    "example_translation": "We offer benefits such as medical insurance.",
+    "pronunciation": "beh-neh-fee-syos"
+  },
+  {
+    "word": "sueldo",
+    "meaning": "salary",
+    "example": "Negociaron un mejor sueldo.",
+    "example_translation": "They negotiated a better salary.",
+    "pronunciation": "swel-doh"
+  },
+  {
+    "word": "vacaciones",
+    "meaning": "vacation/leave",
+    "example": "Tendremos vacaciones en agosto.",
+    "example_translation": "We’ll have vacation in August.",
+    "pronunciation": "bah-kah-syo-nes"
+  },
+  {
+    "word": "evaluación",
+    "meaning": "evaluation",
+    "example": "La evaluación anual se hará en diciembre.",
+    "example_translation": "The annual evaluation will take place in December.",
+    "pronunciation": "eh-bah-loo-ah-syon"
+  },
+  {
+    "word": "mercado",
+    "meaning": "market",
+    "example": "El mercado está en constante cambio.",
+    "example_translation": "The market is constantly changing.",
+    "pronunciation": "mehr-kah-doh"
+  },
+  {
+    "word": "competencia",
+    "meaning": "competition",
+    "example": "La competencia es muy fuerte en este sector.",
+    "example_translation": "The competition is very strong in this sector.",
+    "pronunciation": "kom-peh-ten-syah"
+  },
+  {
+    "word": "marca",
+    "meaning": "brand",
+    "example": "Nuestra marca es reconocida a nivel mundial.",
+    "example_translation": "Our brand is recognized worldwide.",
+    "pronunciation": "mahr-kah"
+  },
+  {
+    "word": "publicidad",
+    "meaning": "advertising",
+    "example": "Invertimos mucho en publicidad digital.",
+    "example_translation": "We invest a lot in digital advertising.",
+    "pronunciation": "poo-blee-see-dahd"
+  },
+  {
+    "word": "clientes",
+    "meaning": "clients",
+    "example": "Tenemos más de mil clientes activos.",
+    "example_translation": "We have over a thousand active clients.",
+    "pronunciation": "klee-en-tes"
+  },
+  {
+    "word": "proveedor",
+    "meaning": "supplier",
+    "example": "Nuestro proveedor es muy confiable.",
+    "example_translation": "Our supplier is very reliable.",
+    "pronunciation": "pro-beh-eh-dor"
+  },
+  {
+    "word": "factura",
+    "meaning": "invoice",
+    "example": "Enviaron la factura ayer.",
+    "example_translation": "They sent the invoice yesterday.",
+    "pronunciation": "fak-too-rah"
+  },
+  {
+    "word": "desayuno",
+    "meaning": "breakfast",
+    "example": "El desayuno está incluido en el precio.",
+    "example_translation": "Breakfast is included in the price.",
+    "pronunciation": "deh-sah-yoo-no"
+  },
+  {
+    "word": "almuerzo",
+    "meaning": "lunch",
+    "example": "Vamos a almorzar a las dos.",
+    "example_translation": "We’re going to have lunch at two.",
+    "pronunciation": "ahl-mwer-so"
+  },
+  {
+    "word": "cena",
+    "meaning": "dinner",
+    "example": "La cena comienza a las ocho.",
+    "example_translation": "Dinner starts at eight.",
+    "pronunciation": "seh-nah"
+  },
+  {
+    "word": "vegetariano",
+    "meaning": "vegetarian",
+    "example": "Tienen opciones vegetarianas en el menú.",
+    "example_translation": "They have vegetarian options on the menu.",
+    "pronunciation": "beh-heh-tah-ryah-no"
+  },
+  {
+    "word": "alérgico",
+    "meaning": "allergic",
+    "example": "Soy alérgico a los mariscos.",
+    "example_translation": "I’m allergic to seafood.",
+    "pronunciation": "ah-lehr-hee-koh"
+  },
+  {
+    "word": "agua con gas",
+    "meaning": "sparkling water",
+    "example": "Prefiero agua con gas, por favor.",
+    "example_translation": "I prefer sparkling water, please.",
+    "pronunciation": "ah-gwah kon gahs"
+  },
+  {
+    "word": "vino tinto",
+    "meaning": "red wine",
+    "example": "El vino tinto va bien con la carne.",
+    "example_translation": "Red wine goes well with meat.",
+    "pronunciation": "vee-no teen-to"
+  },
+  {
+    "word": "cerveza",
+    "meaning": "beer",
+    "example": "Una cerveza fría, por favor.",
+    "example_translation": "A cold beer, please.",
+    "pronunciation": "ser-beh-sah"
+  },
+  {
+    "word": "pan",
+    "meaning": "bread",
+    "example": "Sirvieron pan con aceite de oliva.",
+    "example_translation": "They served bread with olive oil.",
+    "pronunciation": "pahn"
+  },
+  {
+    "word": "sopa",
+    "meaning": "soup",
+    "example": "La sopa de tomate está deliciosa.",
+    "example_translation": "The tomato soup is delicious.",
+    "pronunciation": "soh-pah"
+  },
+  {
+    "word": "ensalada",
+    "meaning": "salad",
+    "example": "La ensalada lleva lechuga y tomates.",
+    "example_translation": "The salad has lettuce and tomatoes.",
+    "pronunciation": "en-sah-lah-dah"
+  },
+  {
+    "word": "mariscos",
+    "meaning": "seafood",
+    "example": "Los mariscos frescos son una especialidad local.",
+    "example_translation": "Fresh seafood is a local specialty.",
+    "pronunciation": "mah-rees-kos"
+  },
+  {
+    "word": "carne",
+    "meaning": "meat",
+    "example": "Prefiero carne a la parrilla.",
+    "example_translation": "I prefer grilled meat.",
+    "pronunciation": "kar-neh"
+  },
+  {
+    "word": "pescado",
+    "meaning": "fish",
+    "example": "¿El pescado viene con arroz?",
+    "example_translation": "Does the fish come with rice?",
+    "pronunciation": "pes-kah-doh"
+  },
+  {
+    "word": "arroz",
+    "meaning": "rice",
+    "example": "El arroz está bien cocido.",
+    "example_translation": "The rice is well cooked.",
+    "pronunciation": "ah-rohs"
+  },
+  {
+    "word": "fruta",
+    "meaning": "fruit",
+    "example": "De postre hay fruta fresca.",
+    "example_translation": "Fresh fruit is for dessert.",
+    "pronunciation": "froo-tah"
+  },
+  {
+    "word": "huevo",
+    "meaning": "egg",
+    "example": "¿Quieres un huevo frito o hervido?",
+    "example_translation": "Do you want a fried or boiled egg?",
+    "pronunciation": "weh-bo"
+  },
+  {
+    "word": "queso",
+    "meaning": "cheese",
+    "example": "Este queso es muy fuerte.",
+    "example_translation": "This cheese is very strong.",
+    "pronunciation": "keh-so"
+  },
+  {
+    "word": "aceite",
+    "meaning": "oil",
+    "example": "Agrega un poco de aceite de oliva.",
+    "example_translation": "Add a bit of olive oil.",
+    "pronunciation": "ah-sey-teh"
+  },
+  {
+    "word": "azúcar",
+    "meaning": "sugar",
+    "example": "No le pongas mucha azúcar al café.",
+    "example_translation": "Don’t add too much sugar to the coffee.",
+    "pronunciation": "ah-soo-kar"
+  },
+  {
+    "word": "sal",
+    "meaning": "salt",
+    "example": "La sopa necesita más sal.",
+    "example_translation": "The soup needs more salt.",
+    "pronunciation": "sahl"
+  },
+  {
+    "word": "picante",
+    "meaning": "spicy",
+    "example": "Este plato está muy picante.",
+    "example_translation": "This dish is very spicy.",
+    "pronunciation": "pee-kahn-teh"
+  },
+  {
+    "word": "sabroso",
+    "meaning": "tasty",
+    "example": "Todo estaba muy sabroso.",
+    "example_translation": "Everything was very tasty.",
+    "pronunciation": "sah-bro-so"
+  },
+  {
+    "word": "reconocimiento",
+    "meaning": "recognition",
+    "example": "Recibió reconocimiento por su trabajo.",
+    "example_translation": "He received recognition for his work.",
+    "pronunciation": "reh-koh-noh-thee-myen-to"
+  },
+  {
+    "word": "transparencia",
+    "meaning": "transparency",
+    "example": "La transparencia es clave en un gobierno democrático.",
+    "example_translation": "Transparency is key in a democratic government.",
+    "pronunciation": "trans-pah-ren-syah"
+  },
+  {
+    "word": "interdisciplinario",
+    "meaning": "interdisciplinary",
+    "example": "Trabajan en un proyecto interdisciplinario sobre energía.",
+    "example_translation": "They are working on an interdisciplinary project about energy.",
+    "pronunciation": "een-tehr-dees-ee-plee-nah-ryo"
+  }
+
+]

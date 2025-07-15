@@ -1,0 +1,97 @@
+html, body {
+  background-color: #0f0f0f !important;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 16px;
+  width: 320px;
+  min-height: 480px;
+  box-sizing: border-box;
+}
+
+/* Headings */
+h1, h2, h3,u,i,b ,p {
+  color: #ffffff !important;
+  margin-bottom: 12px;
+}
+
+/* Dashboard link */
+.dashboard-link {
+  display: inline-block;
+  background-color: #1bc6a7;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 6px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  margin-bottom: 16px;
+  transition: background 0.3s ease;
+}
+
+.dashboard-link:hover {
+  background-color: #1271b5;
+}
+
+/* Word card */
+.word-card {
+  background-color: #000;
+  color: #fff;
+  padding: 14px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.05);
+  margin-bottom: 16px;
+}
+
+.word-card b,
+.word-card i {
+  color: #ccc;
+}
+
+/* Dropdown..handles language selection button */
+select {
+  width: 70%;
+  padding: 8px 12px;
+  background-color: #1f1f1f;
+  color: #fff;
+  font-size: 14px;
+  border: 1px solid #555;
+  border-radius: 6px;
+  margin-top: 10px;
+  transition: background 0.3s, border 0.3s;
+}
+
+select:hover {
+  background-color: #2a2a2a;
+  border-color: #888;
+}
+
+select:focus {
+  border-color: #20a2e8;
+}
+
+
+
+.dropdown {
+  list-style: none;
+  padding: 0;
+  margin-top: 4px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  max-height: 150px;
+  overflow-y: auto;
+  position: absolute;
+  z-index: 1000;
+  width: 90%;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.dropdown li {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.dropdown li:hover {
+  background-color: #f1f1f1;
+}

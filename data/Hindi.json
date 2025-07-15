@@ -1,0 +1,928 @@
+[
+  {
+    "word": "नमस्ते",
+    "meaning": "hello",
+    "example": "नमस्ते, आप कैसे हैं?",
+    "example_translation": "Hello, how are you?",
+    "pronunciation": "namaste"
+  },
+  {
+    "word": "धन्यवाद",
+    "meaning": "thank you",
+    "example": "आपकी मदद के लिए धन्यवाद।",
+    "example_translation": "Thank you for your help.",
+    "pronunciation": "dhanyavaad"
+  },
+  {
+    "word": "कृपया",
+    "meaning": "please",
+    "example": "कृपया मुझे पानी दीजिए।",
+    "example_translation": "Please give me some water.",
+    "pronunciation": "kripya"
+  },
+  {
+    "word": "हाँ",
+    "meaning": "yes",
+    "example": "हाँ, मैं तैयार हूँ।",
+    "example_translation": "Yes, I am ready.",
+    "pronunciation": "haan"
+  },
+  {
+    "word": "नहीं",
+    "meaning": "no",
+    "example": "नहीं, मुझे नहीं चाहिए।",
+    "example_translation": "No, I don't want it.",
+    "pronunciation": "nahi"
+  },
+  {
+    "word": "माफ कीजिए",
+    "meaning": "excuse me / sorry",
+    "example": "माफ कीजिए, क्या आप दोहरा सकते हैं?",
+    "example_translation": "Excuse me, can you repeat that?",
+    "pronunciation": "maaf kijiye"
+  },
+  {
+    "word": "मुझे समझ नहीं आया",
+    "meaning": "I didn't understand",
+    "example": "क्षमा करें, मुझे समझ नहीं आया।",
+    "example_translation": "Sorry, I didn't understand.",
+    "pronunciation": "mujhe samajh nahi aaya"
+  },
+  {
+    "word": "क्या आप अंग्रेज़ी बोलते हैं?",
+    "meaning": "Do you speak English?",
+    "example": "क्या आप अंग्रेज़ी बोलते हैं?",
+    "example_translation": "Do you speak English?",
+    "pronunciation": "kya aap angrezi bolte hain?"
+  },
+  {
+    "word": "कहाँ",
+    "meaning": "where",
+    "example": "बाजार कहाँ है?",
+    "example_translation": "Where is the market?",
+    "pronunciation": "kahaan"
+  },
+  {
+    "word": "बाएं",
+    "meaning": "left",
+    "example": "बैंक बाएं तरफ़ है।",
+    "example_translation": "The bank is on the left side.",
+    "pronunciation": "baayen"
+  },
+  {
+    "word": "दाएं",
+    "meaning": "right",
+    "example": "होटल दाएं तरफ़ है।",
+    "example_translation": "The hotel is on the right side.",
+    "pronunciation": "daayen"
+  },
+  {
+    "word": "सीधा",
+    "meaning": "straight",
+    "example": "सीधा जाकर मुड़िए।",
+    "example_translation": "Go straight and turn.",
+    "pronunciation": "seedha"
+  },
+  {
+    "word": "पानी",
+    "meaning": "water",
+    "example": "क्या मुझे पानी मिल सकता है?",
+    "example_translation": "Can I get some water?",
+    "pronunciation": "paani"
+  },
+  {
+    "word": "खाना",
+    "meaning": "food",
+    "example": "मुझे भारतीय खाना पसंद है।",
+    "example_translation": "I like Indian food.",
+    "pronunciation": "khaana"
+  },
+  {
+    "word": "मूल्य",
+    "meaning": "price",
+    "example": "इस वस्तु का मूल्य क्या है?",
+    "example_translation": "What is the price of this item?",
+    "pronunciation": "moolya"
+  },
+  {
+    "word": "पैसे",
+    "meaning": "money",
+    "example": "मुझे पैसे निकालने हैं।",
+    "example_translation": "I need to withdraw money.",
+    "pronunciation": "paise"
+  },
+  {
+    "word": "बैंक",
+    "meaning": "bank",
+    "example": "नज़दीकी बैंक कहाँ है?",
+    "example_translation": "Where is the nearest bank?",
+    "pronunciation": "bank"
+  },
+  {
+    "word": "ट्रेन",
+    "meaning": "train",
+    "example": "अगली ट्रेन कब है?",
+    "example_translation": "When is the next train?",
+    "pronunciation": "train"
+  },
+  {
+    "word": "टैक्सी",
+    "meaning": "taxi",
+    "example": "क्या मुझे एक टैक्सी मिल सकती है?",
+    "example_translation": "Can I get a taxi?",
+    "pronunciation": "taxi"
+  },
+  {
+    "word": "होटल",
+    "meaning": "hotel",
+    "example": "मैं एक होटल खोज रहा हूँ।",
+    "example_translation": "I am looking for a hotel.",
+    "pronunciation": "hotel"
+  },
+  {
+    "word": "कमरा",
+    "meaning": "room",
+    "example": "क्या आपके पास एक खाली कमरा है?",
+    "example_translation": "Do you have a vacant room?",
+    "pronunciation": "kamra"
+  },
+  {
+    "word": "पासपोर्ट",
+    "meaning": "passport",
+    "example": "मेरा पासपोर्ट खो गया है।",
+    "example_translation": "My passport is lost.",
+    "pronunciation": "passport"
+  },
+  {
+    "word": "एयरपोर्ट",
+    "meaning": "airport",
+    "example": "एयरपोर्ट कितनी दूर है?",
+    "example_translation": "How far is the airport?",
+    "pronunciation": "airport"
+  },
+  {
+    "word": "कार्यालय",
+    "meaning": "office",
+    "example": "मैं अपने कार्यालय जा रहा हूँ।",
+    "example_translation": "I am going to my office.",
+    "pronunciation": "kaaryalay"
+  },
+  {
+    "word": "व्यापार",
+    "meaning": "business",
+    "example": "हम व्यापार पर चर्चा कर सकते हैं।",
+    "example_translation": "We can discuss business.",
+    "pronunciation": "vyaapaar"
+  },
+  {
+    "word": "बैठक",
+    "meaning": "meeting",
+    "example": "बैठक दोपहर 3 बजे है।",
+    "example_translation": "The meeting is at 3 PM.",
+    "pronunciation": "baithak"
+  },
+  {
+    "word": "समझौता",
+    "meaning": "agreement",
+    "example": "समझौता दस्तावेज़ तैयार है।",
+    "example_translation": "The agreement document is ready.",
+    "pronunciation": "samjhauta"
+  },
+  {
+    "word": "फोन",
+    "meaning": "phone",
+    "example": "क्या मैं आपका फोन इस्तेमाल कर सकता हूँ?",
+    "example_translation": "Can I use your phone?",
+    "pronunciation": "phone"
+  },
+  {
+    "word": "पता",
+    "meaning": "address",
+    "example": "कृपया अपना पता बताइए।",
+    "example_translation": "Please tell me your address.",
+    "pronunciation": "pata"
+  },
+  {
+    "word": "दस्तावेज़",
+    "meaning": "document",
+    "example": "कृपया यह दस्तावेज़ भरें।",
+    "example_translation": "Please fill out this document.",
+    "pronunciation": "dastaavez"
+  },
+  {
+    "word": "निवेश",
+    "meaning": "investment",
+    "example": "निवेश के लिए अच्छा समय है।",
+    "example_translation": "It’s a good time to invest.",
+    "pronunciation": "nivesh"
+  },
+  {
+    "word": "बाज़ार",
+    "meaning": "market",
+    "example": "यहाँ का बाज़ार बहुत प्रसिद्ध है।",
+    "example_translation": "The market here is very famous.",
+    "pronunciation": "bazaar"
+  },
+  {
+    "word": "संपर्क",
+    "meaning": "contact",
+    "example": "मैं आपसे बाद में संपर्क करूँगा।",
+    "example_translation": "I will contact you later.",
+    "pronunciation": "sampark"
+  },
+  {
+    "word": "प्रस्ताव",
+    "meaning": "proposal",
+    "example": "आपका प्रस्ताव बहुत रोचक है।",
+    "example_translation": "Your proposal is very interesting.",
+    "pronunciation": "prastaav"
+  },
+  {
+    "word": "कार्य",
+    "meaning": "work / task",
+    "example": "मुझे एक ज़रूरी कार्य पूरा करना है।",
+    "example_translation": "I have to complete an important task.",
+    "pronunciation": "kaarya"
+  },
+  {
+    "word": "वेतन",
+    "meaning": "salary",
+    "example": "वह एक अच्छी वेतन वाली नौकरी है।",
+    "example_translation": "It is a well-paying job.",
+    "pronunciation": "vetan"
+  },
+  {
+    "word": "समय",
+    "meaning": "time",
+    "example": "क्या आपके पास समय है?",
+    "example_translation": "Do you have time?",
+    "pronunciation": "samay"
+  },
+  {
+    "word": "मिलना",
+    "meaning": "to meet",
+    "example": "आपसे मिलकर खुशी हुई।",
+    "example_translation": "Nice to meet you.",
+    "pronunciation": "milna"
+  },
+  {
+    "word": "वापसी",
+    "meaning": "return",
+    "example": "मेरी ट्रेन की वापसी शाम को है।",
+    "example_translation": "My return train is in the evening.",
+    "pronunciation": "vaapsi"
+  },
+  {
+    "word": "घर",
+    "meaning": "home",
+    "example": "मैं घर जा रहा हूँ।",
+    "example_translation": "I am going home.",
+    "pronunciation": "ghar"
+  },
+  {
+    "word": "स्कूल",
+    "meaning": "school",
+    "example": "बच्चे स्कूल गए हैं।",
+    "example_translation": "The children have gone to school.",
+    "pronunciation": "school"
+  },
+  {
+    "word": "काम",
+    "meaning": "work",
+    "example": "मुझे बहुत काम है।",
+    "example_translation": "I have a lot of work.",
+    "pronunciation": "kaam"
+  },
+  {
+    "word": "दवाई",
+    "meaning": "medicine",
+    "example": "मुझे दवाई लेनी है।",
+    "example_translation": "I need to take medicine.",
+    "pronunciation": "dawai"
+  },
+  {
+    "word": "बुखार",
+    "meaning": "fever",
+    "example": "उसे तेज़ बुखार है।",
+    "example_translation": "He has a high fever.",
+    "pronunciation": "bukhaar"
+  },
+  {
+    "word": "सब्ज़ी",
+    "meaning": "vegetable",
+    "example": "मुझे सब्ज़ी लेनी है।",
+    "example_translation": "I need to buy vegetables.",
+    "pronunciation": "sabzi"
+  },
+  {
+    "word": "फल",
+    "meaning": "fruit",
+    "example": "फल सेहत के लिए अच्छे होते हैं।",
+    "example_translation": "Fruits are good for health.",
+    "pronunciation": "phal"
+  },
+  {
+    "word": "दूध",
+    "meaning": "milk",
+    "example": "बच्चों को दूध पसंद है।",
+    "example_translation": "Children like milk.",
+    "pronunciation": "doodh"
+  },
+  {
+    "word": "चाय",
+    "meaning": "tea",
+    "example": "क्या आप चाय लेंगे?",
+    "example_translation": "Would you like some tea?",
+    "pronunciation": "chai"
+  },
+  {
+    "word": "नाश्ता",
+    "meaning": "breakfast",
+    "example": "मैंने अभी नाश्ता किया है।",
+    "example_translation": "I just had breakfast.",
+    "pronunciation": "naashta"
+  },
+  {
+    "word": "दोपहर",
+    "meaning": "afternoon",
+    "example": "बैठक दोपहर में है।",
+    "example_translation": "The meeting is in the afternoon.",
+    "pronunciation": "dopahar"
+  },
+  {
+    "word": "शाम",
+    "meaning": "evening",
+    "example": "हम शाम को मिलते हैं।",
+    "example_translation": "Let’s meet in the evening.",
+    "pronunciation": "shaam"
+  },
+  {
+    "word": "रात",
+    "meaning": "night",
+    "example": "रात को जल्दी सो जाना।",
+    "example_translation": "Go to sleep early at night.",
+    "pronunciation": "raat"
+  },
+  {
+    "word": "नींद",
+    "meaning": "sleep",
+    "example": "मुझे नींद आ रही है।",
+    "example_translation": "I’m feeling sleepy.",
+    "pronunciation": "neend"
+  },
+  {
+    "word": "बिस्तर",
+    "meaning": "bed",
+    "example": "बिस्तर आरामदायक है।",
+    "example_translation": "The bed is comfortable.",
+    "pronunciation": "bistar"
+  },
+  {
+    "word": "कपड़े",
+    "meaning": "clothes",
+    "example": "मैं कपड़े बदल रहा हूँ।",
+    "example_translation": "I’m changing clothes.",
+    "pronunciation": "kapde"
+  },
+  {
+    "word": "जूते",
+    "meaning": "shoes",
+    "example": "नए जूते बहुत अच्छे हैं।",
+    "example_translation": "The new shoes are very nice.",
+    "pronunciation": "joote"
+  },
+  {
+    "word": "दुकान",
+    "meaning": "shop",
+    "example": "मैं दुकान जा रहा हूँ।",
+    "example_translation": "I’m going to the shop.",
+    "pronunciation": "dukaan"
+  },
+  {
+    "word": "खरीदना",
+    "meaning": "to buy",
+    "example": "मुझे कुछ सामान खरीदना है।",
+    "example_translation": "I need to buy some things.",
+    "pronunciation": "khareedna"
+  },
+  {
+    "word": "बेचना",
+    "meaning": "to sell",
+    "example": "वह फल बेचता है।",
+    "example_translation": "He sells fruits.",
+    "pronunciation": "bechna"
+  },
+  {
+    "word": "सस्ती",
+    "meaning": "cheap",
+    "example": "यह चीज़ बहुत सस्ती है।",
+    "example_translation": "This item is very cheap.",
+    "pronunciation": "sasti"
+  },
+  {
+    "word": "महंगी",
+    "meaning": "expensive",
+    "example": "वह घड़ी बहुत महंगी है।",
+    "example_translation": "That watch is very expensive.",
+    "pronunciation": "mehngi"
+  },
+  {
+    "word": "रसोई",
+    "meaning": "kitchen",
+    "example": "रसोई में गैस चल रही है।",
+    "example_translation": "The gas is on in the kitchen.",
+    "pronunciation": "rasoi"
+  },
+  {
+    "word": "बाथरूम",
+    "meaning": "bathroom",
+    "example": "बाथरूम कहाँ है?",
+    "example_translation": "Where is the bathroom?",
+    "pronunciation": "bathroom"
+  },
+  {
+    "word": "साफ़",
+    "meaning": "clean",
+    "example": "कमरा साफ़ है।",
+    "example_translation": "The room is clean.",
+    "pronunciation": "saaf"
+  },
+  {
+    "word": "गंदा",
+    "meaning": "dirty",
+    "example": "बाथरूम गंदा है।",
+    "example_translation": "The bathroom is dirty.",
+    "pronunciation": "ganda"
+  },
+  {
+    "word": "खिड़की",
+    "meaning": "window",
+    "example": "खिड़की खोल दो।",
+    "example_translation": "Open the window.",
+    "pronunciation": "khidki"
+  },
+  {
+    "word": "दरवाज़ा",
+    "meaning": "door",
+    "example": "दरवाज़ा बंद करो।",
+    "example_translation": "Close the door.",
+    "pronunciation": "darwaza"
+  },
+  {
+    "word": "टीवी",
+    "meaning": "television",
+    "example": "टीवी चालू है।",
+    "example_translation": "The TV is on.",
+    "pronunciation": "teevee"
+  },
+  {
+    "word": "फोन कॉल",
+    "meaning": "phone call",
+    "example": "मुझे एक ज़रूरी फोन कॉल करना है।",
+    "example_translation": "I need to make an important phone call.",
+    "pronunciation": "phone call"
+  },
+  {
+    "word": "खत",
+    "meaning": "letter",
+    "example": "मैंने उसे खत लिखा।",
+    "example_translation": "I wrote him a letter.",
+    "pronunciation": "khat"
+  },
+  {
+    "word": "समाचार",
+    "meaning": "news",
+    "example": "मैं रोज़ समाचार देखता हूँ।",
+    "example_translation": "I watch the news every day.",
+    "pronunciation": "samachaar"
+  },
+  {
+    "word": "पढ़ना",
+    "meaning": "to read",
+    "example": "मैं किताब पढ़ रहा हूँ।",
+    "example_translation": "I am reading a book.",
+    "pronunciation": "padhna"
+  },
+  {
+    "word": "लिखना",
+    "meaning": "to write",
+    "example": "मैं कुछ लिख रहा हूँ।",
+    "example_translation": "I am writing something.",
+    "pronunciation": "likhna"
+  },
+  {
+    "word": "सीखना",
+    "meaning": "to learn",
+    "example": "मैं हिंदी सीख रहा हूँ।",
+    "example_translation": "I am learning Hindi.",
+    "pronunciation": "seekhna"
+  },
+  {
+    "word": "समय पर",
+    "meaning": "on time",
+    "example": "कृपया समय पर आइए।",
+    "example_translation": "Please come on time.",
+    "pronunciation": "samay par"
+  },
+  {
+    "word": "जल्दी",
+    "meaning": "early / quickly",
+    "example": "जल्दी करो!",
+    "example_translation": "Hurry up!",
+    "pronunciation": "jaldi"
+  },
+  {
+    "word": "देर",
+    "meaning": "late",
+    "example": "मैं थोड़ी देर से आया।",
+    "example_translation": "I came a bit late.",
+    "pronunciation": "der"
+  },
+  {
+    "word": "खुश",
+    "meaning": "happy",
+    "example": "मैं बहुत खुश हूँ।",
+    "example_translation": "I am very happy.",
+    "pronunciation": "khush"
+  },
+  {
+    "word": "उदास",
+    "meaning": "sad",
+    "example": "वह आज उदास है।",
+    "example_translation": "He is sad today.",
+    "pronunciation": "udaas"
+  },
+  {
+    "word": "थका हुआ",
+    "meaning": "tired",
+    "example": "मैं थका हुआ हूँ।",
+    "example_translation": "I am tired.",
+    "pronunciation": "thaka hua"
+  },
+  {
+    "word": "दोस्त",
+    "meaning": "friend",
+    "example": "वह मेरा सबसे अच्छा दोस्त है।",
+    "example_translation": "He is my best friend.",
+    "pronunciation": "dost"
+  },
+  {
+    "word": "परिवार",
+    "meaning": "family",
+    "example": "मैं अपने परिवार के साथ रहता हूँ।",
+    "example_translation": "I live with my family.",
+    "pronunciation": "parivaar"
+  },
+  {
+    "word": "बच्चा",
+    "meaning": "child",
+    "example": "बच्चा सो रहा है।",
+    "example_translation": "The child is sleeping.",
+    "pronunciation": "bachcha"
+  },
+  {
+    "word": "माता-पिता",
+    "meaning": "parents",
+    "example": "मैं अपने माता-पिता से मिलने जा रहा हूँ।",
+    "example_translation": "I’m going to meet my parents.",
+    "pronunciation": "maata-pita"
+  },
+  {
+    "word": "हवाई अड्डा",
+    "meaning": "airport",
+    "example": "मैं हवाई अड्डे जा रहा हूँ।",
+    "example_translation": "I am going to the airport.",
+    "pronunciation": "havai adda"
+  },
+  {
+    "word": "स्टेशन",
+    "meaning": "station",
+    "example": "ट्रेन स्टेशन पर खड़ी है।",
+    "example_translation": "The train is at the station.",
+    "pronunciation": "station"
+  },
+  {
+    "word": "बस स्टॉप",
+    "meaning": "bus stop",
+    "example": "बस स्टॉप कहाँ है?",
+    "example_translation": "Where is the bus stop?",
+    "pronunciation": "bus stop"
+  },
+  {
+    "word": "टैक्सी",
+    "meaning": "taxi",
+    "example": "क्या यहाँ टैक्सी मिलती है?",
+    "example_translation": "Can I get a taxi here?",
+    "pronunciation": "taxi"
+  },
+  {
+    "word": "मेट्रो",
+    "meaning": "metro",
+    "example": "मेट्रो तेज़ चलती है।",
+    "example_translation": "The metro runs fast.",
+    "pronunciation": "metro"
+  },
+  {
+    "word": "दिशा",
+    "meaning": "direction",
+    "example": "कृपया दिशा बताइए।",
+    "example_translation": "Please tell me the direction.",
+    "pronunciation": "disha"
+  },
+  {
+    "word": "बाएँ",
+    "meaning": "left",
+    "example": "बाएँ मुड़िए।",
+    "example_translation": "Turn left.",
+    "pronunciation": "baayen"
+  },
+  {
+    "word": "दाएँ",
+    "meaning": "right",
+    "example": "दाएँ जाइए।",
+    "example_translation": "Go right.",
+    "pronunciation": "daayen"
+  },
+  {
+    "word": "सीधे",
+    "meaning": "straight",
+    "example": "सीधे चलते रहिए।",
+    "example_translation": "Keep going straight.",
+    "pronunciation": "seedhe"
+  },
+  {
+    "word": "मोड़",
+    "meaning": "turn",
+    "example": "अगले मोड़ पर रुकिए।",
+    "example_translation": "Stop at the next turn.",
+    "pronunciation": "mod"
+  },
+  {
+    "word": "पास",
+    "meaning": "near",
+    "example": "यह दुकान पास में है।",
+    "example_translation": "This shop is nearby.",
+    "pronunciation": "paas"
+  },
+  {
+    "word": "दूर",
+    "meaning": "far",
+    "example": "स्कूल बहुत दूर है।",
+    "example_translation": "The school is very far.",
+    "pronunciation": "door"
+  },
+  {
+    "word": "कितना समय",
+    "meaning": "how much time",
+    "example": "कितना समय लगेगा?",
+    "example_translation": "How much time will it take?",
+    "pronunciation": "kitna samay"
+  },
+  {
+    "word": "मूल्य",
+    "meaning": "price",
+    "example": "इसका मूल्य क्या है?",
+    "example_translation": "What is the price of this?",
+    "pronunciation": "moolya"
+  },
+  {
+    "word": "सस्ता",
+    "meaning": "cheap",
+    "example": "यह बहुत सस्ता है।",
+    "example_translation": "This is very cheap.",
+    "pronunciation": "sasta"
+  },
+  {
+    "word": "महँगा",
+    "meaning": "expensive",
+    "example": "यह चीज़ महँगी है।",
+    "example_translation": "This item is expensive.",
+    "pronunciation": "mehnga"
+  },
+  {
+    "word": "खुला है",
+    "meaning": "is open",
+    "example": "दुकान खुली है।",
+    "example_translation": "The shop is open.",
+    "pronunciation": "khula hai"
+  },
+  {
+    "word": "बंद है",
+    "meaning": "is closed",
+    "example": "रेस्टोरेंट बंद है।",
+    "example_translation": "The restaurant is closed.",
+    "pronunciation": "band hai"
+  },
+  {
+    "word": "बिल",
+    "meaning": "bill",
+    "example": "कृपया बिल दीजिए।",
+    "example_translation": "Please give the bill.",
+    "pronunciation": "bill"
+  },
+  {
+    "word": "पानी",
+    "meaning": "water",
+    "example": "मुझे पानी चाहिए।",
+    "example_translation": "I need water.",
+    "pronunciation": "paani"
+  },
+  {
+    "word": "खाना",
+    "meaning": "food",
+    "example": "खाना बहुत स्वादिष्ट है।",
+    "example_translation": "The food is very tasty.",
+    "pronunciation": "khaana"
+  },
+  {
+    "word": "पीना",
+    "meaning": "drink",
+    "example": "आप क्या पीना चाहेंगे?",
+    "example_translation": "What would you like to drink?",
+    "pronunciation": "peena"
+  },
+  {
+    "word": "आराम",
+    "meaning": "rest/comfort",
+    "example": "मुझे आराम करना है।",
+    "example_translation": "I need to rest.",
+    "pronunciation": "aaraam"
+  },
+  {
+    "word": "मज़ा",
+    "meaning": "fun",
+    "example": "यह यात्रा बहुत मज़ेदार थी।",
+    "example_translation": "This trip was a lot of fun.",
+    "pronunciation": "mazaa"
+  },
+  {
+    "word": "संगीत",
+    "meaning": "music",
+    "example": "मुझे संगीत सुनना पसंद है।",
+    "example_translation": "I like listening to music.",
+    "pronunciation": "sangeet"
+  },
+  {
+    "word": "चित्र",
+    "meaning": "picture",
+    "example": "यह चित्र सुंदर है।",
+    "example_translation": "This picture is beautiful.",
+    "pronunciation": "chitra"
+  },
+  {
+    "word": "मंदिर",
+    "meaning": "temple",
+    "example": "हम मंदिर जा रहे हैं।",
+    "example_translation": "We are going to the temple.",
+    "pronunciation": "mandir"
+  },
+  {
+    "word": "पर्यटन",
+    "meaning": "tourism",
+    "example": "भारत में पर्यटन बहुत प्रसिद्ध है।",
+    "example_translation": "Tourism is very popular in India.",
+    "pronunciation": "paryatan"
+  },
+  {
+    "word": "यात्रा",
+    "meaning": "journey",
+    "example": "मेरी यात्रा बहुत अच्छी रही।",
+    "example_translation": "My journey was very good.",
+    "pronunciation": "yaatra"
+  },
+  {
+    "word": "यात्री",
+    "meaning": "traveler",
+    "example": "हर यात्री को टिकट चाहिए।",
+    "example_translation": "Every traveler needs a ticket.",
+    "pronunciation": "yaatri"
+  },
+  {
+    "word": "दाखिला",
+    "meaning": "entry",
+    "example": "प्रवेश के लिए टिकट चाहिए।",
+    "example_translation": "You need a ticket for entry.",
+    "pronunciation": "daakhila"
+  },
+  {
+    "word": "बाहर",
+    "meaning": "outside",
+    "example": "मैं बाहर इंतज़ार कर रहा हूँ।",
+    "example_translation": "I’m waiting outside.",
+    "pronunciation": "baahar"
+  },
+  {
+    "word": "अंदर",
+    "meaning": "inside",
+    "example": "बैग अंदर रखो।",
+    "example_translation": "Keep the bag inside.",
+    "pronunciation": "andar"
+  },
+  {
+    "word": "भीड़",
+    "meaning": "crowd",
+    "example": "यहाँ बहुत भीड़ है।",
+    "example_translation": "There is a big crowd here.",
+    "pronunciation": "bheed"
+  },
+  {
+    "word": "शांति",
+    "meaning": "peace",
+    "example": "यह जगह बहुत शांत है।",
+    "example_translation": "This place is very peaceful.",
+    "pronunciation": "shaanti"
+  },
+  {
+    "word": "पुलिस स्टेशन",
+    "meaning": "police station",
+    "example": "यहाँ पास में पुलिस स्टेशन है।",
+    "example_translation": "There is a police station nearby.",
+    "pronunciation": "police station"
+  },
+  {
+    "word": "अस्पताल",
+    "meaning": "hospital",
+    "example": "मैं अस्पताल जा रहा हूँ।",
+    "example_translation": "I’m going to the hospital.",
+    "pronunciation": "aspataal"
+  },
+  {
+    "word": "आपातकाल",
+    "meaning": "emergency",
+    "example": "यह एक आपातकालीन स्थिति है।",
+    "example_translation": "This is an emergency situation.",
+    "pronunciation": "aapaatkaal"
+  },
+  {
+    "word": "सहायता",
+    "meaning": "help/assistance",
+    "example": "मुझे आपकी सहायता चाहिए।",
+    "example_translation": "I need your help.",
+    "pronunciation": "sahayata"
+  },
+  {
+    "word": "समझना",
+    "meaning": "to understand",
+    "example": "मैं हिंदी समझता हूँ।",
+    "example_translation": "I understand Hindi.",
+    "pronunciation": "samajhna"
+  },
+  {
+    "word": "पूछना",
+    "meaning": "to ask",
+    "example": "मैं एक सवाल पूछ सकता हूँ?",
+    "example_translation": "Can I ask a question?",
+    "pronunciation": "poochhna"
+  },
+  {
+    "word": "बताना",
+    "meaning": "to tell",
+    "example": "कृपया रास्ता बताइए।",
+    "example_translation": "Please tell me the way.",
+    "pronunciation": "bataana"
+  },
+  {
+    "word": "उत्तर",
+    "meaning": "answer",
+    "example": "आपका उत्तर सही है।",
+    "example_translation": "Your answer is correct.",
+    "pronunciation": "uttar"
+  },
+  {
+    "word": "सवाल",
+    "meaning": "question",
+    "example": "मेरा एक सवाल है।",
+    "example_translation": "I have a question.",
+    "pronunciation": "sawaal"
+  },
+  {
+    "word": "जानकारी",
+    "meaning": "information",
+    "example": "मुझे यात्रा की जानकारी चाहिए।",
+    "example_translation": "I need travel information.",
+    "pronunciation": "jaankaari"
+  },
+  {
+    "word": "इच्छा",
+    "meaning": "wish/desire",
+    "example": "मेरी विदेश यात्रा की इच्छा है।",
+    "example_translation": "I wish to travel abroad.",
+    "pronunciation": "ichchha"
+  },
+  {
+    "word": "तैयारी",
+    "meaning": "preparation",
+    "example": "यात्रा की तैयारी कर लो।",
+    "example_translation": "Prepare for the journey.",
+    "pronunciation": "taiyaari"
+  },
+  {
+    "word": "सफर",
+    "meaning": "travel/journey",
+    "example": "सफर बहुत आरामदायक था।",
+    "example_translation": "The journey was very comfortable.",
+    "pronunciation": "safar"
+  }
+
+
+]

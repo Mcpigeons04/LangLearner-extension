@@ -1,0 +1,83 @@
+/* === dashboard.css === */
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+  background: linear-gradient(135deg, #0b0b0b, #0b0b0b);
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+}
+
+/* History section */
+#history {
+  flex: 3;
+  max-width: 70%;
+}
+
+#history h1 {
+  font-size: 32px;
+  font-style: italic;
+  margin-bottom: 16px;
+  color: white;
+}
+
+#historyContent {
+  overflow-y: auto;
+  padding-right: 10px;
+  max-height: 600px;
+  scrollbar-width: thin;
+}
+
+#historyContent::-webkit-scrollbar {
+  width: 6px;
+}
+#historyContent::-webkit-scrollbar-thumb {
+  background: #666;
+  border-radius: 4px;
+}
+#historyContent::-webkit-scrollbar-thumb:hover {
+  background: #aaa;
+}
+
+/* Word cards */
+.word-card {
+  background: #fff;
+  color: black;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+/* Motivation box */
+
+/* #quoteSection {
+  flex: 1;
+  background-color: #1a1a1a;
+  border-radius: 12px;
+  padding: 16px;
+  color: #fff;
+  height: fit-content;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+} */
+ #quoteSection {
+  flex: 1;
+  background-color: #1a1a1a;
+  border-radius: 12px;
+  padding: 20px;
+  color: #fff;
+  min-height: px;
+  max-width: 600px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+#quoteSection h3 {
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+.dashboard-container {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
