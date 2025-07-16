@@ -74,10 +74,10 @@ select:focus {
 
 .dropdown {
   list-style: none;
-  padding: 0;
+  padding: 0px;
   margin-top: 4px;
   border: 1px solid #ccc;
-  background-color: #fff;
+  background-color: #000000f2;
   max-height: 150px;
   overflow-y: auto;
   position: absolute;
@@ -89,10 +89,10 @@ select:focus {
 
 .dropdown li {
   padding: 8px 12px;
-  cursor: pointer;
+  cursor:pointer;
 }
 
 .dropdown li:hover {
-  background-color: #f1f1f1;
+  background-color: #1ed2ae;
 }
 
