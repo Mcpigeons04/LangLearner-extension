@@ -1,0 +1,1053 @@
+ [
+    {
+    "word": "你好",
+    "meaning": "hello",
+    "example": "你好吗？",
+    "example_translation": "How are you?",
+    "pronunciation": "nǐ hǎo"
+  },
+  {
+    "word": "谢谢",
+    "meaning": "thank you",
+    "example": "谢谢你！",
+    "example_translation": "Thank you!",
+    "pronunciation": "xiè xie"
+  },
+  {
+    "word": "再见",
+    "meaning": "goodbye",
+    "example": "老师，再见！",
+    "example_translation": "Goodbye, teacher!",
+    "pronunciation": "zài jiàn"
+  },
+  {
+    "word": "是",
+    "meaning": "is, am, are (to be)",
+    "example": "我是学生。",
+    "example_translation": "I am a student.",
+    "pronunciation": "shì"
+  },
+  {
+    "word": "不",
+    "meaning": "no, not",
+    "example": "我不是学生。",
+    "example_translation": "I am not a student.",
+    "pronunciation": "bù"
+  },
+  {
+    "word": "我",
+    "meaning": "I, me",
+    "example": "我爱北京。",
+    "example_translation": "I love Beijing.",
+    "pronunciation": "wǒ"
+  },
+  {
+    "word": "你",
+    "meaning": "you",
+    "example": "你叫什么名字？",
+    "example_translation": "What is your name?",
+    "pronunciation": "nǐ"
+  },
+  {
+    "word": "他",
+    "meaning": "he, him",
+    "example": "他是我的朋友。",
+    "example_translation": "He is my friend.",
+    "pronunciation": "tā"
+  },
+  {
+    "word": "她",
+    "meaning": "she, her",
+    "example": "她很漂亮。",
+    "example_translation": "She is very beautiful.",
+    "pronunciation": "tā"
+  },
+  {
+    "word": "我们",
+    "meaning": "we, us",
+    "example": "我们去学校。",
+    "example_translation": "We go to school.",
+    "pronunciation": "wǒ men"
+  },
+  {
+    "word": "你们",
+    "meaning": "you (plural)",
+    "example": "你们好！",
+    "example_translation": "Hello everyone!",
+    "pronunciation": "nǐ men"
+  },
+  {
+    "word": "他们",
+    "meaning": "they, them (male/mixed)",
+    "example": "他们都是中国人。",
+    "example_translation": "They are all Chinese.",
+    "pronunciation": "tā men"
+  },
+  {
+    "word": "她们",
+    "meaning": "they, them (female)",
+    "example": "她们是老师。",
+    "example_translation": "They are teachers.",
+    "pronunciation": "tā men"
+  },
+  {
+    "word": "人",
+    "meaning": "person, people",
+    "example": "很多人。",
+    "example_translation": "Many people.",
+    "pronunciation": "rén"
+  },
+  {
+    "word": "学生",
+    "meaning": "student",
+    "example": "我是大学生。",
+    "example_translation": "I am a university student.",
+    "pronunciation": "xué sheng"
+  },
+  {
+    "word": "老师",
+    "meaning": "teacher",
+    "example": "她是我的中文老师。",
+    "example_translation": "She is my Chinese teacher.",
+    "pronunciation": "lǎo shī"
+  },
+  {
+    "word": "朋友",
+    "meaning": "friend",
+    "example": "我有一个好朋友。",
+    "example_translation": "I have a good friend.",
+    "pronunciation": "péng you"
+  },
+  {
+    "word": "中国",
+    "meaning": "China",
+    "example": "我来自中国。",
+    "example_translation": "I am from China.",
+    "pronunciation": "zhōng guó"
+  },
+  {
+    "word": "美国",
+    "meaning": "America, USA",
+    "example": "你是美国人吗？",
+    "example_translation": "Are you American?",
+    "pronunciation": "měi guó"
+  },
+  {
+    "word": "吃",
+    "meaning": "to eat",
+    "example": "我想吃米饭。",
+    "example_translation": "I want to eat rice.",
+    "pronunciation": "chī"
+  },
+  {
+    "word": "喝",
+    "meaning": "to drink",
+    "example": "你喝水吗？",
+    "example_translation": "Do you drink water?",
+    "pronunciation": "hē"
+  },
+  {
+    "word": "水",
+    "meaning": "water",
+    "example": "请给我一杯水。",
+    "example_translation": "Please give me a glass of water.",
+    "pronunciation": "shuǐ"
+  },
+  {
+    "word": "米饭",
+    "meaning": "rice (cooked)",
+    "example": "我喜欢吃米饭。",
+    "example_translation": "I like to eat rice.",
+    "pronunciation": "mǐ fàn"
+  },
+  {
+    "word": "茶",
+    "meaning": "tea",
+    "example": "我想喝茶。",
+    "example_translation": "I want to drink tea.",
+    "pronunciation": "chá"
+  },
+  {
+    "word": "饭店",
+    "meaning": "restaurant, hotel",
+    "example": "我们在饭店吃饭。",
+    "example_translation": "We eat at the restaurant.",
+    "pronunciation": "fàn diàn"
+  },
+  {
+    "word": "去",
+    "meaning": "to go",
+    "example": "你去哪里？",
+    "example_translation": "Where are you going?",
+    "pronunciation": "qù"
+  },
+  {
+    "word": "来",
+    "meaning": "to come",
+    "example": "你来我家。",
+    "example_translation": "You come to my house.",
+    "pronunciation": "lái"
+  },
+  {
+    "word": "家",
+    "meaning": "home, family",
+    "example": "我回家了。",
+    "example_translation": "I'm going home.",
+    "pronunciation": "jiā"
+  },
+  {
+    "word": "学习",
+    "meaning": "to study, to learn",
+    "example": "我学习汉语。",
+    "example_translation": "I study Chinese.",
+    "pronunciation": "xué xí"
+  },
+  {
+    "word": "说",
+    "meaning": "to speak, to say",
+    "example": "你会说中文吗？",
+    "example_translation": "Can you speak Chinese?",
+    "pronunciation": "shuō"
+  },
+  {
+    "word": "汉语",
+    "meaning": "Chinese language",
+    "example": "我喜欢学习汉语。",
+    "example_translation": "I like studying Chinese.",
+    "pronunciation": "hàn yǔ"
+  },
+  {
+    "word": "英语",
+    "meaning": "English language",
+    "example": "他会说英语。",
+    "example_translation": "He can speak English.",
+    "pronunciation": "yīng yǔ"
+  },
+  {
+    "word": "看",
+    "meaning": "to look, to see, to read",
+    "example": "你看什么？",
+    "example_translation": "What are you looking at?",
+    "pronunciation": "kàn"
+  },
+  {
+    "word": "书",
+    "meaning": "book",
+    "example": "我买了一本书。",
+    "example_translation": "I bought a book.",
+    "pronunciation": "shū"
+  },
+  {
+    "word": "电影",
+    "meaning": "movie",
+    "example": "我们去看电影。",
+    "example_translation": "We go to watch a movie.",
+    "pronunciation": "diàn yǐng"
+  },
+  {
+    "word": "喜欢",
+    "meaning": "to like",
+    "example": "你喜欢中国菜吗？",
+    "example_translation": "Do you like Chinese food?",
+    "pronunciation": "xǐ huan"
+  },
+  {
+    "word": "爱",
+    "meaning": "to love",
+    "example": "我爱我的家人。",
+    "example_translation": "I love my family.",
+    "pronunciation": "ài"
+  },
+  {
+    "word": "有",
+    "meaning": "to have",
+    "example": "我有一个妹妹。",
+    "example_translation": "I have a younger sister.",
+    "pronunciation": "yǒu"
+  },
+  {
+    "word": "没有",
+    "meaning": "not have, without",
+    "example": "我没有钱。",
+    "example_translation": "I don't have money.",
+    "pronunciation": "méi yǒu"
+  },
+  {
+    "word": "钱",
+    "meaning": "money",
+    "example": "这个多少钱？",
+    "example_translation": "How much is this?",
+    "pronunciation": "qián"
+  },
+  {
+    "word": "买",
+    "meaning": "to buy",
+    "example": "我想买衣服。",
+    "example_translation": "I want to buy clothes.",
+    "pronunciation": "mǎi"
+  },
+  {
+    "word": "卖",
+    "meaning": "to sell",
+    "example": "他卖水果。",
+    "example_translation": "He sells fruit.",
+    "pronunciation": "mài"
+  },
+  {
+    "word": "多少",
+    "meaning": "how much/many",
+    "example": "这里有多少人？",
+    "example_translation": "How many people are here?",
+    "pronunciation": "duō shǎo"
+  },
+  {
+    "word": "大",
+    "meaning": "big, large",
+    "example": "这个苹果很大。",
+    "example_translation": "This apple is very big.",
+    "pronunciation": "dà"
+  },
+  {
+    "word": "小",
+    "meaning": "small, little",
+    "example": "那只猫很小。",
+    "example_translation": "That cat is very small.",
+    "pronunciation": "xiǎo"
+  },
+  {
+    "word": "好",
+    "meaning": "good, fine",
+    "example": "今天天气很好。",
+    "example_translation": "The weather is good today.",
+    "pronunciation": "hǎo"
+  },
+  {
+    "word": "很",
+    "meaning": "very",
+    "example": "我很高兴。",
+    "example_translation": "I am very happy.",
+    "pronunciation": "hěn"
+  },
+  {
+    "word": "吗",
+    "meaning": "question particle",
+    "example": "你是中国人吗？",
+    "example_translation": "Are you Chinese?",
+    "pronunciation": "ma"
+  },
+  {
+    "word": "什么",
+    "meaning": "what",
+    "example": "你叫什么名字？",
+    "example_translation": "What is your name?",
+    "pronunciation": "shén me"
+  },
+  {
+    "word": "哪里",
+    "meaning": "where",
+    "example": "你去哪里？",
+    "example_translation": "Where are you going?",
+    "pronunciation": "nǎ lǐ"
+  },
+  {
+    "word": "名字",
+    "meaning": "name",
+    "example": "我的名字是李明。",
+    "example_translation": "My name is Li Ming.",
+    "pronunciation": "míng zi"
+  },
+  {
+    "word": "国家",
+    "meaning": "country",
+    "example": "你来自哪个国家？",
+    "example_translation": "Which country are you from?",
+    "pronunciation": "guó jiā"
+  },
+  {
+    "word": "语言",
+    "meaning": "language",
+    "example": "我学习中文语言。",
+    "example_translation": "I am learning the Chinese language.",
+    "pronunciation": "yǔ yán"
+  },
+  {
+    "word": "时间",
+    "meaning": "time",
+    "example": "现在几点？",
+    "example_translation": "What time is it now?",
+    "pronunciation": "shí jiān"
+  },
+  {
+    "word": "年",
+    "meaning": "year",
+    "example": "明年是2026年。",
+    "example_translation": "Next year is 2026.",
+    "pronunciation": "nián"
+  },
+  {
+    "word": "月",
+    "meaning": "month",
+    "example": "今天是几月几号？",
+    "example_translation": "What date is it today?",
+    "pronunciation": "yuè"
+  },
+  {
+    "word": "日/号",
+    "meaning": "day (date)",
+    "example": "我的生日是八月一日。",
+    "example_translation": "My birthday is August 1st.",
+    "pronunciation": "rì / hào"
+  },
+  {
+    "word": "星期",
+    "meaning": "week",
+    "example": "这周我很忙。",
+    "example_translation": "I am very busy this week.",
+    "pronunciation": "xīng qī"
+  },
+  {
+    "word": "天",
+    "meaning": "day",
+    "example": "今天天气很好。",
+    "example_translation": "The weather is good today.",
+    "pronunciation": "tiān"
+  },
+  {
+    "word": "点",
+    "meaning": "o'clock, dot",
+    "example": "现在是三点。",
+    "example_translation": "It is three o'clock now.",
+    "pronunciation": "diǎn"
+  },
+  {
+    "word": "分",
+    "meaning": "minute",
+    "example": "现在是三点十五分。",
+    "example_translation": "It is 3:15 now.",
+    "pronunciation": "fēn"
+  },
+  {
+    "word": "早饭",
+    "meaning": "breakfast",
+    "example": "你吃早饭了吗？",
+    "example_translation": "Did you eat breakfast?",
+    "pronunciation": "zǎo fàn"
+  },
+  {
+    "word": "午饭",
+    "meaning": "lunch",
+    "example": "我们一起吃午饭吧。",
+    "example_translation": "Let's have lunch together.",
+    "pronunciation": "wǔ fàn"
+  },
+  {
+    "word": "晚饭",
+    "meaning": "dinner",
+    "example": "今晚吃什么？",
+    "example_translation": "What's for dinner tonight?",
+    "pronunciation": "wǎn fàn"
+  },
+  {
+    "word": "睡觉",
+    "meaning": "to sleep",
+    "example": "我晚上十点睡觉。",
+    "example_translation": "I go to sleep at 10 PM.",
+    "pronunciation": "shuì jiào"
+  },
+  {
+    "word": "起床",
+    "meaning": "to get up",
+    "example": "我早上七点起床。",
+    "example_translation": "I get up at 7 AM.",
+    "pronunciation": "qǐ chuáng"
+  },
+  {
+    "word": "工作",
+    "meaning": "work, to work",
+    "example": "你在哪里工作？",
+    "example_translation": "Where do you work?",
+    "pronunciation": "gōng zuò"
+  },
+  {
+    "word": "商店",
+    "meaning": "store, shop",
+    "example": "这个商店很大。",
+    "example_translation": "This store is very big.",
+    "pronunciation": "shāng diàn"
+  },
+  {
+    "word": "医院",
+    "meaning": "hospital",
+    "example": "他去医院看医生。",
+    "example_translation": "He goes to the hospital to see a doctor.",
+    "pronunciation": "yī yuàn"
+  },
+  {
+    "word": "医生",
+    "meaning": "doctor",
+    "example": "我认识一位好医生。",
+    "example_translation": "I know a good doctor.",
+    "pronunciation": "yī shēng"
+  },
+  {
+    "word": "大学",
+    "meaning": "university, college",
+    "example": "我明年上大学。",
+    "example_translation": "I will go to university next year.",
+    "pronunciation": "dà xué"
+  },
+  {
+    "word": "学校",
+    "meaning": "school",
+    "example": "我的学校很漂亮。",
+    "example_translation": "My school is very beautiful.",
+    "pronunciation": "xué xiào"
+  },
+  {
+    "word": "家",
+    "meaning": "home, family",
+    "example": "我家有三口人。",
+    "example_translation": "There are three people in my family.",
+    "pronunciation": "jiā"
+  },
+  {
+    "word": "爸爸",
+    "meaning": "dad",
+    "example": "我爸爸是工程师。",
+    "example_translation": "My dad is an engineer.",
+    "pronunciation": "bà ba"
+  },
+  {
+    "word": "妈妈",
+    "meaning": "mom",
+    "example": "我妈妈是老师。",
+    "example_translation": "My mom is a teacher.",
+    "pronunciation": "mā ma"
+  },
+  {
+    "word": "哥哥",
+    "meaning": "older brother",
+    "example": "我哥哥比我大两岁。",
+    "example_translation": "My older brother is two years older than me.",
+    "pronunciation": "gē ge"
+  },
+  {
+    "word": "姐姐",
+    "meaning": "older sister",
+    "example": "我姐姐很喜欢看书。",
+    "example_translation": "My older sister likes to read books very much.",
+    "pronunciation": "jiě jie"
+  },
+  {
+    "word": "弟弟",
+    "meaning": "younger brother",
+    "example": "我有一个弟弟。",
+    "example_translation": "I have a younger brother.",
+    "pronunciation": "dì di"
+  },
+  {
+    "word": "妹妹",
+    "meaning": "younger sister",
+    "example": "我妹妹今年五岁。",
+    "example_translation": "My younger sister is five years old this year.",
+    "pronunciation": "mèi mei"
+  },
+  {
+    "word": "儿子",
+    "meaning": "son",
+    "example": "他有一个儿子。",
+    "example_translation": "He has a son.",
+    "pronunciation": "ér zi"
+  },
+  {
+    "word": "女儿",
+    "meaning": "daughter",
+    "example": "我女儿是医生。",
+    "example_translation": "My daughter is a doctor.",
+    "pronunciation": "nǚ ér"
+  },
+  {
+    "word": "知道",
+    "meaning": "to know (a fact)",
+    "example": "我知道你的名字。",
+    "example_translation": "I know your name.",
+    "pronunciation": "zhī dào"
+  },
+  {
+    "word": "觉得",
+    "meaning": "to feel, to think",
+    "example": "我觉得他很聪明。",
+    "example_translation": "I think he is very smart.",
+    "pronunciation": "jué de"
+  },
+  {
+    "word": "问",
+    "meaning": "to ask",
+    "example": "我有一个问题想问你。",
+    "example_translation": "I have a question to ask you.",
+    "pronunciation": "wèn"
+  },
+  {
+    "word": "回答",
+    "meaning": "to answer",
+    "example": "请你回答这个问题。",
+    "example_translation": "Please answer this question.",
+    "pronunciation": "huí dá"
+  },
+  {
+    "word": "打电话",
+    "meaning": "to make a phone call",
+    "example": "我给妈妈打电话。",
+    "example_translation": "I call my mom.",
+    "pronunciation": "dǎ diàn huà"
+  },
+  {
+    "word": "照片",
+    "meaning": "photo",
+    "example": "这张照片很漂亮。",
+    "example_translation": "This photo is very beautiful.",
+    "pronunciation": "zhào piàn"
+  },
+  {
+    "word": "衣服",
+    "meaning": "clothes",
+    "example": "我买了一件新衣服。",
+    "example_translation": "I bought a new piece of clothing.",
+    "pronunciation": "yī fu"
+  },
+  {
+    "word": "鞋子",
+    "meaning": "shoes",
+    "example": "这双鞋子很舒服。",
+    "example_translation": "This pair of shoes is very comfortable.",
+    "pronunciation": "xié zi"
+  },
+  {
+    "word": "电脑",
+    "meaning": "computer",
+    "example": "我的电脑坏了。",
+    "example_translation": "My computer is broken.",
+    "pronunciation": "diàn nǎo"
+  },
+  {
+    "word": "手机",
+    "meaning": "mobile phone",
+    "example": "我的手机没电了。",
+    "example_translation": "My phone battery is dead.",
+    "pronunciation": "shǒu jī"
+  },
+  {
+    "word": "开车",
+    "meaning": "to drive a car",
+    "example": "你会开车吗？",
+    "example_translation": "Can you drive a car?",
+    "pronunciation": "kāi chē"
+  },
+  {
+    "word": "坐",
+    "meaning": "to sit, to take (transport)",
+    "example": "请坐。",
+    "example_translation": "Please sit down.",
+    "pronunciation": "zuò"
+  },
+  {
+    "word": "出租车",
+    "meaning": "taxi",
+    "example": "我们坐出租车去机场。",
+    "example_translation": "We take a taxi to the airport.",
+    "pronunciation": "chū zū chē"
+  },
+  {
+    "word": "飞机",
+    "meaning": "airplane",
+    "example": "我坐飞机去北京。",
+    "example_translation": "I take a plane to Beijing.",
+    "pronunciation": "fēi jī"
+  },
+  {
+    "word": "车站",
+    "meaning": "bus stop, station",
+    "example": "公共汽车站在哪里？",
+    "example_translation": "Where is the bus stop?",
+    "pronunciation": "chē zhàn"
+  },
+  {
+    "word": "快乐",
+    "meaning": "happy",
+    "example": "祝你生日快乐！",
+    "example_translation": "Happy birthday to you!",
+    "pronunciation": "kuài lè"
+  },
+  {
+    "word": "漂亮",
+    "meaning": "beautiful",
+    "example": "她很漂亮。",
+    "example_translation": "She is very beautiful.",
+    "pronunciation": "piào liang"
+  },
+  {
+    "word": "聪明",
+    "meaning": "smart, intelligent",
+    "example": "你很聪明。",
+    "example_translation": "You are very smart.",
+    "pronunciation": "cōng míng"
+  },
+  {
+    "word": "热",
+    "meaning": "hot",
+    "example": "今天很热。",
+    "example_translation": "It's very hot today.",
+    "pronunciation": "rè"
+  },
+  {
+    "word": "发展",
+    "meaning": "to develop; development",
+    "example": "经济发展很快。",
+    "example_translation": "Economic development is very fast.",
+    "pronunciation": "fā zhǎn"
+  },
+  {
+    "word": "影响",
+    "meaning": "to influence; influence, effect",
+    "example": "气候变化影响着世界。",
+    "example_translation": "Climate change is affecting the world.",
+    "pronunciation": "yǐng xiǎng"
+  },
+  {
+    "word": "政策",
+    "meaning": "policy",
+    "example": "政府出台了新政策。",
+    "example_translation": "The government introduced a new policy.",
+    "pronunciation": "zhèng cè"
+  },
+  {
+    "word": "竞争",
+    "meaning": "to compete; competition",
+    "example": "市场竞争很激烈。",
+    "example_translation": "Market competition is fierce.",
+    "pronunciation": "jìng zhēng"
+  },
+  {
+    "word": "挑战",
+    "meaning": "challenge; to challenge",
+    "example": "这是一个新的挑战。",
+    "example_translation": "This is a new challenge.",
+    "pronunciation": "tiǎo zhàn"
+  },
+  {
+    "word": "改善",
+    "meaning": "to improve; improvement",
+    "example": "我们需要改善生活质量。",
+    "example_translation": "We need to improve our quality of life.",
+    "pronunciation": "gǎi shàn"
+  },
+  {
+    "word": "经历",
+    "meaning": "experience; to experience",
+    "example": "他经历了很多困难。",
+    "example_translation": "He experienced many difficulties.",
+    "pronunciation": "jīng lì"
+  },
+  {
+    "word": "实现",
+    "meaning": "to realize, to achieve",
+    "example": "他实现了自己的梦想。",
+    "example_translation": "He realized his dream.",
+    "pronunciation": "shí xiàn"
+  },
+  {
+    "word": "毕竟",
+    "meaning": "after all, in the final analysis",
+    "example": "他毕竟是外国人，不了解情况。",
+    "example_translation": "After all, he is a foreigner and doesn't understand the situation.",
+    "pronunciation": "bì jìng"
+  },
+  {
+    "word": "意识",
+    "meaning": "consciousness; to be aware of",
+    "example": "他意识到了问题的严重性。",
+    "example_translation": "He became aware of the seriousness of the problem.",
+    "pronunciation": "yì shi"
+  },
+  {
+    "word": "逐渐",
+    "meaning": "gradually",
+    "example": "天气逐渐变暖了。",
+    "example_translation": "The weather gradually became warmer.",
+    "pronunciation": "zhú jiàn"
+  },
+  {
+    "word": "普遍",
+    "meaning": "universal, common, widespread",
+    "example": "这是一个普遍的问题。",
+    "example_translation": "This is a common problem.",
+    "pronunciation": "pǔ biàn"
+  },
+  {
+    "word": "充分",
+    "meaning": "full, ample, abundant",
+    "example": "请充分利用时间。",
+    "example_translation": "Please make full use of your time.",
+    "pronunciation": "chōng fèn"
+  },
+  {
+    "word": "负责",
+    "meaning": "to be responsible for",
+    "example": "他负责这个项目。",
+    "example_translation": "He is responsible for this project.",
+    "pronunciation": "fù zé"
+  },
+  {
+    "word": "积极",
+    "meaning": "active, positive",
+    "example": "他工作很积极。",
+    "example_translation": "He is very active in his work.",
+    "pronunciation": "jī jí"
+  },
+  {
+    "word": "消极",
+    "meaning": "negative, passive",
+    "example": "不要有消极的想法。",
+    "example_translation": "Don't have negative thoughts.",
+    "pronunciation": "xiāo jí"
+  },
+  {
+    "word": "面临",
+    "meaning": "to face, to confront",
+    "example": "我们面临许多挑战。",
+    "example_translation": "We are facing many challenges.",
+    "pronunciation": "miàn lín"
+  },
+  {
+    "word": "关键",
+    "meaning": "key, crucial",
+    "example": "这是解决问题的关键。",
+    "example_translation": "This is the key to solving the problem.",
+    "pronunciation": "guān jiàn"
+  },
+  {
+    "word": "趋势",
+    "meaning": "trend, tendency",
+    "example": "全球化是一个大趋势。",
+    "example_translation": "Globalization is a big trend.",
+    "pronunciation": "qū shì"
+  },
+  {
+    "word": "创新",
+    "meaning": "innovation; to innovate",
+    "example": "公司需要不断创新。",
+    "example_translation": "The company needs continuous innovation.",
+    "pronunciation": "chuàng xīn"
+  },
+  {
+    "word": "复杂",
+    "meaning": "complex, complicated",
+    "example": "这个问题很复杂。",
+    "example_translation": "This problem is very complicated.",
+    "pronunciation": "fù zá"
+  },
+  {
+    "word": "简单",
+    "meaning": "simple, easy",
+    "example": "这个任务很简单。",
+    "example_translation": "This task is very simple.",
+    "pronunciation": "jiǎn dān"
+  },
+  {
+    "word": "具体",
+    "meaning": "concrete, specific",
+    "example": "请你给我一个具体的例子。",
+    "example_translation": "Please give me a specific example.",
+    "pronunciation": "jù tǐ"
+  },
+  {
+    "word": "抽象",
+    "meaning": "abstract",
+    "example": "这是一个抽象的概念。",
+    "example_translation": "This is an abstract concept.",
+    "pronunciation": "chōu xiàng"
+  },
+  {
+    "word": "分析",
+    "meaning": "to analyze; analysis",
+    "example": "我们需要仔细分析数据。",
+    "example_translation": "We need to analyze the data carefully.",
+    "pronunciation": "fēn xī"
+  },
+  {
+    "word": "评价",
+    "meaning": "to evaluate; evaluation, appraisal",
+    "example": "大家对他的评价很高。",
+    "example_translation": "Everyone's evaluation of him is very high.",
+    "pronunciation": "píng jià"
+  },
+  {
+    "word": "毕竟",
+    "meaning": "after all, in the final analysis",
+    "example": "他毕竟是外国人，不了解情况。",
+    "example_translation": "After all, he is a foreigner and doesn't understand the situation.",
+    "pronunciation": "bì jìng"
+  },
+  {
+    "word": "表明",
+    "meaning": "to show, to indicate, to make clear",
+    "example": "他的行动表明了他的决心。",
+    "example_translation": "His actions showed his determination.",
+    "pronunciation": "biǎo míng"
+  },
+  {
+    "word": "承诺",
+    "meaning": "promise; to promise",
+    "example": "他履行了自己的承诺。",
+    "example_translation": "He fulfilled his promise.",
+    "pronunciation": "chéng nuò"
+  },
+  {
+    "word": "贡献",
+    "meaning": "contribution; to contribute",
+    "example": "他对社会做出了巨大贡献。",
+    "example_translation": "He made a huge contribution to society.",
+    "pronunciation": "gòng xiàn"
+  },
+  {
+    "word": "导致",
+    "meaning": "to lead to, to cause (usually negative)",
+    "example": "粗心大意可能导致错误。",
+    "example_translation": "Carelessness can lead to mistakes.",
+    "pronunciation": "dǎo zhì"
+  },
+  {
+    "word": "缺乏",
+    "meaning": "to lack, to be short of",
+    "example": "我们缺乏经验。",
+    "example_translation": "We lack experience.",
+    "pronunciation": "quē fá"
+  },
+  {
+    "word": "体现",
+    "meaning": "to embody, to reflect",
+    "example": "这个设计体现了环保理念。",
+    "example_translation": "This design embodies the concept of environmental protection.",
+    "pronunciation": "tǐ xiàn"
+  },
+  {
+    "word": "促进",
+    "meaning": "to promote, to accelerate",
+    "example": "这次会议促进了合作。",
+    "example_translation": "This meeting promoted cooperation.",
+    "pronunciation": "cù jìn"
+  },
+  {
+    "word": "衡量",
+    "meaning": "to measure, to weigh, to assess",
+    "example": "我们如何衡量成功？",
+    "example_translation": "How do we measure success?",
+    "pronunciation": "héng liáng"
+  },
+  {
+    "word": "毕竟",
+    "meaning": "after all, in the final analysis",
+    "example": "他毕竟是外国人，不了解情况。",
+    "example_translation": "After all, he is a foreigner and doesn't understand the situation.",
+    "pronunciation": "bì jìng"
+  },
+  {
+    "word": "措施",
+    "meaning": "measure, step (to handle a situation)",
+    "example": "政府采取了新的安全措施。",
+    "example_translation": "The government adopted new safety measures.",
+    "pronunciation": "cuò shī"
+  },
+  {
+    "word": "挑战",
+    "meaning": "challenge; to challenge",
+    "example": "这是一个新的挑战。",
+    "example_translation": "This is a new challenge.",
+    "pronunciation": "tiǎo zhàn"
+  },
+  {
+    "word": "领域",
+    "meaning": "field, domain, realm",
+    "example": "他在这个领域很有经验。",
+    "example_translation": "He is very experienced in this field.",
+    "pronunciation": "lǐng yù"
+  },
+  {
+    "word": "局势",
+    "meaning": "situation, state of affairs (often refers to political/military)",
+    "example": "国际局势复杂多变。",
+    "example_translation": "The international situation is complex and ever-changing.",
+    "pronunciation": "jú shì"
+  },
+  {
+    "word": "潜力",
+    "meaning": "potential, capability",
+    "example": "他有很大的潜力。",
+    "example_translation": "He has great potential.",
+    "pronunciation": "qián lì"
+  },
+  {
+    "word": "危机",
+    "meaning": "crisis",
+    "example": "我们正面临一场经济危机。",
+    "example_translation": "We are facing an economic crisis.",
+    "pronunciation": "wēi jī"
+  },
+  {
+    "word": "策略",
+    "meaning": "strategy, tactic",
+    "example": "公司制定了新的市场策略。",
+    "example_translation": "The company formulated a new market strategy.",
+    "pronunciation": "cè lüè"
+  },
+  {
+    "word": "观念",
+    "meaning": "concept, notion, idea",
+    "example": "他的观念很传统。",
+    "example_translation": "His ideas are very traditional.",
+    "pronunciation": "guān niàn"
+  },
+  {
+    "word": "本质",
+    "meaning": "essence, nature, intrinsic quality",
+    "example": "问题的本质是什么？",
+    "example_translation": "What is the essence of the problem?",
+    "pronunciation": "běn zhì"
+  },
+  {
+    "word": "立场",
+    "meaning": "position, stance, viewpoint",
+    "example": "他坚持自己的立场。",
+    "example_translation": "He insists on his own position.",
+    "pronunciation": "lì chǎng"
+  },
+  {
+    "word": "预期",
+    "meaning": "to expect, to anticipate; expectation",
+    "example": "结果超出了我们的预期。",
+    "example_translation": "The result exceeded our expectations.",
+    "pronunciation": "yù qī"
+  },
+  {
+    "word": "毕竟",
+    "meaning": "after all, in the final analysis",
+    "example": "他毕竟是外国人，不了解情况。",
+    "example_translation": "After all, he is a foreigner and doesn't understand the situation.",
+    "pronunciation": "bì jìng"
+  },
+  {
+    "word": "持续",
+    "meaning": "to continue, to sustain",
+    "example": "雨持续下了三天。",
+    "example_translation": "The rain continued for three days.",
+    "pronunciation": "chí xù"
+  },
+  {
+    "word": "调整",
+    "meaning": "to adjust, to regulate; adjustment",
+    "example": "我们需要调整工作计划。",
+    "example_translation": "We need to adjust our work plan.",
+    "pronunciation": "tiáo zhěng"
+  }
+
+]

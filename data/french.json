@@ -828,5 +828,218 @@
     "example": "Le concert est annulé.",
     "example_translation": "The concert is cancelled.",
     "pronunciation": "ah-nyoo-lay"
+  },
+  
+  {
+    "word": "épanouissement",
+    "meaning": "flourishing, blossoming, fulfillment, personal development",
+    "example": "L'épanouissement personnel est essentiel au bonheur.",
+    "example_translation": "Personal fulfillment is essential for happiness.",
+    "pronunciation": "eh-pa-noo-eess-mah(n)"
+  },
+  {
+    "word": "néanmoins",
+    "meaning": "nevertheless, nonetheless, however",
+    "example": "Il était fatigué, néanmoins il a continué à travailler.",
+    "example_translation": "He was tired; nevertheless, he continued to work.",
+    "pronunciation": "neh-ah(n)-mwa(n)"
+  },
+  {
+    "word": "autrui",
+    "meaning": "others (referring to other people in general)",
+    "example": "Il est important de respecter autrui.",
+    "example_translation": "It is important to respect others.",
+    "pronunciation": "oh-trui"
+  },
+  {
+    "word": "subtil",
+    "meaning": "subtle, delicate, astute",
+    "example": "Il y a une différence subtile entre les deux mots.",
+    "example_translation": "There is a subtle difference between the two words.",
+    "pronunciation": "syb-teel"
+  },
+  {
+    "word": "pertinent",
+    "meaning": "relevant, pertinent, appropriate",
+    "example": "Votre commentaire est très pertinent.",
+    "example_translation": "Your comment is very relevant.",
+    "pronunciation": "pair-tee-nah(n)"
+  },
+  {
+    "word": "appréhender",
+    "meaning": "to apprehend, to grasp/understand, to fear/dread",
+    "example": "Il faut appréhender la complexité du problème.",
+    "example_translation": "One must grasp the complexity of the problem.",
+    "pronunciation": "ah-pray-ah(n)-day"
+  },
+  {
+    "word": "dénigrer",
+    "meaning": "to belittle, to disparage, to run down",
+    "example": "Il ne faut jamais dénigrer le travail des autres.",
+    "example_translation": "One must never belittle the work of others.",
+    "pronunciation": "day-nee-gray"
+  },
+  {
+    "word": "convoiter",
+    "meaning": "to covet, to crave, to long for",
+    "example": "Il convoite la richesse et le pouvoir.",
+    "example_translation": "He covets wealth and power.",
+    "pronunciation": "koh(n)-vwa-tay"
+  },
+  {
+    "word": "insipide",
+    "meaning": "insipid, bland, tasteless (also figurative: dull, uninspired)",
+    "example": "Ce plat était vraiment insipide.",
+    "example_translation": "This dish was truly tasteless.",
+    "pronunciation": "a(n)-see-peed"
+  },
+  {
+    "word": "proliférer",
+    "meaning": "to proliferate, to multiply rapidly",
+    "example": "Les rumeurs ont commencé à proliférer.",
+    "example_translation": "The rumors began to proliferate.",
+    "pronunciation": "pro-lee-fay-ray"
+  },
+  
+  {
+    "word": "concomitant",
+    "meaning": "concomitant, accompanying, concurrent",
+    "example": "Les difficultés économiques sont souvent concomitantes à l'instabilité politique.",
+    "example_translation": "Economic difficulties are often concomitant with political instability.",
+    "pronunciation": "ko(n)-ko-mee-tah(n)"
+  },
+  {
+    "word": "diligence",
+    "meaning": "diligence, conscientiousness, care",
+    "example": "Il a traité le dossier avec la plus grande diligence.",
+    "example_translation": "He handled the file with the utmost diligence.",
+    "pronunciation": "dee-lee-jah(n)s"
+  },
+  {
+    "word": "exacerber",
+    "meaning": "to exacerbate, to aggravate, to heighten",
+    "example": "Ce commentaire a exacerbé la tension.",
+    "example_translation": "This comment exacerbated the tension.",
+    "pronunciation": "eg-za-sair-bay"
+  },
+  {
+    "word": "prémices",
+    "meaning": "beginnings, early stages, first signs (always plural)",
+    "example": "Nous sommes aux prémices d'une nouvelle ère.",
+    "example_translation": "We are at the beginning of a new era.",
+    "pronunciation": "pray-meess"
+  },
+  {
+    "word": "subvertir",
+    "meaning": "to subvert, to undermine, to overthrow",
+    "example": "Le but était de subvertir le système en place.",
+    "example_translation": "The goal was to subvert the established system.",
+    "pronunciation": "syb-ver-teer"
+  },
+  {
+    "word": "ubiquité",
+    "meaning": "ubiquity, omnipresence",
+    "example": "L'ubiquité des téléphones portables est remarquable.",
+    "example_translation": "The ubiquity of mobile phones is remarkable.",
+    "pronunciation": "yoo-bee-kee-tay"
+  },
+  {
+    "word": "velléité",
+    "meaning": "velleity, faint desire, mere wish (often implies lack of resolve)",
+    "example": "Il n'avait qu'une velléité de changer d'emploi.",
+    "example_translation": "He only had a faint desire to change jobs.",
+    "pronunciation": "veh-lay-ee-tay"
+  },
+  {
+    "word": "dispendieux",
+    "meaning": "expensive, costly, lavish",
+    "example": "L'entretien de cette voiture est très dispendieux.",
+    "example_translation": "Maintaining this car is very expensive.",
+    "pronunciation": "dees-pah(n)-dyoo"
+  },
+  {
+    "word": "irrévocable",
+    "meaning": "irrevocable, irreversible",
+    "example": "La décision était irrévocable.",
+    "example_translation": "The decision was irrevocable.",
+    "pronunciation": "eer-ray-vo-kabl"
+  },
+  {
+    "word": "pécuniaire",
+    "meaning": "pecuniary, financial",
+    "example": "Il s'agit d'un avantage pécuniaire.",
+    "example_translation": "This is a financial benefit.",
+    "pronunciation": "pay-kyu-nyair"
+  },
+  
+  {
+    "word": "circonspect",
+    "meaning": "circumspect, cautious, wary",
+    "example": "Il est resté circonspect face à la proposition.",
+    "example_translation": "He remained circumspect regarding the proposal.",
+    "pronunciation": "seer-ko(n)-spekt"
+  },
+  {
+    "word": "dichotomie",
+    "meaning": "dichotomy (a division or contrast between two things that are or are represented as being opposed or entirely different)",
+    "example": "Il y a une dichotomie entre la théorie et la pratique.",
+    "example_translation": "There is a dichotomy between theory and practice.",
+    "pronunciation": "dee-ko-to-mee"
+  },
+  {
+    "word": "évanescent",
+    "meaning": "evanescent, fading, vanishing (like a memory or a scent)",
+    "example": "Les souvenirs de l'enfance sont souvent évanescents.",
+    "example_translation": "Childhood memories are often evanescent.",
+    "pronunciation": "eh-va-ness-ah(n)"
+  },
+  {
+    "word": "gregarious",
+    "meaning": "gregarious, sociable (often used for animals that live in groups, but also for people)",
+    "example": "Les êtres humains sont généralement des animaux grégaires.",
+    "example_translation": "Human beings are generally gregarious animals.",
+    "pronunciation": "gre-ga-ryus"
+  },
+  {
+    "word": "hégémonie",
+    "meaning": "hegemony, dominance, leadership (especially by one state or social group over others)",
+    "example": "Le pays cherchait à établir son hégémonie régionale.",
+    "example_translation": "The country sought to establish its regional hegemony.",
+    "pronunciation": "eh-zheh-mo-nee"
+  },
+  {
+    "word": "ignominie",
+    "meaning": "ignominy, public disgrace, dishonor",
+    "example": "Il a vécu dans l'ignominie après le scandale.",
+    "example_translation": "He lived in ignominy after the scandal.",
+    "pronunciation": "eeg-no-mee-nee"
+  },
+  {
+    "word": "juxtaposer",
+    "meaning": "to juxtapose (to place or deal with close together for contrasting effect)",
+    "example": "L'artiste aimait juxtaposer des couleurs vives et sombres.",
+    "example_translation": "The artist liked to juxtapose bright and dark colors.",
+    "pronunciation": "jyks-ta-po-zay"
+  },
+  {
+    "word": "pléthore",
+    "meaning": "plethora, excessive amount, overabundance",
+    "example": "Il y a une pléthore d'informations sur Internet.",
+    "example_translation": "There is a plethora of information on the Internet.",
+    "pronunciation": "pleh-tor"
+  },
+  {
+    "word": "quérulent",
+    "meaning": "querulous, complaining, argumentative (often in a peevish or whining manner)",
+    "example": "Ses remarques quérulentes étaient fatigantes.",
+    "example_translation": "His querulous remarks were tiresome.",
+    "pronunciation": "keh-roo-lah(n)"
+  },
+  {
+    "word": "vicissitude",
+    "meaning": "vicissitude (a change of circumstances or fortune, typically one that is unwelcome or unpleasant; often plural)",
+    "example": "Il a traversé les vicissitudes de la vie avec courage.",
+    "example_translation": "He went through life's vicissitudes with courage.",
+    "pronunciation": "vee-see-see-tyood"
   }
 ]

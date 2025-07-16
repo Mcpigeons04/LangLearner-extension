@@ -1,0 +1,1052 @@
+[
+  {
+    "word": "வணக்கம்",
+    "meaning": "hello/greetings",
+    "example": "வணக்கம், நீங்கள் எப்படி இருக்கிறீர்கள்?",
+    "example_translation": "Hello, how are you?",
+    "pronunciation": "vanakkam"
+  },
+  {
+    "word": "நன்றி",
+    "meaning": "thank you",
+    "example": "உங்களுக்கு நன்றி.",
+    "example_translation": "Thank you to you.",
+    "pronunciation": "nanri"
+  },
+  {
+    "word": "ஆம்",
+    "meaning": "yes",
+    "example": "ஆம், நான் வருகிறேன்.",
+    "example_translation": "Yes, I am coming.",
+    "pronunciation": "aam"
+  },
+  {
+    "word": "இல்லை",
+    "meaning": "no",
+    "example": "இல்லை, அது தவறு.",
+    "example_translation": "No, that is wrong.",
+    "pronunciation": "illai"
+  },
+  {
+    "word": "நான்",
+    "meaning": "I",
+    "example": "நான் ஒரு மாணவன்.",
+    "example_translation": "I am a student.",
+    "pronunciation": "naan"
+  },
+  {
+    "word": "நீ",
+    "meaning": "you (singular, informal)",
+    "example": "நீ எங்கே போகிறாய்?",
+    "example_translation": "Where are you going?",
+    "pronunciation": "nee"
+  },
+  {
+    "word": "அவர்",
+    "meaning": "he/she (respectful)",
+    "example": "அவர் என் ஆசிரியர்.",
+    "example_translation": "He/She is my teacher.",
+    "pronunciation": "avar"
+  },
+  {
+    "word": "அது",
+    "meaning": "it/that",
+    "example": "அது ஒரு புத்தகம்.",
+    "example_translation": "That is a book.",
+    "pronunciation": "athu"
+  },
+  {
+    "word": "இது",
+    "meaning": "this",
+    "example": "இது என் வீடு.",
+    "example_translation": "This is my house.",
+    "pronunciation": "ithu"
+  },
+  {
+    "word": "நாம்",
+    "meaning": "we (inclusive of listener)",
+    "example": "நாம் விளையாடலாம்.",
+    "example_translation": "We can play.",
+    "pronunciation": "naam"
+  },
+  {
+    "word": "நாங்கள்",
+    "meaning": "we (exclusive of listener)",
+    "example": "நாங்கள் வீட்டிற்குச் சென்றோம்.",
+    "example_translation": "We went home.",
+    "pronunciation": "naangal"
+  },
+  {
+    "word": "நீங்கள்",
+    "meaning": "you (plural/formal singular)",
+    "example": "நீங்கள் எப்படி இருக்கிறீர்கள்?",
+    "example_translation": "How are you (formal)?",
+    "pronunciation": "neengal"
+  },
+  {
+    "word": "அவர்கள்",
+    "meaning": "they",
+    "example": "அவர்கள் நண்பர்கள்.",
+    "example_translation": "They are friends.",
+    "pronunciation": "avargal"
+  },
+  {
+    "word": "வீடு",
+    "meaning": "house/home",
+    "example": "என் வீடு பெரியது.",
+    "example_translation": "My house is big.",
+    "pronunciation": "veedu"
+  },
+  {
+    "word": "நீர்",
+    "meaning": "water",
+    "example": "எனக்கு நீர் வேண்டும்.",
+    "example_translation": "I want water.",
+    "pronunciation": "neer"
+  },
+  {
+    "word": "உணவு",
+    "meaning": "food",
+    "example": "இது நல்ல உணவு.",
+    "example_translation": "This is good food.",
+    "pronunciation": "unavu"
+  },
+  {
+    "word": "சாப்பிடு",
+    "meaning": "to eat",
+    "example": "நான் சாப்பிடுகிறேன்.",
+    "example_translation": "I am eating.",
+    "pronunciation": "saappidu"
+  },
+  {
+    "word": "குடி",
+    "meaning": "to drink",
+    "example": "அவன் பால் குடிக்கிறான்.",
+    "example_translation": "He drinks milk.",
+    "pronunciation": "kudi"
+  },
+  {
+    "word": "போ",
+    "meaning": "to go",
+    "example": "நீ பள்ளிக்கு போ.",
+    "example_translation": "You go to school.",
+    "pronunciation": "po"
+  },
+  {
+    "word": "வா",
+    "meaning": "to come",
+    "example": "இங்கே வா.",
+    "example_translation": "Come here.",
+    "pronunciation": "vaa"
+  },
+  {
+    "word": "பார்",
+    "meaning": "to see/look",
+    "example": "அவனைப் பார்.",
+    "example_translation": "Look at him.",
+    "pronunciation": "paar"
+  },
+  {
+    "word": "செய்",
+    "meaning": "to do/make",
+    "example": "நீ என்ன செய்கிறாய்?",
+    "example_translation": "What are you doing?",
+    "pronunciation": "sei"
+  },
+  {
+    "word": "படி",
+    "meaning": "to read/study",
+    "example": "நான் புத்தகம் படிக்கிறேன்.",
+    "example_translation": "I am reading a book.",
+    "pronunciation": "padi"
+  },
+  {
+    "word": "பேசு",
+    "meaning": "to speak/talk",
+    "example": "தமிழ் பேசு.",
+    "example_translation": "Speak Tamil.",
+    "pronunciation": "pesu"
+  },
+  {
+    "word": "கேள்",
+    "meaning": "to ask/listen",
+    "example": "ஒரு கேள்வி கேள்.",
+    "example_translation": "Ask a question.",
+    "pronunciation": "kel"
+  },
+  {
+    "word": "பெரிய",
+    "meaning": "big",
+    "example": "இது ஒரு பெரிய மரம்.",
+    "example_translation": "This is a big tree.",
+    "pronunciation": "periya"
+  },
+  {
+    "word": "சிறிய",
+    "meaning": "small",
+    "example": "அது ஒரு சிறிய பூனை.",
+    "example_translation": "That is a small cat.",
+    "pronunciation": "siriya"
+  },
+  {
+    "word": "நல்ல",
+    "meaning": "good",
+    "example": "இது ஒரு நல்ல நாள்.",
+    "example_translation": "This is a good day.",
+    "pronunciation": "nalla"
+  },
+  {
+    "word": "கெட்ட",
+    "meaning": "bad",
+    "example": "அது ஒரு கெட்ட செய்தி.",
+    "example_translation": "That is bad news.",
+    "pronunciation": "ketta"
+  },
+  {
+    "word": "புதிய",
+    "meaning": "new",
+    "example": "இது என் புதிய கார்.",
+    "example_translation": "This is my new car.",
+    "pronunciation": "puthiya"
+  },
+  {
+    "word": "பழைய",
+    "meaning": "old",
+    "example": "அவன் பழைய வீடு.",
+    "example_translation": "His old house.",
+    "pronunciation": "pazhaiya"
+  },
+  {
+    "word": "அழகு",
+    "meaning": "beautiful",
+    "example": "இந்த பூ அழகு.",
+    "example_translation": "This flower is beautiful.",
+    "pronunciation": "azhagu"
+  },
+  {
+    "word": "விரும்பு",
+    "meaning": "to like",
+    "example": "நான் அதை விரும்புகிறேன்.",
+    "example_translation": "I like that.",
+    "pronunciation": "virumbu"
+  },
+  {
+    "word": "அன்பு",
+    "meaning": "love",
+    "example": "அன்பு ஒரு சக்தி.",
+    "example_translation": "Love is a power.",
+    "pronunciation": "anbu"
+  },
+  {
+    "word": "பணம்",
+    "meaning": "money",
+    "example": "எனக்கு பணம் இல்லை.",
+    "example_translation": "I don't have money.",
+    "pronunciation": "panam"
+  },
+  {
+    "word": "நேரம்",
+    "meaning": "time",
+    "example": "நேரம் இல்லை.",
+    "example_translation": "No time.",
+    "pronunciation": "neram"
+  },
+  {
+    "word": "இன்று",
+    "meaning": "today",
+    "example": "இன்று விடுமுறை.",
+    "example_translation": "Today is a holiday.",
+    "pronunciation": "indru"
+  },
+  {
+    "word": "நாளை",
+    "meaning": "tomorrow",
+    "example": "நாளை சந்திப்போம்.",
+    "example_translation": "See you tomorrow.",
+    "pronunciation": "naalai"
+  },
+  {
+    "word": "நேற்று",
+    "meaning": "yesterday",
+    "example": "நேற்று மழை பெய்தது.",
+    "example_translation": "It rained yesterday.",
+    "pronunciation": "netru"
+  },
+  {
+    "word": "இங்கே",
+    "meaning": "here",
+    "example": "இங்கே வா.",
+    "example_translation": "Come here.",
+    "pronunciation": "ingae"
+  },
+  {
+    "word": "அங்கே",
+    "meaning": "there",
+    "example": "அங்கே போ.",
+    "example_translation": "Go there.",
+    "pronunciation": "angae"
+  },
+  {
+    "word": "என்ன",
+    "meaning": "what",
+    "example": "இது என்ன?",
+    "example_translation": "What is this?",
+    "pronunciation": "enna"
+  },
+  {
+    "word": "எங்கே",
+    "meaning": "where",
+    "example": "நீ எங்கே இருக்கிறாய்?",
+    "example_translation": "Where are you?",
+    "pronunciation": "engae"
+  },
+  {
+    "word": "எப்போது",
+    "meaning": "when",
+    "example": "நீ எப்போது வருவாய்?",
+    "example_translation": "When will you come?",
+    "pronunciation": "eppothu"
+  },
+  {
+    "word": "ஏன்",
+    "meaning": "why",
+    "example": "நீ ஏன் அழுதாய்?",
+    "example_translation": "Why did you cry?",
+    "pronunciation": "aen"
+  },
+  {
+    "word": "எப்படி",
+    "meaning": "how",
+    "example": "நீ எப்படி செய்தாய்?",
+    "example_translation": "How did you do it?",
+    "pronunciation": "eppadi"
+  },
+  {
+    "word": "மாணவன்",
+    "meaning": "student (male)",
+    "example": "அவன் ஒரு நல்ல மாணவன்.",
+    "example_translation": "He is a good student.",
+    "pronunciation": "maanavan"
+  },
+  {
+    "word": "மாணவி",
+    "meaning": "student (female)",
+    "example": "அவள் ஒரு சிறந்த மாணவி.",
+    "example_translation": "She is an excellent student.",
+    "pronunciation": "maanavi"
+  },
+  {
+    "word": "ஆசிரியர்",
+    "meaning": "teacher",
+    "example": "என் ஆசிரியர் மிகவும் பொறுமையானவர்.",
+    "example_translation": "My teacher is very patient.",
+    "pronunciation": "aasiriyar"
+  },
+  {
+    "word": "நண்பர்",
+    "meaning": "friend",
+    "example": "அவன் என் நெருங்கிய நண்பர்.",
+    "example_translation": "He is my close friend.",
+    "pronunciation": "nanbar"
+  },
+  {
+    "word": "அம்மா",
+    "meaning": "mother",
+    "example": "என் அம்மா சமையல் செய்கிறார்.",
+    "example_translation": "My mother is cooking.",
+    "pronunciation": "amma"
+  },
+  {
+    "word": "அப்பா",
+    "meaning": "father",
+    "example": "என் அப்பா அலுவலகம் சென்றார்.",
+    "example_translation": "My father went to the office.",
+    "pronunciation": "appa"
+  },
+  {
+    "word": "சகோதரன்",
+    "meaning": "brother",
+    "example": "அவன் என் சகோதரன்.",
+    "example_translation": "He is my brother.",
+    "pronunciation": "sagōdharan"
+  },
+  {
+    "word": "சகோதரி",
+    "meaning": "sister",
+    "example": "அவள் என் சகோதரி.",
+    "example_translation": "She is my sister.",
+    "pronunciation": "sagōdari"
+  },
+  {
+    "word": "மகன்",
+    "meaning": "son",
+    "example": "அவருக்கு ஒரு மகன் இருக்கிறார்.",
+    "example_translation": "He has a son.",
+    "pronunciation": "magan"
+  },
+  {
+    "word": "மகள்",
+    "meaning": "daughter",
+    "example": "அவருக்கு ஒரு மகள் இருக்கிறார்.",
+    "example_translation": "He has a daughter.",
+    "pronunciation": "magal"
+  },
+  {
+    "word": "குடும்பம்",
+    "meaning": "family",
+    "example": "என் குடும்பம் பெரியது.",
+    "example_translation": "My family is big.",
+    "pronunciation": "kudumbam"
+  },
+  {
+    "word": "மாமா",
+    "meaning": "uncle (mother's brother / father's younger brother)",
+    "example": "மாமா வந்தார்.",
+    "example_translation": "Uncle came.",
+    "pronunciation": "maamaa"
+  },
+  {
+    "word": "அத்தை",
+    "meaning": "aunt (mother's sister / father's sister)",
+    "example": "அத்தை சென்னை சென்றார்.",
+    "example_translation": "Aunt went to Chennai.",
+    "pronunciation": "aththai"
+  },
+  {
+    "word": "கண்",
+    "meaning": "eye",
+    "example": "அவளுடைய கண்கள் அழகு.",
+    "example_translation": "Her eyes are beautiful.",
+    "pronunciation": "kan"
+  },
+  {
+    "word": "வாய்",
+    "meaning": "mouth",
+    "example": "அவளுடைய வாய் சிறியது.",
+    "example_translation": "Her mouth is small.",
+    "pronunciation": "vaai"
+  },
+  {
+    "word": "கை",
+    "meaning": "hand",
+    "example": "அவன் கையை தூக்கினான்.",
+    "example_translation": "He raised his hand.",
+    "pronunciation": "kai"
+  },
+  {
+    "word": "கால்",
+    "meaning": "leg/foot",
+    "example": "எனக்கு கால் வலித்தது.",
+    "example_translation": "My leg hurt.",
+    "pronunciation": "kaal"
+  },
+  {
+    "word": "தலை",
+    "meaning": "head",
+    "example": "அவன் தலையில் தொப்பி அணிந்தான்.",
+    "example_translation": "He wore a cap on his head.",
+    "pronunciation": "thalai"
+  },
+  {
+    "word": "முடி",
+    "meaning": "hair",
+    "example": "அவளுடைய முடி நீளமானது.",
+    "example_translation": "Her hair is long.",
+    "pronunciation": "mudi"
+  },
+  {
+    "word": "மரம்",
+    "meaning": "tree",
+    "example": "வீட்டுக்கு அருகில் ஒரு மரம் உள்ளது.",
+    "example_translation": "There is a tree near the house.",
+    "pronunciation": "maram"
+  },
+  {
+    "word": "பூனை",
+    "meaning": "cat",
+    "example": "பூனை தூங்குகிறது.",
+    "example_translation": "The cat is sleeping.",
+    "pronunciation": "poonai"
+  },
+  {
+    "word": "நாய்",
+    "meaning": "dog",
+    "example": "நாய் குரைத்தது.",
+    "example_translation": "The dog barked.",
+    "pronunciation": "naay"
+  },
+  {
+    "word": "பறவை",
+    "meaning": "bird",
+    "example": "பறவைகள் பறக்கின்றன.",
+    "example_translation": "Birds are flying.",
+    "pronunciation": "paravai"
+  },
+  {
+    "word": "மீன்",
+    "meaning": "fish",
+    "example": "மீன்கள் தண்ணீரில் நீந்தின.",
+    "example_translation": "Fish swam in the water.",
+    "pronunciation": "meen"
+  },
+  {
+    "word": "பள்ளி",
+    "meaning": "school",
+    "example": "நான் பள்ளிக்குச் செல்கிறேன்.",
+    "example_translation": "I am going to school.",
+    "pronunciation": "palli"
+  },
+  {
+    "word": "கடை",
+    "meaning": "shop/store",
+    "example": "நான் கடைக்குச் சென்றேன்.",
+    "example_translation": "I went to the shop.",
+    "pronunciation": "kadai"
+  },
+  {
+    "word": "சாலை",
+    "meaning": "road",
+    "example": "இது ஒரு பெரிய சாலை.",
+    "example_translation": "This is a big road.",
+    "pronunciation": "saalai"
+  },
+  {
+    "word": "நகரம்",
+    "meaning": "city",
+    "example": "சென்னை ஒரு பெரிய நகரம்.",
+    "example_translation": "Chennai is a big city.",
+    "pronunciation": "nagaram"
+  },
+  {
+    "word": "நாடு",
+    "meaning": "country",
+    "example": "இந்தியா என் நாடு.",
+    "example_translation": "India is my country.",
+    "pronunciation": "naadu"
+  },
+  {
+    "word": "மொழி",
+    "meaning": "language",
+    "example": "தமிழ் ஒரு பழைய மொழி.",
+    "example_translation": "Tamil is an old language.",
+    "pronunciation": "mozhi"
+  },
+  {
+    "word": "சத்தம்",
+    "meaning": "sound/noise",
+    "example": "சத்தம் கேட்கிறது.",
+    "example_translation": "A sound is heard.",
+    "pronunciation": "satham"
+  },
+  {
+    "word": "நிறம்",
+    "meaning": "color",
+    "example": "என்ன நிறம்?",
+    "example_translation": "What color?",
+    "pronunciation": "niram"
+  },
+  {
+    "word": "சிவப்பு",
+    "meaning": "red",
+    "example": "இது சிவப்பு நிறம்.",
+    "example_translation": "This is red color.",
+    "pronunciation": "sivappu"
+  },
+  {
+    "word": "நீலம்",
+    "meaning": "blue",
+    "example": "வானம் நீல நிறம்.",
+    "example_translation": "The sky is blue color.",
+    "pronunciation": "neelam"
+  },
+  {
+    "word": "பச்சை",
+    "meaning": "green",
+    "example": "பச்சை இலை.",
+    "example_translation": "Green leaf.",
+    "pronunciation": "pachai"
+  },
+  {
+    "word": "மஞ்சள்",
+    "meaning": "yellow",
+    "example": "மஞ்சள் பூ.",
+    "example_translation": "Yellow flower.",
+    "pronunciation": "manjal"
+  },
+  {
+    "word": "வெள்ளை",
+    "meaning": "white",
+    "example": "வெள்ளை சட்டை.",
+    "example_translation": "White shirt.",
+    "pronunciation": "vellai"
+  },
+  {
+    "word": "கருப்பு",
+    "meaning": "black",
+    "example": "கருப்பு நாய்.",
+    "example_translation": "Black dog.",
+    "pronunciation": "karuppu"
+  },
+  {
+    "word": "உட்கார்",
+    "meaning": "to sit",
+    "example": "இங்கே உட்கார்.",
+    "example_translation": "Sit here.",
+    "pronunciation": "utkaar"
+  },
+  {
+    "word": "நில்",
+    "meaning": "to stand",
+    "example": "தயவுசெய்து நில்.",
+    "example_translation": "Please stand.",
+    "pronunciation": "nil"
+  },
+  {
+    "word": "கொடு",
+    "meaning": "to give",
+    "example": "எனக்கு கொடு.",
+    "example_translation": "Give it to me.",
+    "pronunciation": "kodu"
+  },
+  {
+    "word": "எடு",
+    "meaning": "to take",
+    "example": "அதை எடு.",
+    "example_translation": "Take that.",
+    "pronunciation": "edu"
+  },
+  {
+    "word": "மகிழ்ச்சி",
+    "meaning": "happiness/joy",
+    "example": "என் மனதில் மகிழ்ச்சி.",
+    "example_translation": "Happiness in my heart.",
+    "pronunciation": "magizhchi"
+  },
+  {
+    "word": "துக்கம்",
+    "meaning": "sadness/sorrow",
+    "example": "அவன் துக்கத்தில் இருந்தான்.",
+    "example_translation": "He was in sorrow.",
+    "pronunciation": "thukkam"
+  },
+  {
+    "word": "உதவி",
+    "meaning": "help; to help",
+    "example": "எனக்கு உதவி வேண்டும்.",
+    "example_translation": "I need help.",
+    "pronunciation": "uthavi"
+  },
+  {
+    "word": "நடை",
+    "meaning": "to walk; walk",
+    "example": "நான் நடந்து பள்ளிக்குச் சென்றேன்.",
+    "example_translation": "I walked to school.",
+    "pronunciation": "nadai"
+  },
+  {
+    "word": "ஓடு",
+    "meaning": "to run",
+    "example": "குழந்தை ஓடியது.",
+    "example_translation": "The child ran.",
+    "pronunciation": "ōdu"
+  },
+  {
+    "word": "தூங்கு",
+    "meaning": "to sleep",
+    "example": "அவன் தூங்குகிறான்.",
+    "example_translation": "He is sleeping.",
+    "pronunciation": "thoongu"
+  },
+  {
+    "word": "விழி",
+    "meaning": "to wake up",
+    "example": "நான் காலையில் சீக்கிரம் விழித்தேன்.",
+    "example_translation": "I woke up early in the morning.",
+    "pronunciation": "vizhi"
+  },
+  {
+    "word": "சமையல்",
+    "meaning": "cooking; to cook",
+    "example": "அவள் சமையல் செய்கிறாள்.",
+    "example_translation": "She is cooking.",
+    "pronunciation": "samaiyal"
+  },
+  {
+    "word": "கடிதம்",
+    "meaning": "letter",
+    "example": "நான் ஒரு கடிதம் எழுதினேன்.",
+    "example_translation": "I wrote a letter.",
+    "pronunciation": "kaditham"
+  },
+  {
+    "word": "கணினி",
+    "meaning": "computer",
+    "example": "அவன் கணினியில் வேலை செய்கிறான்.",
+    "example_translation": "He is working on the computer.",
+    "pronunciation": "kanini"
+  },
+  {
+    "word": "தொலைபேசி",
+    "meaning": "telephone/phone",
+    "example": "என் தொலைபேசி ஒலித்தது.",
+    "example_translation": "My phone rang.",
+    "pronunciation": "tholaipesi"
+  },
+  {
+    "word": "சட்டை",
+    "meaning": "shirt",
+    "example": "நான் ஒரு புதிய சட்டை வாங்கினேன்.",
+    "example_translation": "I bought a new shirt.",
+    "pronunciation": "sattai"
+  },
+  {
+    "word": "மேம்பாடு",
+    "meaning": "development, improvement",
+    "example": "சமூக மேம்பாடு அவசியம்.",
+    "example_translation": "Social development is essential.",
+    "pronunciation": "mēmbaadu"
+  },
+  {
+    "word": "தாக்கம்",
+    "meaning": "impact, effect, influence",
+    "example": "புதிய திட்டத்தின் தாக்கம் என்ன?",
+    "example_translation": "What is the impact of the new plan?",
+    "pronunciation": "thaakkam"
+  },
+  {
+    "word": "அரசியல்",
+    "meaning": "politics",
+    "example": "அவர் அரசியலில் ஆர்வம் கொண்டவர்.",
+    "example_translation": "He is interested in politics.",
+    "pronunciation": "arasiyal"
+  },
+  {
+    "word": "பொருளாதாரம்",
+    "meaning": "economy",
+    "example": "நாட்டின் பொருளாதாரம் வளர்ச்சி அடைகிறது.",
+    "example_translation": "The country's economy is growing.",
+    "pronunciation": "poruḷaadhaaram"
+  },
+  {
+    "word": "சவால்",
+    "meaning": "challenge",
+    "example": "இது ஒரு பெரிய சவால்.",
+    "example_translation": "This is a big challenge.",
+    "pronunciation": "savaal"
+  },
+  {
+    "word": "நிலைமை",
+    "meaning": "situation, condition",
+    "example": "நிலைமை சீரானது.",
+    "example_translation": "The situation is stable.",
+    "pronunciation": "nilaimai"
+  },
+  {
+    "word": "முயற்சி",
+    "meaning": "effort, attempt",
+    "example": "அவன் மிகுந்த முயற்சி செய்தான்.",
+    "example_translation": "He made great effort.",
+    "pronunciation": "muyarchi"
+  },
+  {
+    "word": "அடைதல்",
+    "meaning": "to achieve, to attain",
+    "example": "அவன் தனது இலக்கை அடைந்தான்.",
+    "example_translation": "He achieved his goal.",
+    "pronunciation": "adaithal"
+  },
+  {
+    "word": "உணர்தல்",
+    "meaning": "to realize, to perceive",
+    "example": "அவன் தனது தவறை உணர்ந்தான்.",
+    "example_translation": "He realized his mistake.",
+    "pronunciation": "unarthal"
+  },
+  {
+    "word": "அறிமுகம்",
+    "meaning": "introduction; to introduce",
+    "example": "அவன் ஒரு புதிய புத்தகத்தை அறிமுகம் செய்தான்.",
+    "example_translation": "He introduced a new book.",
+    "pronunciation": "arimugam"
+  },
+  {
+    "word": "விரிவாக்கம்",
+    "meaning": "expansion, elaboration",
+    "example": "நிறுவனம் விரிவாக்கம் அடைகிறது.",
+    "example_translation": "The company is undergoing expansion.",
+    "pronunciation": "virivaakkam"
+  },
+  {
+    "word": "புலமை",
+    "meaning": "expertise, scholarship",
+    "example": "அவர் தமிழில் மிகுந்த புலமை கொண்டவர்.",
+    "example_translation": "He has great expertise in Tamil.",
+    "pronunciation": "pulamai"
+  },
+  {
+    "word": "திறன்",
+    "meaning": "skill, ability, talent",
+    "example": "அவனுக்கு சிறந்த தலைமை திறன் உள்ளது.",
+    "example_translation": "He has excellent leadership skills.",
+    "pronunciation": "thiran"
+  },
+  {
+    "word": "கருத்து",
+    "meaning": "opinion, idea, concept",
+    "example": "உங்கள் கருத்து என்ன?",
+    "example_translation": "What is your opinion?",
+    "pronunciation": "karuththu"
+  },
+  {
+    "word": "அடையாளம்",
+    "meaning": "identity, recognition, sign",
+    "example": "இது என் நாட்டின் அடையாளம்.",
+    "example_translation": "This is my country's identity.",
+    "pronunciation": "adaiaaḷam"
+  },
+  {
+    "word": "நம்பிக்கை",
+    "meaning": "trust, belief, confidence",
+    "example": "எனக்கு உன்மீது நம்பிக்கை உள்ளது.",
+    "example_translation": "I have trust in you.",
+    "pronunciation": "nambikkai"
+  },
+  {
+    "word": "தத்துவம்",
+    "meaning": "philosophy",
+    "example": "அவன் தத்துவத்தைப் படித்தான்.",
+    "example_translation": "He studied philosophy.",
+    "pronunciation": "thaththuvam"
+  },
+  {
+    "word": "முன்னேற்றம்",
+    "meaning": "progress, advancement",
+    "example": "அறிவியலில் பெரிய முன்னேற்றம் ஏற்பட்டுள்ளது.",
+    "example_translation": "Great progress has been made in science.",
+    "pronunciation": "munnētram"
+  },
+  {
+    "word": "சமத்துவம்",
+    "meaning": "equality",
+    "example": "சமத்துவம் ஒரு முக்கிய கொள்கை.",
+    "example_translation": "Equality is an important principle.",
+    "pronunciation": "samaththuvam"
+  },
+  {
+    "word": "சுதந்திரம்",
+    "meaning": "freedom, independence",
+    "example": "இந்தியாவிற்கு 1947 இல் சுதந்திரம் கிடைத்தது.",
+    "example_translation": "India gained independence in 1947.",
+    "pronunciation": "suthanthiram"
+  },
+  {
+    "word": "பெருமை",
+    "meaning": "pride, glory",
+    "example": "இது எனக்குப் பெருமை அளிக்கிறது.",
+    "example_translation": "This gives me pride.",
+    "pronunciation": "perumai"
+  },
+  {
+    "word": "தொடர்பு",
+    "meaning": "connection, relationship, contact",
+    "example": "அவனுக்கும் எனக்கும் நல்ல தொடர்பு உள்ளது.",
+    "example_translation": "He and I have a good relationship.",
+    "pronunciation": "thodarpul"
+  },
+  {
+    "word": "அதிபர்",
+    "meaning": "president, head (of a country/institution)",
+    "example": "நாட்டின் அதிபர் இன்று வருவார்.",
+    "example_translation": "The country's president will come today.",
+    "pronunciation": "adhipar"
+  },
+  {
+    "word": "உறுதி",
+    "meaning": "firmness, certainty, assurance",
+    "example": "அவர் தனது முடிவில் உறுதியாக இருந்தார்.",
+    "example_translation": "He was firm in his decision.",
+    "pronunciation": "uruthi"
+  },
+  {
+    "word": "பங்கு",
+    "meaning": "share, role, part",
+    "example": "அவருக்கு இந்த திட்டத்தில் ஒரு முக்கிய பங்கு உள்ளது.",
+    "example_translation": "He has an important role in this project.",
+    "pronunciation": "pangu"
+  },
+  {
+    "word": "முக்கியத்துவம்",
+    "meaning": "importance, significance",
+    "example": "கல்வியின் முக்கியத்துவம் என்ன?",
+    "example_translation": "What is the importance of education?",
+    "pronunciation": "mukkiyatuvam"
+  },
+  {
+    "word": "செயல்பாடு",
+    "meaning": "activity, function, operation",
+    "example": "இந்த இயந்திரத்தின் செயல்பாடு எளிது.",
+    "example_translation": "The function of this machine is simple.",
+    "pronunciation": "seyalpaadu"
+  },
+  {
+    "word": "பாரம்பரியம்",
+    "meaning": "tradition, heritage",
+    "example": "இது ஒரு பழைய பாரம்பரியம்.",
+    "example_translation": "This is an old tradition.",
+    "pronunciation": "paaramparaiyam"
+  },
+  {
+    "word": "சமூகம்",
+    "meaning": "society, community",
+    "example": "நாம் அனைவரும் ஒரு சமூகத்தின் அங்கம்.",
+    "example_translation": "We are all part of a society.",
+    "pronunciation": "samookam"
+  },
+  {
+    "word": "ஆதாரம்",
+    "meaning": "proof, evidence, source",
+    "example": "உங்களிடம் என்ன ஆதாரம் உள்ளது?",
+    "example_translation": "What evidence do you have?",
+    "pronunciation": "aadhaaram"
+  },
+  {
+    "word": "விவாதம்",
+    "meaning": "discussion, debate",
+    "example": "அவர்களுக்குள் ஒரு விவாதம் நடந்தது.",
+    "example_translation": "A discussion took place between them.",
+    "pronunciation": "vivaadham"
+  },
+  {
+    "word": "முரண்பாடு",
+    "meaning": "contradiction, conflict",
+    "example": "அவர்களின் கருத்துக்களில் முரண்பாடு உள்ளது.",
+    "example_translation": "There is a contradiction in their opinions.",
+    "pronunciation": "muraṇpaadu"
+  },
+  {
+    "word": "ஒப்பீடு",
+    "meaning": "comparison",
+    "example": "இந்த இரண்டுக்கும் இடையில் ஒப்பீடு செய்வோம்.",
+    "example_translation": "Let's make a comparison between these two.",
+    "pronunciation": "oppeedu"
+  },
+  {
+    "word": "நடைமுறை",
+    "meaning": "practice, procedure, practical",
+    "example": "இது ஒரு சிறந்த நடைமுறை.",
+    "example_translation": "This is a good practice.",
+    "pronunciation": "nadai murai"
+  },
+  {
+    "word": "சாதனை",
+    "meaning": "achievement, feat",
+    "example": "இது ஒரு பெரிய சாதனை.",
+    "example_translation": "This is a great achievement.",
+    "pronunciation": "saathanai"
+  },
+  {
+    "word": "புத்திசாலித்தனம்",
+    "meaning": "intelligence, cleverness",
+    "example": "அவள் புத்திசாலித்தனம் மிகுந்தவள்.",
+    "example_translation": "She is very intelligent.",
+    "pronunciation": "buththisaaliththanam"
+  },
+  {
+    "word": "ஆளுமை",
+    "meaning": "personality, charisma, governance",
+    "example": "அவனுக்கு சிறந்த ஆளுமை உள்ளது.",
+    "example_translation": "He has a great personality.",
+    "pronunciation": "aaḷumai"
+  },
+  {
+    "word": "திறமை",
+    "meaning": "talent, capability",
+    "example": "அவன் மிகுந்த திறமைசாலி.",
+    "example_translation": "He is very talented.",
+    "pronunciation": "thiramai"
+  },
+  {
+    "word": "பொறுப்பு",
+    "meaning": "responsibility",
+    "example": "இது என் பொறுப்பு.",
+    "example_translation": "This is my responsibility.",
+    "pronunciation": "poruppu"
+  },
+  {
+    "word": "முதலீடு",
+    "meaning": "investment",
+    "example": "புதிய திட்டத்திற்கு முதலீடு தேவை.",
+    "example_translation": "Investment is needed for the new project.",
+    "pronunciation": "muthaleedu"
+  },
+  {
+    "word": "விதி",
+    "meaning": "rule, law, destiny",
+    "example": "இது இயற்கையின் விதி.",
+    "example_translation": "This is the rule of nature.",
+    "pronunciation": "vidhi"
+  },
+  {
+    "word": "சட்டமன்றம்",
+    "meaning": "legislative assembly",
+    "example": "சட்டமன்றக் கூட்டம் நடந்தது.",
+    "example_translation": "The legislative assembly meeting took place.",
+    "pronunciation": "sattamandram"
+  },
+  {
+    "word": "அறிவு",
+    "meaning": "knowledge",
+    "example": "அவனுக்கு நிறைய அறிவு உள்ளது.",
+    "example_translation": "He has a lot of knowledge.",
+    "pronunciation": "arivu"
+  },
+  {
+    "word": "விழிப்புணர்வு",
+    "meaning": "awareness, consciousness",
+    "example": "சமூக விழிப்புணர்வு தேவை.",
+    "example_translation": "Social awareness is needed.",
+    "pronunciation": "vizhippunarvu"
+  },
+  {
+    "word": "சமநிலை",
+    "meaning": "balance, equilibrium",
+    "example": "வாழ்க்கையில் சமநிலை முக்கியம்.",
+    "example_translation": "Balance is important in life.",
+    "pronunciation": "samanilai"
+  },
+  {
+    "word": "தீர்வு",
+    "meaning": "solution, resolution",
+    "example": "இந்த பிரச்சனைக்கு ஒரு தீர்வு வேண்டும்.",
+    "example_translation": "We need a solution to this problem.",
+    "pronunciation": "theervu"
+  },
+  {
+    "word": "எதிர்பார்ப்பு",
+    "meaning": "expectation, anticipation",
+    "example": "என் எதிர்பார்ப்புகள் நிறைவேறின.",
+    "example_translation": "My expectations were met.",
+    "pronunciation": "ethirpaartpu"
+  },
+  {
+    "word": "பங்குதாரர்",
+    "meaning": "shareholder, partner",
+    "example": "அவர் ஒரு புதிய பங்குதாரர்.",
+    "example_translation": "He is a new shareholder.",
+    "pronunciation": "pangudhaarar"
+  },
+  {
+    "word": "அதிகாரம்",
+    "meaning": "authority, power",
+    "example": "அவருக்கு இந்த முடிவை எடுக்கும் அதிகாரம் உள்ளது.",
+    "example_translation": "He has the authority to make this decision.",
+    "pronunciation": "adhikaaram"
+  },
+  {
+    "word": "கடினம்",
+    "meaning": "difficulty, hard (as a noun)",
+    "example": "இந்த வேலை மிகவும் கடினம்.",
+    "example_translation": "This job is very difficult.",
+    "pronunciation": "kadinam"
+  }
+]

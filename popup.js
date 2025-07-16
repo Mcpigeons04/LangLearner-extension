@@ -90,7 +90,8 @@ const languages = {
   japanese: "japanese",
   korean: "korean",
   kannada: "kannada",
-  tamil:"tamil"
+  tamil:"tamil",
+  mandarin:"mandarin"
 };
 
 // Load the current word based on selected or stored language
