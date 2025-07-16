@@ -1,0 +1,1206 @@
+[
+  {
+    "word": "مرحبا",
+    "meaning": "Hello / Welcome",
+    "example": "مرحبا بكم.",
+    "example_translation": "Welcome (to you all).",
+    "pronunciation": "marhaba"
+  },
+  {
+    "word": "السلام عليكم",
+    "meaning": "Peace be upon you (Islamic greeting)",
+    "example": "السلام عليكم، كيف حالك؟",
+    "example_translation": "Peace be upon you, how are you?",
+    "pronunciation": "assalamu alaikum"
+  },
+  {
+    "word": "وعليكم السلام",
+    "meaning": "And upon you be peace (response to greeting)",
+    "example": "وعليكم السلام، بخير.",
+    "example_translation": "And upon you be peace, I am fine.",
+    "pronunciation": "wa alaikum assalam"
+  },
+  {
+    "word": "شكرا",
+    "meaning": "Thank you",
+    "example": "شكرا جزيلا.",
+    "example_translation": "Thank you very much.",
+    "pronunciation": "shukran"
+  },
+  {
+    "word": "عفوا",
+    "meaning": "You're welcome / Excuse me",
+    "example": "عفوا، لا مشكلة.",
+    "example_translation": "You're welcome, no problem.",
+    "pronunciation": "afwan"
+  },
+  {
+    "word": "نعم",
+    "meaning": "Yes",
+    "example": "نعم، هذا صحيح.",
+    "example_translation": "Yes, this is correct.",
+    "pronunciation": "na'am"
+  },
+  {
+    "word": "لا",
+    "meaning": "No",
+    "example": "لا، ليس الآن.",
+    "example_translation": "No, not now.",
+    "pronunciation": "la"
+  },
+  {
+    "word": "أنا",
+    "meaning": "I / Me",
+    "example": "أنا طالب.",
+    "example_translation": "I am a student.",
+    "pronunciation": "ana"
+  },
+  {
+    "word": "أنتَ",
+    "meaning": "You (masculine singular)",
+    "example": "أنتَ سعيد.",
+    "example_translation": "You are happy.",
+    "pronunciation": "anta"
+  },
+  {
+    "word": "أنتِ",
+    "meaning": "You (feminine singular)",
+    "example": "أنتِ جميلة.",
+    "example_translation": "You are beautiful.",
+    "pronunciation": "anti"
+  },
+  {
+    "word": "هو",
+    "meaning": "He / It (masculine)",
+    "example": "هو معلم.",
+    "example_translation": "He is a teacher.",
+    "pronunciation": "huwa"
+  },
+  {
+    "word": "هي",
+    "meaning": "She / It (feminine)",
+    "example": "هي طبيبة.",
+    "example_translation": "She is a doctor.",
+    "pronunciation": "hiya"
+  },
+  {
+    "word": "نحن",
+    "meaning": "We / Us",
+    "example": "نحن أصدقاء.",
+    "example_translation": "We are friends.",
+    "pronunciation": "nahnu"
+  },
+  {
+    "word": "أنتم",
+    "meaning": "You (masculine plural)",
+    "example": "أنتم هنا.",
+    "example_translation": "You are here.",
+    "pronunciation": "antum"
+  },
+  {
+    "word": "أنتن",
+    "meaning": "You (feminine plural)",
+    "example": "أنتن طالبات.",
+    "example_translation": "You are students (f.pl.).",
+    "pronunciation": "antunna"
+  },
+  {
+    "word": "هم",
+    "meaning": "They (masculine plural)",
+    "example": "هم يذهبون.",
+    "example_translation": "They are going.",
+    "pronunciation": "hum"
+  },
+  {
+    "word": "هن",
+    "meaning": "They (feminine plural)",
+    "example": "هن يتكلمن.",
+    "example_translation": "They are speaking.",
+    "pronunciation": "hunna"
+  },
+  {
+    "word": "ماذا؟",
+    "meaning": "What?",
+    "example": "ماذا تفعل؟",
+    "example_translation": "What are you doing?",
+    "pronunciation": "maadha?"
+  },
+  {
+    "word": "أين؟",
+    "meaning": "Where?",
+    "example": "أين بيتك؟",
+    "example_translation": "Where is your house?",
+    "pronunciation": "aina?"
+  },
+  {
+    "word": "كيف؟",
+    "meaning": "How?",
+    "example": "كيف حالك؟",
+    "example_translation": "How are you?",
+    "pronunciation": "kaifa?"
+  },
+  {
+    "word": "من؟",
+    "meaning": "Who?",
+    "example": "من أنت؟",
+    "example_translation": "Who are you?",
+    "pronunciation": "man?"
+  },
+  {
+    "word": "متى؟",
+    "meaning": "When?",
+    "example": "متى ستأتي؟",
+    "example_translation": "When will you come?",
+    "pronunciation": "mata?"
+  },
+  {
+    "word": "بيت",
+    "meaning": "House",
+    "example": "هذا بيت جميل.",
+    "example_translation": "This is a beautiful house.",
+    "pronunciation": "bayt"
+  },
+  {
+    "word": "كتاب",
+    "meaning": "Book",
+    "example": "هذا كتاب جديد.",
+    "example_translation": "This is a new book.",
+    "pronunciation": "kitaab"
+  },
+  {
+    "word": "ماء",
+    "meaning": "Water",
+    "example": "أريد ماء.",
+    "example_translation": "I want water.",
+    "pronunciation": "maa'"
+  },
+  {
+    "word": "طعام",
+    "meaning": "Food",
+    "example": "الطعام لذيذ.",
+    "example_translation": "The food is delicious.",
+    "pronunciation": "ta'aam"
+  },
+  {
+    "word": "يوم",
+    "meaning": "Day",
+    "example": "هذا يوم جيد.",
+    "example_translation": "This is a good day.",
+    "pronunciation": "yawm"
+  },
+  {
+    "word": "اليوم",
+    "meaning": "Today",
+    "example": "ماذا تفعل اليوم؟",
+    "example_translation": "What are you doing today?",
+    "pronunciation": "al-yawm"
+  },
+  {
+    "word": "غدا",
+    "meaning": "Tomorrow",
+    "example": "سأسافر غدا.",
+    "example_translation": "I will travel tomorrow.",
+    "pronunciation": "ghadan"
+  },
+  {
+    "word": "أمس",
+    "meaning": "Yesterday",
+    "example": "ماذا فعلت أمس؟",
+    "example_translation": "What did you do yesterday?",
+    "pronunciation": "ams"
+  },
+  {
+    "word": "صباح",
+    "meaning": "Morning",
+    "example": "صباح الخير.",
+    "example_translation": "Good morning.",
+    "pronunciation": "sabah"
+  },
+  {
+    "word": "مساء",
+    "meaning": "Evening",
+    "example": "مساء الخير.",
+    "example_translation": "Good evening.",
+    "pronunciation": "masaa'"
+  },
+  {
+    "word": "ليل",
+    "meaning": "Night",
+    "example": "تصبح على خير.",
+    "example_translation": "Good night (to m.s.).",
+    "pronunciation": "layl"
+  },
+  {
+    "word": "الآن",
+    "meaning": "Now",
+    "example": "أريد الذهاب الآن.",
+    "example_translation": "I want to go now.",
+    "pronunciation": "al-aan"
+  },
+  {
+    "word": "أكل",
+    "meaning": "To eat (past tense, he ate)",
+    "example": "أكلت التفاح.",
+    "example_translation": "I ate the apple.",
+    "pronunciation": "akala"
+  },
+  {
+    "word": "شرب",
+    "meaning": "To drink (past tense, he drank)",
+    "example": "شربت الماء.",
+    "example_translation": "I drank the water.",
+    "pronunciation": "shariba"
+  },
+  {
+    "word": "ذهب",
+    "meaning": "To go (past tense, he went)",
+    "example": "ذهبت إلى السوق.",
+    "example_translation": "I went to the market.",
+    "pronunciation": "dhahaba"
+  },
+  {
+    "word": "جاء",
+    "meaning": "To come (past tense, he came)",
+    "example": "جاء صديقي.",
+    "example_translation": "My friend came.",
+    "pronunciation": "jaa'a"
+  },
+  {
+    "word": "قال",
+    "meaning": "To say (past tense, he said)",
+    "example": "قال لي مرحبا.",
+    "example_translation": "He said hello to me.",
+    "pronunciation": "qaala"
+  },
+  {
+    "word": "فهم",
+    "meaning": "To understand (past tense, he understood)",
+    "example": "فهمت الدرس.",
+    "example_translation": "I understood the lesson.",
+    "pronunciation": "fahima"
+  },
+  {
+    "word": "عرف",
+    "meaning": "To know (past tense, he knew)",
+    "example": "عرفت الحقيقة.",
+    "example_translation": "I knew the truth.",
+    "pronunciation": "arafa"
+  },
+  {
+    "word": "أب",
+    "meaning": "Father",
+    "example": "أبي طبيب.",
+    "example_translation": "My father is a doctor.",
+    "pronunciation": "ab"
+  },
+  {
+    "word": "أم",
+    "meaning": "Mother",
+    "example": "أمي معلمة.",
+    "example_translation": "My mother is a teacher.",
+    "pronunciation": "umm"
+  },
+  {
+    "word": "أخ",
+    "meaning": "Brother",
+    "example": "هذا أخي.",
+    "example_translation": "This is my brother.",
+    "pronunciation": "akh"
+  },
+  {
+    "word": "أخت",
+    "meaning": "Sister",
+    "example": "هذه أختي.",
+    "example_translation": "This is my sister.",
+    "pronunciation": "ukht"
+  },
+  {
+    "word": "صديق",
+    "meaning": "Friend (masculine)",
+    "example": "لدي صديق جيد.",
+    "example_translation": "I have a good friend.",
+    "pronunciation": "sadeeq"
+  },
+  {
+    "word": "صديقة",
+    "meaning": "Friend (feminine)",
+    "example": "صديقتي ذكية.",
+    "example_translation": "My friend (f.) is smart.",
+    "pronunciation": "sadeeqah"
+  },
+  {
+    "word": "رجل",
+    "meaning": "Man",
+    "example": "الرجل طويل.",
+    "example_translation": "The man is tall.",
+    "pronunciation": "rajul"
+  },
+  {
+    "word": "امرأة",
+    "meaning": "Woman",
+    "example": "المرأة جميلة.",
+    "example_translation": "The woman is beautiful.",
+    "pronunciation": "imra'ah"
+  },
+  {
+    "word": "طفل",
+    "meaning": "Child (masculine)",
+    "example": "الطفل يضحك.",
+    "example_translation": "The child is laughing.",
+    "pronunciation": "tifl"
+  },
+  {
+    "word": "طفلة",
+    "meaning": "Child (feminine)",
+    "example": "الطفلة نائمة.",
+    "example_translation": "The child (f.) is sleeping.",
+    "pronunciation": "tiflah"
+  },
+  {
+    "word": "سيارة",
+    "meaning": "Car",
+    "example": "لدي سيارة جديدة.",
+    "example_translation": "I have a new car.",
+    "pronunciation": "sayyarah"
+  },
+  {
+    "word": "هاتف",
+    "meaning": "Phone",
+    "example": "هاتفي رن.",
+    "example_translation": "My phone rang.",
+    "pronunciation": "haatif"
+  },
+  {
+    "word": "كم؟",
+    "meaning": "How much / How many?",
+    "example": "كم الساعة؟",
+    "example_translation": "What time is it?",
+    "pronunciation": "kam?"
+  },
+  {
+    "word": "كبير",
+    "meaning": "Big / Old (masculine)",
+    "example": "البيت كبير.",
+    "example_translation": "The house is big.",
+    "pronunciation": "kabeer"
+  },
+  {
+    "word": "صغير",
+    "meaning": "Small / Young (masculine)",
+    "example": "الطفل صغير.",
+    "example_translation": "The child is young.",
+    "pronunciation": "sagheer"
+  },
+  {
+    "word": "جديد",
+    "meaning": "New (masculine)",
+    "example": "الكتاب جديد.",
+    "example_translation": "The book is new.",
+    "pronunciation": "jadeed"
+  },
+  {
+    "word": "قديم",
+    "meaning": "Old (for objects, masculine)",
+    "example": "السيارة قديمة.",
+    "example_translation": "The car is old (f.).",
+    "pronunciation": "qadeem"
+  },
+  {
+    "word": "جميل",
+    "meaning": "Beautiful (masculine)",
+    "example": "المنظر جميل.",
+    "example_translation": "The view is beautiful.",
+    "pronunciation": "jameel"
+  },
+  {
+    "word": "قبيح",
+    "meaning": "Ugly (masculine)",
+    "example": "الرسم قبيح.",
+    "example_translation": "The drawing is ugly.",
+    "pronunciation": "qabeeh"
+  },
+  {
+    "word": "جيد",
+    "meaning": "Good (masculine)",
+    "example": "عمل جيد.",
+    "example_translation": "Good work.",
+    "pronunciation": "jayyid"
+  },
+  {
+    "word": "سيء",
+    "meaning": "Bad (masculine)",
+    "example": "يوم سيء.",
+    "example_translation": "Bad day.",
+    "pronunciation": "sayyi'"
+  },
+  {
+    "word": "حار",
+    "meaning": "Hot (masculine)",
+    "example": "الطقس حار.",
+    "example_translation": "The weather is hot.",
+    "pronunciation": "haar"
+  },
+  {
+    "word": "بارد",
+    "meaning": "Cold (masculine)",
+    "example": "الماء بارد.",
+    "example_translation": "The water is cold.",
+    "pronunciation": "baarid"
+  },
+  {
+    "word": "لذيذ",
+    "meaning": "Delicious (masculine)",
+    "example": "الطعام لذيذ.",
+    "example_translation": "The food is delicious.",
+    "pronunciation": "ladheeth"
+  },
+  {
+    "word": "ممل",
+    "meaning": "Boring (masculine)",
+    "example": "الفيلم ممل.",
+    "example_translation": "The movie is boring.",
+    "pronunciation": "mumill"
+  },
+  {
+    "word": "مثير",
+    "meaning": "Exciting / Interesting (masculine)",
+    "example": "الخبر مثير.",
+    "example_translation": "The news is exciting.",
+    "pronunciation": "mutheer"
+  },
+  {
+    "word": "فقط",
+    "meaning": "Only / Just",
+    "example": "فقط أنا هنا.",
+    "example_translation": "Only I am here.",
+    "pronunciation": "faqat"
+  },
+  {
+    "word": "أيضا",
+    "meaning": "Also / Too",
+    "example": "أنا أيضا أحبها.",
+    "example_translation": "I also like it.",
+    "pronunciation": "aydan"
+  },
+  {
+    "word": "لكن",
+    "meaning": "But",
+    "example": "أريد أن أذهب، لكنني مشغول.",
+    "example_translation": "I want to go, but I am busy.",
+    "pronunciation": "laakin"
+  },
+  {
+    "word": "أو",
+    "meaning": "Or",
+    "example": "هل تريد قهوة أو شاي؟",
+    "example_translation": "Do you want coffee or tea?",
+    "pronunciation": "aw"
+  },
+  {
+    "word": "و",
+    "meaning": "And",
+    "example": "أنا وأنت.",
+    "example_translation": "Me and you.",
+    "pronunciation": "wa"
+  },
+  {
+    "word": "من",
+    "meaning": "From",
+    "example": "أنا من مصر.",
+    "example_translation": "I am from Egypt.",
+    "pronunciation": "min"
+  },
+  {
+    "word": "إلى",
+    "meaning": "To",
+    "example": "أذهب إلى المدرسة.",
+    "example_translation": "I go to school.",
+    "pronunciation": "ila"
+  },
+  {
+    "word": "في",
+    "meaning": "In / At",
+    "example": "الكتاب في الحقيبة.",
+    "example_translation": "The book is in the bag.",
+    "pronunciation": "fi"
+  },
+  {
+    "word": "على",
+    "meaning": "On / Upon",
+    "example": "القلم على الطاولة.",
+    "example_translation": "The pen is on the table.",
+    "pronunciation": "ala"
+  },
+  {
+    "word": "مع",
+    "meaning": "With",
+    "example": "أنا مع أصدقائي.",
+    "example_translation": "I am with my friends.",
+    "pronunciation": "ma'a"
+  },
+  {
+    "word": "لـِ",
+    "meaning": "For / To (possession)",
+    "example": "هذا لي.",
+    "example_translation": "This is for me / This is mine.",
+    "pronunciation": "li"
+  },
+  {
+    "word": "عن",
+    "meaning": "About / From",
+    "example": "تكلم عن الكتاب.",
+    "example_translation": "Speak about the book.",
+    "pronunciation": "an"
+  },
+  {
+    "word": "تحت",
+    "meaning": "Under",
+    "example": "الكرة تحت السرير.",
+    "example_translation": "The ball is under the bed.",
+    "pronunciation": "tahta"
+  },
+  {
+    "word": "فوق",
+    "meaning": "Above / On top of",
+    "example": "الطائر فوق الشجرة.",
+    "example_translation": "The bird is above the tree.",
+    "pronunciation": "fawqa"
+  },
+  {
+    "word": "أمام",
+    "meaning": "In front of",
+    "example": "السيارة أمام البيت.",
+    "example_translation": "The car is in front of the house.",
+    "pronunciation": "amaam"
+  },
+  {
+    "word": "وراء",
+    "meaning": "Behind",
+    "example": "الحديقة وراء المنزل.",
+    "example_translation": "The garden is behind the house.",
+    "pronunciation": "waraa'"
+  },
+  {
+    "word": "يمين",
+    "meaning": "Right (direction)",
+    "example": "استدر يمينا.",
+    "example_translation": "Turn right.",
+    "pronunciation": "yameen"
+  },
+  {
+    "word": "يسار",
+    "meaning": "Left (direction)",
+    "example": "استدر يسارا.",
+    "example_translation": "Turn left.",
+    "pronunciation": "yasaar"
+  },
+  {
+    "word": "شمال",
+    "meaning": "North",
+    "example": "الشمال هو اتجاه.",
+    "example_translation": "North is a direction.",
+    "pronunciation": "shamaal"
+  },
+  {
+    "word": "جنوب",
+    "meaning": "South",
+    "example": "الجنوب هو عكس الشمال.",
+    "example_translation": "South is the opposite of North.",
+    "pronunciation": "janoob"
+  },
+  {
+    "word": "شرق",
+    "meaning": "East",
+    "example": "الشمس تشرق من الشرق.",
+    "example_translation": "The sun rises from the East.",
+    "pronunciation": "sharq"
+  },
+  {
+    "word": "غرب",
+    "meaning": "West",
+    "example": "الشمس تغرب في الغرب.",
+    "example_translation": "The sun sets in the West.",
+    "pronunciation": "gharb"
+  },
+  {
+    "word": "لون",
+    "meaning": "Color",
+    "example": "ما لون هذا؟",
+    "example_translation": "What color is this?",
+    "pronunciation": "lawn"
+  },
+  {
+    "word": "أحمر",
+    "meaning": "Red (masculine)",
+    "example": "الورد أحمر.",
+    "example_translation": "The rose is red.",
+    "pronunciation": "ahmar"
+  },
+  {
+    "word": "أزرق",
+    "meaning": "Blue (masculine)",
+    "example": "السماء زرقاء.",
+    "example_translation": "The sky is blue (f.).",
+    "pronunciation": "azraq"
+  },
+  {
+    "word": "أخضر",
+    "meaning": "Green (masculine)",
+    "example": "الشجر أخضر.",
+    "example_translation": "The tree is green.",
+    "pronunciation": "akhdar"
+  },
+  {
+    "word": "أصفر",
+    "meaning": "Yellow (masculine)",
+    "example": "الشمس صفراء.",
+    "example_translation": "The sun is yellow (f.).",
+    "pronunciation": "asfar"
+  },
+  {
+    "word": "أبيض",
+    "meaning": "White (masculine)",
+    "example": "الثلج أبيض.",
+    "example_translation": "The snow is white.",
+    "pronunciation": "abyad"
+  },
+  {
+    "word": "أسود",
+    "meaning": "Black (masculine)",
+    "example": "الشعر أسود.",
+    "example_translation": "The hair is black.",
+    "pronunciation": "aswad"
+  },
+  {
+    "word": "كل",
+    "meaning": "All / Every",
+    "example": "كل يوم.",
+    "example_translation": "Every day.",
+    "pronunciation": "kull"
+  },
+  {
+    "word": "بعض",
+    "meaning": "Some / A part of",
+    "example": "بعض الناس.",
+    "example_translation": "Some people.",
+    "pronunciation": "ba'd"
+  },
+  {
+    "word": "كثير",
+    "meaning": "Many / Much",
+    "example": "لدي كتب كثيرة.",
+    "example_translation": "I have many books.",
+    "pronunciation": "katheer"
+  },
+  {
+    "word": "قليل",
+    "meaning": "Few / Little",
+    "example": "لدي القليل من المال.",
+    "example_translation": "I have little money.",
+    "pronunciation": "qaleel"
+  },
+  {
+    "word": "جدًا",
+    "meaning": "Very",
+    "example": "أنا سعيد جدًا.",
+    "example_translation": "I am very happy.",
+    "pronunciation": "jiddaan"
+  },
+  {
+    "word": "أفضل",
+    "meaning": "Better / Best",
+    "example": "هذا أفضل.",
+    "example_translation": "This is better.",
+    "pronunciation": "afdal"
+  },
+  {
+    "word": "أسوأ",
+    "meaning": "Worse / Worst",
+    "example": "هذا أسوأ.",
+    "example_translation": "This is worse.",
+    "pronunciation": "aswa'"
+  },
+  {
+    "word": "صوت",
+    "meaning": "Voice / Sound",
+    "example": "سمعت صوتًا.",
+    "example_translation": "I heard a sound.",
+    "pronunciation": "sawt"
+  },
+  {
+    "word": "كلمة",
+    "meaning": "Word",
+    "example": "هذه كلمة جديدة.",
+    "example_translation": "This is a new word.",
+    "pronunciation": "kalimah"
+  },
+  {
+    "word": "جملة",
+    "meaning": "Sentence",
+    "example": "اكتب جملة.",
+    "example_translation": "Write a sentence.",
+    "pronunciation": "jumlah"
+  },
+  {
+    "word": "سؤال",
+    "meaning": "Question",
+    "example": "لدي سؤال.",
+    "example_translation": "I have a question.",
+    "pronunciation": "su'aal"
+  },
+  {
+    "word": "جواب",
+    "meaning": "Answer",
+    "example": "أريد جوابا.",
+    "example_translation": "I want an answer.",
+    "pronunciation": "jawaab"
+  },
+  {
+    "word": "مكان",
+    "meaning": "Place",
+    "example": "هذا مكان جميل.",
+    "example_translation": "This is a beautiful place.",
+    "pronunciation": "makaan"
+  },
+  {
+    "word": "مدينة",
+    "meaning": "City",
+    "example": "أعيش في مدينة كبيرة.",
+    "example_translation": "I live in a big city.",
+    "pronunciation": "madeenah"
+  },
+  {
+    "word": "بلد",
+    "meaning": "Country",
+    "example": "هذا بلدي.",
+    "example_translation": "This is my country.",
+    "pronunciation": "balad"
+  },
+  {
+    "word": "شارع",
+    "meaning": "Street",
+    "example": "المحل في هذا الشارع.",
+    "example_translation": "The shop is on this street.",
+    "pronunciation": "shaari'"
+  },
+  {
+    "word": "مطار",
+    "meaning": "Airport",
+    "example": "التقينا في المطار.",
+    "example_translation": "We met at the airport.",
+    "pronunciation": "mataar"
+  },
+  {
+    "word": "مستشفى",
+    "meaning": "Hospital",
+    "example": "أذهب إلى المستشفى.",
+    "example_translation": "I go to the hospital.",
+    "pronunciation": "mustashfa"
+  },
+  {
+    "word": "جامعة",
+    "meaning": "University",
+    "example": "أنا أدرس في الجامعة.",
+    "example_translation": "I study at the university.",
+    "pronunciation": "jaami'ah"
+  },
+  {
+    "word": "مدرسة",
+    "meaning": "School",
+    "example": "ابني في المدرسة.",
+    "example_translation": "My son is at school.",
+    "pronunciation": "madrasah"
+  },
+  {
+    "word": "عمل",
+    "meaning": "Work / Job",
+    "example": "هذا عمل جيد.",
+    "example_translation": "This is a good job.",
+    "pronunciation": "amal"
+  },
+  {
+    "word": "صورة",
+    "meaning": "Picture / Photo",
+    "example": "هذه صورة جميلة.",
+    "example_translation": "This is a beautiful picture.",
+    "pronunciation": "soorah"
+  },
+  {
+    "word": "فكرة",
+    "meaning": "Idea",
+    "example": "لدي فكرة جديدة.",
+    "example_translation": "I have a new idea.",
+    "pronunciation": "fikrah"
+  },
+  {
+    "word": "شيء",
+    "meaning": "Thing / Something",
+    "example": "أريد شيئا.",
+    "example_translation": "I want something.",
+    "pronunciation": "shay'"
+  },
+  {
+    "word": "كل شيء",
+    "meaning": "Everything",
+    "example": "كل شيء بخير.",
+    "example_translation": "Everything is fine.",
+    "pronunciation": "kull shay'"
+  },
+  {
+    "word": "لا شيء",
+    "meaning": "Nothing",
+    "example": "لا شيء مهم.",
+    "example_translation": "Nothing is important.",
+    "pronunciation": "la shay'"
+  }, 
+  {
+    "word": "تنمية",
+    "meaning": "development",
+    "example": "تساهم الحكومة في التنمية الاقتصادية.",
+    "example_translation": "The government contributes to economic development.",
+    "pronunciation": "tanmiyah"
+  },
+  {
+    "word": "تأثير",
+    "meaning": "impact, effect, influence",
+    "example": "للتكنولوجيا تأثير كبير على حياتنا.",
+    "example_translation": "Technology has a big impact on our lives.",
+    "pronunciation": "ta'theer"
+  },
+  {
+    "word": "سياسة",
+    "meaning": "politics, policy",
+    "example": "تهتم الدولة بالسياسة الخارجية.",
+    "example_translation": "The state is concerned with foreign policy.",
+    "pronunciation": "siyaasah"
+  },
+  {
+    "word": "منافسة",
+    "meaning": "competition",
+    "example": "المنافسة شديدة في السوق.",
+    "example_translation": "Competition is fierce in the market.",
+    "pronunciation": "munāfasah"
+  },
+  {
+    "word": "تحدي",
+    "meaning": "challenge",
+    "example": "نواجه تحديات كبيرة.",
+    "example_translation": "We face big challenges.",
+    "pronunciation": "tahaddi"
+  },
+  {
+    "word": "تحسين",
+    "meaning": "improvement, to improve (gerund)",
+    "example": "نسعى لتحسين الخدمات.",
+    "example_translation": "We strive to improve services.",
+    "pronunciation": "tahseen"
+  },
+  {
+    "word": "تجربة",
+    "meaning": "experience, experiment",
+    "example": "لديه تجربة غنية في هذا المجال.",
+    "example_translation": "He has rich experience in this field.",
+    "pronunciation": "tajribah"
+  },
+  {
+    "word": "تحقيق",
+    "meaning": "achievement, realization, investigation",
+    "example": "تحقيق الأهداف يتطلب عملاً شاقًا.",
+    "example_translation": "Achieving goals requires hard work.",
+    "pronunciation": "tahqeeq"
+  },
+  {
+    "word": "إدراك",
+    "meaning": "realization, perception, awareness",
+    "example": "وصل إلى إدراك عميق.",
+    "example_translation": "He reached a deep realization.",
+    "pronunciation": "idraak"
+  },
+  {
+    "word": "بشكل عام",
+    "meaning": "in general, generally",
+    "example": "بشكل عام، الوضع جيد.",
+    "example_translation": "In general, the situation is good.",
+    "pronunciation": "bi shakl 'aamm"
+  },
+  {
+    "word": "تدريجيا",
+    "meaning": "gradually",
+    "example": "تتحسن الأمور تدريجيا.",
+    "example_translation": "Things are gradually improving.",
+    "pronunciation": "tadreejiyan"
+  },
+  {
+    "word": "شائع",
+    "meaning": "common, widespread",
+    "example": "هذا مرض شائع.",
+    "example_translation": "This is a common disease.",
+    "pronunciation": "shaa'i'"
+  },
+  {
+    "word": "كافٍ",
+    "meaning": "sufficient, enough",
+    "example": "هذا المبلغ كافٍ.",
+    "example_translation": "This amount is sufficient.",
+    "pronunciation": "kaafin"
+  },
+  {
+    "word": "مسؤولية",
+    "meaning": "responsibility",
+    "example": "هذه مسؤوليتي.",
+    "example_translation": "This is my responsibility.",
+    "pronunciation": "mas'ooliyah"
+  },
+  {
+    "word": "إيجابي",
+    "meaning": "positive",
+    "example": "يجب أن تكون إيجابيا.",
+    "example_translation": "You must be positive.",
+    "pronunciation": "eejaabi"
+  },
+  {
+    "word": "سلبي",
+    "meaning": "negative",
+    "example": "لا تفكر بسلبية.",
+    "example_translation": "Don't think negatively.",
+    "pronunciation": "salbi"
+  },
+  {
+    "word": "يواجه",
+    "meaning": "to face, to confront",
+    "example": "نحن نواجه صعوبات.",
+    "example_translation": "We are facing difficulties.",
+    "pronunciation": "yuwaajih"
+  },
+  {
+    "word": "مفتاح",
+    "meaning": "key (figurative or literal)",
+    "example": "الصبر هو مفتاح النجاح.",
+    "example_translation": "Patience is the key to success.",
+    "pronunciation": "miftaah"
+  },
+  {
+    "word": "اتجاه",
+    "meaning": "trend, direction",
+    "example": "هذا هو اتجاه السوق.",
+    "example_translation": "This is the market trend.",
+    "pronunciation": "ittijaah"
+  },
+  {
+    "word": "ابتكار",
+    "meaning": "innovation",
+    "example": "الشركة تشجع الابتكار.",
+    "example_translation": "The company encourages innovation.",
+    "pronunciation": "ibtikaar"
+  },
+  {
+    "word": "معقد",
+    "meaning": "complex, complicated",
+    "example": "المشكلة معقدة.",
+    "example_translation": "The problem is complicated.",
+    "pronunciation": "mu'aqqad"
+  },
+  {
+    "word": "بسيط",
+    "meaning": "simple, basic",
+    "example": "الشرح بسيط جدا.",
+    "example_translation": "The explanation is very simple.",
+    "pronunciation": "baseet"
+  },
+  {
+    "word": "محدد",
+    "meaning": "specific, determined",
+    "example": "أريد معلومات محددة.",
+    "example_translation": "I want specific information.",
+    "pronunciation": "muhaddad"
+  },
+  {
+    "word": "مجرد",
+    "meaning": "abstract, mere",
+    "example": "هذه مجرد فكرة.",
+    "example_translation": "This is just an idea.",
+    "pronunciation": "mujarrad"
+  },
+  {
+    "word": "تحليل",
+    "meaning": "analysis",
+    "example": "طلبوا مني تحليل الوضع.",
+    "example_translation": "They asked me to analyze the situation.",
+    "pronunciation": "tahleel"
+  },
+  {
+    "word": "تقييم",
+    "meaning": "evaluation, assessment",
+    "example": "تم تقييم المشروع.",
+    "example_translation": "The project was evaluated.",
+    "pronunciation": "taqyeem"
+  },
+  {
+    "word": "على الرغم من",
+    "meaning": "despite, although",
+    "example": "على الرغم من الصعوبات، نجح.",
+    "example_translation": "Despite the difficulties, he succeeded.",
+    "pronunciation": "ala al-raghm min"
+  },
+  {
+    "word": "يشير إلى",
+    "meaning": "to indicate, to refer to",
+    "example": "التقرير يشير إلى تقدم.",
+    "example_translation": "The report indicates progress.",
+    "pronunciation": "yusheer ila"
+  },
+  {
+    "word": "يلتزم بـ",
+    "meaning": "to commit to, to adhere to",
+    "example": "نحن نلتزم بالجودة.",
+    "example_translation": "We are committed to quality.",
+    "pronunciation": "yaltazim bi"
+  },
+  {
+    "word": "مساهمة",
+    "meaning": "contribution",
+    "example": "قدم مساهمة قيمة.",
+    "example_translation": "He made a valuable contribution.",
+    "pronunciation": "musaahamah"
+  },
+  {
+    "word": "يؤدي إلى",
+    "meaning": "to lead to, to result in",
+    "example": "الإهمال يؤدي إلى الفشل.",
+    "example_translation": "Negligence leads to failure.",
+    "pronunciation": "yu'addi ila"
+  },
+  {
+    "word": "نقص",
+    "meaning": "lack, shortage",
+    "example": "هناك نقص في المياه.",
+    "example_translation": "There is a shortage of water.",
+    "pronunciation": "naqs"
+  },
+  {
+    "word": "يعكس",
+    "meaning": "to reflect, to embody",
+    "example": "تصرفاته تعكس شخصيته.",
+    "example_translation": "His actions reflect his personality.",
+    "pronunciation": "ya'kis"
+  },
+  {
+    "word": "يعزز",
+    "meaning": "to promote, to enhance, to strengthen",
+    "example": "التعاون يعزز العلاقات.",
+    "example_translation": "Cooperation strengthens relations.",
+    "pronunciation": "yu'azziz"
+  },
+  {
+    "word": "يقيس",
+    "meaning": "to measure",
+    "example": "كيف نقيس النجاح؟",
+    "example_translation": "How do we measure success?",
+    "pronunciation": "yaqees"
+  },
+  {
+    "word": "إجراءات",
+    "meaning": "measures, procedures",
+    "example": "اتخذوا إجراءات صارمة.",
+    "example_translation": "They took strict measures.",
+    "pronunciation": "ijraa'aat"
+  },
+  {
+    "word": "قطاع",
+    "meaning": "sector, segment",
+    "example": "القطاع الخاص مهم.",
+    "example_translation": "The private sector is important.",
+    "pronunciation": "qiṭaa'"
+  },
+  {
+    "word": "وضع",
+    "meaning": "situation, status, position",
+    "example": "الوضع السياسي غير مستقر.",
+    "example_translation": "The political situation is unstable.",
+    "pronunciation": "waḍ'un"
+  },
+  {
+    "word": "إمكانية",
+    "meaning": "possibility, potential",
+    "example": "هناك إمكانية للنمو.",
+    "example_translation": "There is potential for growth.",
+    "pronunciation": "imkaaniyyah"
+  },
+  {
+    "word": "أزمة",
+    "meaning": "crisis",
+    "example": "نحن نمر بأزمة.",
+    "example_translation": "We are going through a crisis.",
+    "pronunciation": "azmah"
+  },
+  {
+    "word": "استراتيجية",
+    "meaning": "strategy",
+    "example": "وضعوا استراتيجية جديدة.",
+    "example_translation": "They developed a new strategy.",
+    "pronunciation": "isteeraateejiyah"
+  },
+  {
+    "word": "مفهوم",
+    "meaning": "concept, notion",
+    "example": "هذا مفهوم جديد.",
+    "example_translation": "This is a new concept.",
+    "pronunciation": "mafhoom"
+  },
+  {
+    "word": "جوهر",
+    "meaning": "essence, core",
+    "example": "جوهر المشكلة يكمن هنا.",
+    "example_translation": "The essence of the problem lies here.",
+    "pronunciation": "jawhar"
+  },
+  {
+    "word": "موقف",
+    "meaning": "stance, position, attitude",
+    "example": "ما هو موقفك من هذا؟",
+    "example_translation": "What is your stance on this?",
+    "pronunciation": "mawqiif"
+  },
+  {
+    "word": "توقعات",
+    "meaning": "expectations",
+    "example": "تجاوز الأداء توقعاتنا.",
+    "example_translation": "The performance exceeded our expectations.",
+    "pronunciation": "tawaqqu'aat"
+  },
+  {
+    "word": "يستمر",
+    "meaning": "to continue, to last",
+    "example": "المطر يستمر لعدة ساعات.",
+    "example_translation": "The rain continues for several hours.",
+    "pronunciation": "yastamir"
+  },
+  {
+    "word": "تكيف",
+    "meaning": "adaptation; to adapt",
+    "example": "يجب علينا التكيف مع التغيرات.",
+    "example_translation": "We must adapt to changes.",
+    "pronunciation": "takayuf"
+  },
+  {
+    "word": "ظاهرة",
+    "meaning": "phenomenon",
+    "example": "هذه ظاهرة طبيعية.",
+    "example_translation": "This is a natural phenomenon.",
+    "pronunciation": "ẓaahirah"
+  },
+  {
+    "word": "مبادرة",
+    "meaning": "initiative",
+    "example": "لقد اتخذ مبادرة جيدة.",
+    "example_translation": "He took a good initiative.",
+    "pronunciation": "mubaadarah"
+  },
+  {
+    "word": "تعزيز",
+    "meaning": "strengthening, promotion",
+    "example": "نهدف إلى تعزيز العلاقات.",
+    "example_translation": "We aim to strengthen relations.",
+    "pronunciation": "ta'zeez"
+  }
+]
