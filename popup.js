@@ -91,7 +91,11 @@ const languages = {
   korean: "korean",
   kannada: "kannada",
   tamil:"tamil",
-  mandarin:"mandarin"
+  mandarin:"mandarin",
+  arabic:"arabic",
+  russian:"russian",
+  bengali:"bengali",
+  portuguese:"portuguese"
 };
 
 // Load the current word based on selected or stored language

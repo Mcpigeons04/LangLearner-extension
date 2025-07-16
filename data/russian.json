@@ -1,0 +1,1117 @@
+[
+  {
+    "word": "Привет",
+    "meaning": "Hi / Hello (informal)",
+    "example": "Привет, как дела?",
+    "example_translation": "Hi, how are you?",
+    "pronunciation": "pri-VYET"
+  },
+  {
+    "word": "Здравствуйте",
+    "meaning": "Hello (formal / plural)",
+    "example": "Здравствуйте, учитель.",
+    "example_translation": "Hello, teacher.",
+    "pronunciation": "ZDRA-stvooy-tye"
+  },
+  {
+    "word": "Спасибо",
+    "meaning": "Thank you",
+    "example": "Спасибо большое!",
+    "example_translation": "Thank you very much!",
+    "pronunciation": "spa-SEE-ba"
+  },
+  {
+    "word": "Пожалуйста",
+    "meaning": "Please / You're welcome",
+    "example": "Пожалуйста, садитесь.",
+    "example_translation": "Please, sit down.",
+    "pronunciation": "pa-ZHALL-oosta"
+  },
+  {
+    "word": "Да",
+    "meaning": "Yes",
+    "example": "Да, это правда.",
+    "example_translation": "Yes, it's true.",
+    "pronunciation": "DA"
+  },
+  {
+    "word": "Нет",
+    "meaning": "No",
+    "example": "Нет, это не так.",
+    "example_translation": "No, it's not like that.",
+    "pronunciation": "NYET"
+  },
+  {
+    "word": "Я",
+    "meaning": "I",
+    "example": "Я студент.",
+    "example_translation": "I am a student.",
+    "pronunciation": "YA"
+  },
+  {
+    "word": "Ты",
+    "meaning": "You (informal singular)",
+    "example": "Ты хорошо говоришь по-русски.",
+    "example_translation": "You speak Russian well.",
+    "pronunciation": "TY"
+  },
+  {
+    "word": "Вы",
+    "meaning": "You (formal singular / plural)",
+    "example": "Вы говорите по-английски?",
+    "example_translation": "Do you speak English?",
+    "pronunciation": "VY"
+  },
+  {
+    "word": "Он",
+    "meaning": "He",
+    "example": "Он мой брат.",
+    "example_translation": "He is my brother.",
+    "pronunciation": "ON"
+  },
+  {
+    "word": "Она",
+    "meaning": "She",
+    "example": "Она моя сестра.",
+    "example_translation": "She is my sister.",
+    "pronunciation": "a-NAH"
+  },
+  {
+    "word": "Оно",
+    "meaning": "It (neuter)",
+    "example": "Это окно. Оно большое.",
+    "example_translation": "This is a window. It is big.",
+    "pronunciation": "a-NO"
+  },
+  {
+    "word": "Мы",
+    "meaning": "We",
+    "example": "Мы друзья.",
+    "example_translation": "We are friends.",
+    "pronunciation": "MY"
+  },
+  {
+    "word": "Они",
+    "meaning": "They",
+    "example": "Они работают.",
+    "example_translation": "They are working.",
+    "pronunciation": "a-NEE"
+  },
+  {
+    "word": "Кто?",
+    "meaning": "Who?",
+    "example": "Кто это?",
+    "example_translation": "Who is this?",
+    "pronunciation": "KTO"
+  },
+  {
+    "word": "Что?",
+    "meaning": "What?",
+    "example": "Что это?",
+    "example_translation": "What is this?",
+    "pronunciation": "SHTO"
+  },
+  {
+    "word": "Где?",
+    "meaning": "Where?",
+    "example": "Где ты живешь?",
+    "example_translation": "Where do you live?",
+    "pronunciation": "GDE"
+  },
+  {
+    "word": "Когда?",
+    "meaning": "When?",
+    "example": "Когда ты придешь?",
+    "example_translation": "When will you come?",
+    "pronunciation": "kag-DA"
+  },
+  {
+    "word": "Как?",
+    "meaning": "How?",
+    "example": "Как дела?",
+    "example_translation": "How are things?",
+    "pronunciation": "KAK"
+  },
+  {
+    "word": "Почему?",
+    "meaning": "Why?",
+    "example": "Почему нет?",
+    "example_translation": "Why not?",
+    "pronunciation": "pa-chee-MOO"
+  },
+  {
+    "word": "Дом",
+    "meaning": "House / Home",
+    "example": "Это мой дом.",
+    "example_translation": "This is my house.",
+    "pronunciation": "DOM"
+  },
+  {
+    "word": "Вода",
+    "meaning": "Water",
+    "example": "Я хочу воду.",
+    "example_translation": "I want water.",
+    "pronunciation": "va-DA"
+  },
+  {
+    "word": "Еда",
+    "meaning": "Food",
+    "example": "Это вкусная еда.",
+    "example_translation": "This is delicious food.",
+    "pronunciation": "ye-DA"
+  },
+  {
+    "word": "Книга",
+    "meaning": "Book",
+    "example": "У меня есть книга.",
+    "example_translation": "I have a book.",
+    "pronunciation": "KNEE-ga"
+  },
+  {
+    "word": "Человек",
+    "meaning": "Person",
+    "example": "Он хороший человек.",
+    "example_translation": "He is a good person.",
+    "pronunciation": "chee-la-VYEK"
+  },
+  {
+    "word": "Учитель",
+    "meaning": "Teacher (male)",
+    "example": "Мой учитель умный.",
+    "example_translation": "My teacher is smart.",
+    "pronunciation": "oo-CHEE-tyel"
+  },
+  {
+    "word": "Студент",
+    "meaning": "Student (male)",
+    "example": "Я студент университета.",
+    "example_translation": "I am a university student.",
+    "pronunciation": "stoo-DYENT"
+  },
+  {
+    "word": "Студентка",
+    "meaning": "Student (female)",
+    "example": "Она студентка.",
+    "example_translation": "She is a student.",
+    "pronunciation": "stoo-DYENT-ka"
+  },
+  {
+    "word": "Работа",
+    "meaning": "Work / Job",
+    "example": "Моя работа интересная.",
+    "example_translation": "My job is interesting.",
+    "pronunciation": "ra-BO-ta"
+  },
+  {
+    "word": "Имя",
+    "meaning": "Name (first name)",
+    "example": "Как твоё имя?",
+    "example_translation": "What is your name?",
+    "pronunciation": "EE-mya"
+  },
+  {
+    "word": "Год",
+    "meaning": "Year",
+    "example": "В следующем году.",
+    "example_translation": "Next year.",
+    "pronunciation": "GOT"
+  },
+  {
+    "word": "День",
+    "meaning": "Day",
+    "example": "Сегодня хороший день.",
+    "example_translation": "Today is a good day.",
+    "pronunciation": "DYEN"
+  },
+  {
+    "word": "Неделя",
+    "meaning": "Week",
+    "example": "У меня свободная неделя.",
+    "example_translation": "I have a free week.",
+    "pronunciation": "nee-DYE-lya"
+  },
+  {
+    "word": "Утро",
+    "meaning": "Morning",
+    "example": "Доброе утро!",
+    "example_translation": "Good morning!",
+    "pronunciation": "OO-tra"
+  },
+  {
+    "word": "Вечер",
+    "meaning": "Evening",
+    "example": "Добрый вечер!",
+    "example_translation": "Good evening!",
+    "pronunciation": "VYE-chyer"
+  },
+  {
+    "word": "Ночь",
+    "meaning": "Night",
+    "example": "Спокойной ночи!",
+    "example_translation": "Good night!",
+    "pronunciation": "NOCH"
+  },
+  {
+    "word": "Сейчас",
+    "meaning": "Now",
+    "example": "Я занят сейчас.",
+    "example_translation": "I am busy now.",
+    "pronunciation": "sey-CHAS"
+  },
+  {
+    "word": "Пойти",
+    "meaning": "To go (perfective, one-way)",
+    "example": "Я хочу пойти домой.",
+    "example_translation": "I want to go home.",
+    "pronunciation": "pay-TEE"
+  },
+  {
+    "word": "Идти",
+    "meaning": "To go (imperfective, on foot, one-way)",
+    "example": "Я иду в школу.",
+    "example_translation": "I am going to school (walking).",
+    "pronunciation": "eet-TEE"
+  },
+  {
+    "word": "Есть",
+    "meaning": "To eat",
+    "example": "Я хочу есть.",
+    "example_translation": "I want to eat.",
+    "pronunciation": "YEST'"
+  },
+  {
+    "word": "Пить",
+    "meaning": "To drink",
+    "example": "Я люблю пить чай.",
+    "example_translation": "I love to drink tea.",
+    "pronunciation": "PEET'"
+  },
+  {
+    "word": "Читать",
+    "meaning": "To read",
+    "example": "Я читаю книгу.",
+    "example_translation": "I am reading a book.",
+    "pronunciation": "chee-TAT'"
+  },
+  {
+    "word": "Писать",
+    "meaning": "To write",
+    "example": "Она пишет письмо.",
+    "example_translation": "She is writing a letter.",
+    "pronunciation": "pee-SAT'"
+  },
+  {
+    "word": "Говорить",
+    "meaning": "To speak / To talk",
+    "example": "Я говорю по-русски.",
+    "example_translation": "I speak Russian.",
+    "pronunciation": "ga-va-REET'"
+  },
+  {
+    "word": "Знать",
+    "meaning": "To know",
+    "example": "Я знаю ответ.",
+    "example_translation": "I know the answer.",
+    "pronunciation": "ZNAT'"
+  },
+  {
+    "word": "Понимать",
+    "meaning": "To understand",
+    "example": "Я понимаю тебя.",
+    "example_translation": "I understand you.",
+    "pronunciation": "pa-nee-MAT'"
+  },
+  {
+    "word": "Смотреть",
+    "meaning": "To look / To watch",
+    "example": "Я смотрю фильм.",
+    "example_translation": "I am watching a movie.",
+    "pronunciation": "sma-TRET'"
+  },
+  {
+    "word": "Жить",
+    "meaning": "To live",
+    "example": "Я живу в городе.",
+    "example_translation": "I live in the city.",
+    "pronunciation": "ZHEET'"
+  },
+  {
+    "word": "Любить",
+    "meaning": "To love",
+    "example": "Я люблю мою семью.",
+    "example_translation": "I love my family.",
+    "pronunciation": "lyoo-BEET'"
+  },
+  {
+    "word": "Хороший",
+    "meaning": "Good (masculine)",
+    "example": "Это хороший день.",
+    "example_translation": "This is a good day.",
+    "pronunciation": "ha-RO-shiy"
+  },
+  {
+    "word": "Плохой",
+    "meaning": "Bad (masculine)",
+    "example": "Это плохой фильм.",
+    "example_translation": "This is a bad movie.",
+    "pronunciation": "pla-KHOY"
+  },
+  {
+    "word": "Большой",
+    "meaning": "Big / Large (masculine)",
+    "example": "У меня большой дом.",
+    "example_translation": "I have a big house.",
+    "pronunciation": "bal'-SHOY"
+  },
+  {
+    "word": "Маленький",
+    "meaning": "Small / Little (masculine)",
+    "example": "У меня маленькая собака.",
+    "example_translation": "I have a small dog.",
+    "pronunciation": "MA-lyen'-kiy"
+  },
+  {
+    "word": "Новый",
+    "meaning": "New (masculine)",
+    "example": "Это новая машина.",
+    "example_translation": "This is a new car.",
+    "pronunciation": "NO-vyy"
+  },
+  {
+    "word": "Старый",
+    "meaning": "Old (for objects/things, masc.)",
+    "example": "Это старый телефон.",
+    "example_translation": "This is an old phone.",
+    "pronunciation": "STA-ryy"
+  },
+  {
+    "word": "Красивый",
+    "meaning": "Beautiful (masculine)",
+    "example": "Это красивый цветок.",
+    "example_translation": "This is a beautiful flower.",
+    "pronunciation": "kra-SEE-vyy"
+  },
+  {
+    "word": "Интересный",
+    "meaning": "Interesting (masculine)",
+    "example": "Эта книга интересная.",
+    "example_translation": "This book is interesting.",
+    "pronunciation": "een-tye-RYES-niy"
+  },
+  {
+    "word": "Скучный",
+    "meaning": "Boring (masculine)",
+    "example": "Этот фильм скучный.",
+    "example_translation": "This film is boring.",
+    "pronunciation": "SKOOCH-niy"
+  },
+  {
+    "word": "Быстрый",
+    "meaning": "Fast (masculine)",
+    "example": "Он быстрый бегун.",
+    "example_translation": "He is a fast runner.",
+    "pronunciation": "BY-striy"
+  },
+  {
+    "word": "Медленный",
+    "meaning": "Slow (masculine)",
+    "example": "Это медленный поезд.",
+    "example_translation": "This is a slow train.",
+    "pronunciation": "MYED-lyen-niy"
+  },
+  {
+    "word": "Горячий",
+    "meaning": "Hot (masculine)",
+    "example": "Кофе горячий.",
+    "example_translation": "The coffee is hot.",
+    "pronunciation": "ga-RYA-chiy"
+  },
+  {
+    "word": "Холодный",
+    "meaning": "Cold (masculine)",
+    "example": "Вода холодная.",
+    "example_translation": "The water is cold.",
+    "pronunciation": "ha-LOD-niy"
+  },
+  {
+    "word": "Здесь",
+    "meaning": "Here",
+    "example": "Я здесь.",
+    "example_translation": "I am here.",
+    "pronunciation": "ZDES'"
+  },
+  {
+    "word": "Там",
+    "meaning": "There",
+    "example": "Они там.",
+    "example_translation": "They are there.",
+    "pronunciation": "TAM"
+  },
+  {
+    "word": "Слева",
+    "meaning": "To the left / On the left",
+    "example": "Поверните налево.",
+    "example_translation": "Turn left.",
+    "pronunciation": "SLYE-va"
+  },
+  {
+    "word": "Справа",
+    "meaning": "To the right / On the right",
+    "example": "Поверните направо.",
+    "example_translation": "Turn right.",
+    "pronunciation": "SPRA-va"
+  },
+  {
+    "word": "Центр",
+    "meaning": "Center",
+    "example": "Мы в центре города.",
+    "example_translation": "We are in the city center.",
+    "pronunciation": "TSEN-tr"
+  },
+  {
+    "word": "Улица",
+    "meaning": "Street",
+    "example": "Это наша улица.",
+    "example_translation": "This is our street.",
+    "pronunciation": "OO-lee-tsa"
+  },
+  {
+    "word": "Город",
+    "meaning": "City / Town",
+    "example": "Москва - большой город.",
+    "example_translation": "Moscow is a big city.",
+    "pronunciation": "GO-rat"
+  },
+  {
+    "word": "Страна",
+    "meaning": "Country",
+    "example": "Россия - большая страна.",
+    "example_translation": "Russia is a big country.",
+    "pronunciation": "stra-NA"
+  },
+  {
+    "word": "Магазин",
+    "meaning": "Shop / Store",
+    "example": "Я иду в магазин.",
+    "example_translation": "I am going to the shop.",
+    "pronunciation": "ma-ga-ZEEN"
+  },
+  {
+    "word": "Телефон",
+    "meaning": "Telephone / Phone",
+    "example": "Мой телефон звонит.",
+    "example_translation": "My phone is ringing.",
+    "pronunciation": "tye-lye-FON"
+  },
+  {
+    "word": "Машина",
+    "meaning": "Car",
+    "example": "У меня есть машина.",
+    "example_translation": "I have a car.",
+    "pronunciation": "ma-SHEE-na"
+  },
+  {
+    "word": "Автобус",
+    "meaning": "Bus",
+    "example": "Я жду автобус.",
+    "example_translation": "I am waiting for the bus.",
+    "pronunciation": "av-TO-boos"
+  },
+  {
+    "word": "Поезд",
+    "meaning": "Train",
+    "example": "Поезд опаздывает.",
+    "example_translation": "The train is late.",
+    "pronunciation": "PO-yest"
+  },
+  {
+    "word": "Аэропорт",
+    "meaning": "Airport",
+    "example": "Мы едем в аэропорт.",
+    "example_translation": "We are going to the airport.",
+    "pronunciation": "a-eh-ra-PORT"
+  },
+  {
+    "word": "Деньги",
+    "meaning": "Money",
+    "example": "У меня нет денег.",
+    "example_translation": "I don't have money.",
+    "pronunciation": "DYEN'-gee"
+  },
+  {
+    "word": "Время",
+    "meaning": "Time",
+    "example": "Сколько времени?",
+    "example_translation": "What time is it?",
+    "pronunciation": "VRYE-mya"
+  },
+  {
+    "word": "Цвет",
+    "meaning": "Color",
+    "example": "Какой это цвет?",
+    "example_translation": "What color is this?",
+    "pronunciation": "TSVYET"
+  },
+  {
+    "word": "Красный",
+    "meaning": "Red (masculine)",
+    "example": "Это красный шар.",
+    "example_translation": "This is a red balloon.",
+    "pronunciation": "KRA-sniy"
+  },
+  {
+    "word": "Синий",
+    "meaning": "Blue (masculine)",
+    "example": "Небо синее.",
+    "example_translation": "The sky is blue (neuter).",
+    "pronunciation": "SEE-niy"
+  },
+  {
+    "word": "Зеленый",
+    "meaning": "Green (masculine)",
+    "example": "Зеленый свет.",
+    "example_translation": "Green light.",
+    "pronunciation": "zye-LYO-niy"
+  },
+  {
+    "word": "Желтый",
+    "meaning": "Yellow (masculine)",
+    "example": "Желтые цветы.",
+    "example_translation": "Yellow flowers.",
+    "pronunciation": "ZHYOL-tyy"
+  },
+  {
+    "word": "Белый",
+    "meaning": "White (masculine)",
+    "example": "Белый снег.",
+    "example_translation": "White snow.",
+    "pronunciation": "BYE-liy"
+  },
+  {
+    "word": "Черный",
+    "meaning": "Black (masculine)",
+    "example": "Черный кот.",
+    "example_translation": "Black cat.",
+    "pronunciation": "CHYOR-niy"
+  },
+  {
+    "word": "Один",
+    "meaning": "One",
+    "example": "У меня один брат.",
+    "example_translation": "I have one brother.",
+    "pronunciation": "a-DEEN"
+  },
+  {
+    "word": "Два",
+    "meaning": "Two",
+    "example": "У меня две сестры.",
+    "example_translation": "I have two sisters.",
+    "pronunciation": "DVA"
+  },
+  {
+    "word": "Три",
+    "meaning": "Three",
+    "example": "Три человека.",
+    "example_translation": "Three people.",
+    "pronunciation": "TREE"
+  },
+  {
+    "word": "Четыре",
+    "meaning": "Four",
+    "example": "Четыре стула.",
+    "example_translation": "Four chairs.",
+    "pronunciation": "chee-TYRYE"
+  },
+  {
+    "word": "Пять",
+    "meaning": "Five",
+    "example": "Пять пальцев.",
+    "example_translation": "Five fingers.",
+    "pronunciation": "PYAT'"
+  },
+  {
+    "word": "Шесть",
+    "meaning": "Six",
+    "example": "Шесть часов.",
+    "example_translation": "Six hours.",
+    "pronunciation": "SHYEST'"
+  },
+  {
+    "word": "Семь",
+    "meaning": "Seven",
+    "example": "Семь дней в неделю.",
+    "example_translation": "Seven days in a week.",
+    "pronunciation": "SYEM"
+  },
+  {
+    "word": "Восемь",
+    "meaning": "Eight",
+    "example": "Восемь книг.",
+    "example_translation": "Eight books.",
+    "pronunciation": "VO-syem'"
+  },
+  {
+    "word": "Девять",
+    "meaning": "Nine",
+    "example": "Девять лет.",
+    "example_translation": "Nine years.",
+    "pronunciation": "DYE-vyat'"
+  },
+  {
+    "word": "Десять",
+    "meaning": "Ten",
+    "example": "Десять минут.",
+    "example_translation": "Ten minutes.",
+    "pronunciation": "DYE-syat'"
+  },
+  {
+    "word": "Все",
+    "meaning": "All / Everyone",
+    "example": "Все хорошо.",
+    "example_translation": "All is well.",
+    "pronunciation": "VSYE"
+  },
+  {
+    "word": "Несколько",
+    "meaning": "Several / A few",
+    "example": "Несколько дней назад.",
+    "example_translation": "A few days ago.",
+    "pronunciation": "NYES-kal'-ka"
+  },
+  {
+    "word": "Много",
+    "meaning": "Many / Much",
+    "example": "У меня много друзей.",
+    "example_translation": "I have many friends.",
+    "pronunciation": "MNO-ga"
+  },
+  {
+    "word": "Мало",
+    "meaning": "Few / Little",
+    "example": "У меня мало времени.",
+    "example_translation": "I have little time.",
+    "pronunciation": "MA-la"
+  },
+  {
+    "word": "Очень",
+    "meaning": "Very",
+    "example": "Я очень счастлив.",
+    "example_translation": "I am very happy (m.).",
+    "pronunciation": "O-chyen'"
+  },
+  {
+    "word": "Только",
+    "meaning": "Only / Just",
+    "example": "Я только начал.",
+    "example_translation": "I just started.",
+    "pronunciation": "TOL'-ka"
+  },
+  {
+    "word": "Также",
+    "meaning": "Also / As well",
+    "example": "Я также люблю музыку.",
+    "example_translation": "I also love music.",
+    "pronunciation": "TAK-zhe"
+  },
+  {
+    "word": "Но",
+    "meaning": "But",
+    "example": "Хочу пойти, но не могу.",
+    "example_translation": "I want to go, but I can't.",
+    "pronunciation": "NO"
+  },
+  {
+    "word": "И",
+    "meaning": "And",
+    "example": "Я и ты.",
+    "example_translation": "Me and you.",
+    "pronunciation": "EE"
+  },
+  {
+    "word": "Или",
+    "meaning": "Or",
+    "example": "Чай или кофе?",
+    "example_translation": "Tea or coffee?",
+    "pronunciation": "EE-lee"
+  },
+  {
+    "word": "Из",
+    "meaning": "From / Out of",
+    "example": "Я из России.",
+    "example_translation": "I am from Russia.",
+    "pronunciation": "EEZ"
+  },
+  {
+    "word": "В",
+    "meaning": "In / Into / At",
+    "example": "Я в доме.",
+    "example_translation": "I am in the house.",
+    "pronunciation": "V"
+  },
+  {
+    "word": "На",
+    "meaning": "On / At",
+    "example": "Книга на столе.",
+    "example_translation": "The book is on the table.",
+    "pronunciation": "NA"
+  },
+  {
+    "word": "С",
+    "meaning": "With / From (with genitive)",
+    "example": "Я с другом.",
+    "example_translation": "I am with a friend.",
+    "pronunciation": "S"
+  },
+  {
+    "word": "Для",
+    "meaning": "For",
+    "example": "Это для тебя.",
+    "example_translation": "This is for you.",
+    "pronunciation": "DLYA"
+  },
+  
+  {
+    "word": "Развитие",
+    "meaning": "development",
+    "example": "Экономическое развитие страны.",
+    "example_translation": "The economic development of the country.",
+    "pronunciation": "raz-VEE-tee-ye"
+  },
+  {
+    "word": "Влияние",
+    "meaning": "influence, impact",
+    "example": "Его слова имели большое влияние.",
+    "example_translation": "His words had a great influence.",
+    "pronunciation": "vlee-YА-nee-ye"
+  },
+  {
+    "word": "Политика",
+    "meaning": "politics, policy",
+    "example": "Внешняя политика государства.",
+    "example_translation": "The foreign policy of the state.",
+    "pronunciation": "pa-LEE-tee-ka"
+  },
+  {
+    "word": "Конкуренция",
+    "meaning": "competition",
+    "example": "Рыночная конкуренция очень сильна.",
+    "example_translation": "Market competition is very strong.",
+    "pronunciation": "kan-koo-RYEN-tsee-ya"
+  },
+  {
+    "word": "Вызов",
+    "meaning": "challenge",
+    "example": "Это был настоящий вызов для нас.",
+    "example_translation": "It was a real challenge for us.",
+    "pronunciation": "VY-zof"
+  },
+  {
+    "word": "Улучшение",
+    "meaning": "improvement",
+    "example": "Мы видим улучшение ситуации.",
+    "example_translation": "We see an improvement in the situation.",
+    "pronunciation": "oo-loo-CHYE-nee-ye"
+  },
+  {
+    "word": "Опыт",
+    "meaning": "experience",
+    "example": "У него богатый опыт в этой области.",
+    "example_translation": "He has rich experience in this field.",
+    "pronunciation": "O-pyt"
+  },
+  {
+    "word": "Достижение",
+    "meaning": "achievement",
+    "example": "Это большое достижение для команды.",
+    "example_translation": "This is a great achievement for the team.",
+    "pronunciation": "das-tee-ZHYE-nee-ye"
+  },
+  {
+    "word": "Осознание",
+    "meaning": "realization, awareness",
+    "example": "Пришло осознание проблемы.",
+    "example_translation": "The realization of the problem came.",
+    "pronunciation": "a-sa-ZNA-nee-ye"
+  },
+  {
+    "word": "Постепенно",
+    "meaning": "gradually",
+    "example": "Погода постепенно улучшается.",
+    "example_translation": "The weather is gradually improving.",
+    "pronunciation": "pas-tye-PYEN-na"
+  },
+  {
+    "word": "Распространённый",
+    "meaning": "widespread, common",
+    "example": "Это очень распространённое мнение.",
+    "example_translation": "This is a very widespread opinion.",
+    "pronunciation": "ras-pra-stra-NYO-nniy"
+  },
+  {
+    "word": "Достаточный",
+    "meaning": "sufficient, adequate",
+    "example": "Этого количества достаточно.",
+    "example_translation": "This amount is sufficient.",
+    "pronunciation": "das-TA-tach-niy"
+  },
+  {
+    "word": "Ответственность",
+    "meaning": "responsibility",
+    "example": "Он несёт ответственность за свои действия.",
+    "example_translation": "He bears responsibility for his actions.",
+    "pronunciation": "at-VYET-stven-nast'"
+  },
+  {
+    "word": "Позитивный",
+    "meaning": "positive",
+    "example": "У него позитивный настрой.",
+    "example_translation": "He has a positive attitude.",
+    "pronunciation": "pa-zee-TEE-vniy"
+  },
+  {
+    "word": "Негативный",
+    "meaning": "negative",
+    "example": "Избегайте негативных мыслей.",
+    "example_translation": "Avoid negative thoughts.",
+    "pronunciation": "nye-ga-TEE-vniy"
+  },
+  {
+    "word": "Столкнуться",
+    "meaning": "to face, to encounter (perfective)",
+    "example": "Мы столкнулись с трудностями.",
+    "example_translation": "We faced difficulties.",
+    "pronunciation": "stal-KNOOT-sya"
+  },
+  {
+    "word": "Ключевой",
+    "meaning": "key, crucial",
+    "example": "Это ключевой момент в проекте.",
+    "example_translation": "This is a key moment in the project.",
+    "pronunciation": "klyoo-chy-VOY"
+  },
+  {
+    "word": "Тенденция",
+    "meaning": "trend, tendency",
+    "example": "Наблюдается новая тенденция.",
+    "example_translation": "A new trend is observed.",
+    "pronunciation": "tyen-DYEN-tsee-ya"
+  },
+  {
+    "word": "Инновация",
+    "meaning": "innovation",
+    "example": "Компания фокусируется на инновациях.",
+    "example_translation": "The company focuses on innovations.",
+    "pronunciation": "een-na-VA-tsee-ya"
+  },
+  {
+    "word": "Сложный",
+    "meaning": "complex, complicated",
+    "example": "Это очень сложный вопрос.",
+    "example_translation": "This is a very complex question.",
+    "pronunciation": "SLAZH-niy"
+  },
+  {
+    "word": "Простой",
+    "meaning": "simple, easy",
+    "example": "Решение оказалось простым.",
+    "example_translation": "The solution turned out to be simple.",
+    "pronunciation": "pras-TOY"
+  },
+  {
+    "word": "Конкретный",
+    "meaning": "concrete, specific",
+    "example": "Мне нужны конкретные данные.",
+    "example_translation": "I need specific data.",
+    "pronunciation": "kan-KRYET-niy"
+  },
+  {
+    "word": "Абстрактный",
+    "meaning": "abstract",
+    "example": "Это абстрактное понятие.",
+    "example_translation": "This is an abstract concept.",
+    "pronunciation": "ab-STRAKT-niy"
+  },
+  {
+    "word": "Анализ",
+    "meaning": "analysis",
+    "example": "Требуется глубокий анализ.",
+    "example_translation": "A deep analysis is required.",
+    "pronunciation": "a-NA-leez"
+  },
+  {
+    "word": "Оценка",
+    "meaning": "evaluation, assessment",
+    "example": "Мы провели оценку проекта.",
+    "example_translation": "We conducted an evaluation of the project.",
+    "pronunciation": "a-TSEN-ka"
+  },
+  {
+    "word": "Несмотря на",
+    "meaning": "despite, in spite of",
+    "example": "Несмотря на дождь, мы пошли гулять.",
+    "example_translation": "Despite the rain, we went for a walk.",
+    "pronunciation": "nye-sma-TRA na"
+  },
+  {
+    "word": "Отражать",
+    "meaning": "to reflect, to embody",
+    "example": "Его слова отражают его мысли.",
+    "example_translation": "His words reflect his thoughts.",
+    "pronunciation": "at-ra-ZHAT'"
+  },
+  {
+    "word": "Обязательство",
+    "meaning": "obligation, commitment",
+    "example": "Это наше обязательство перед клиентами.",
+    "example_translation": "This is our obligation to clients.",
+    "pronunciation": "a-bya-ZA-tyel'-stva"
+  },
+  {
+    "word": "Вклад",
+    "meaning": "contribution",
+    "example": "Он сделал большой вклад в науку.",
+    "example_translation": "He made a great contribution to science.",
+    "pronunciation": "VKLAT"
+  },
+  {
+    "word": "Приводить к",
+    "meaning": "to lead to, to result in",
+    "example": "Это может привести к серьёзным последствиям.",
+    "example_translation": "This can lead to serious consequences.",
+    "pronunciation": "pree-va-DEET' k"
+  },
+  {
+    "word": "Недостаток",
+    "meaning": "lack, shortage, drawback",
+    "example": "Главный недостаток этого метода.",
+    "example_translation": "The main drawback of this method.",
+    "pronunciation": "nye-das-TA-tak"
+  },
+  {
+    "word": "Воплощать",
+    "meaning": "to embody, to implement",
+    "example": "Компания стремится воплощать новые идеи.",
+    "example_translation": "The company strives to implement new ideas.",
+    "pronunciation": "vap-la-SHAT'"
+  },
+  {
+    "word": "Способствовать",
+    "meaning": "to promote, to contribute to",
+    "example": "Это способствует развитию талантов.",
+    "example_translation": "This contributes to the development of talents.",
+    "pronunciation": "spa-SOB-stva-vat'"
+  },
+  {
+    "word": "Измерять",
+    "meaning": "to measure",
+    "example": "Как измерять прогресс?",
+    "example_translation": "How to measure progress?",
+    "pronunciation": "eez-mye-RYAT'"
+  },
+  {
+    "word": "Меры",
+    "meaning": "measures, steps",
+    "example": "Приняты строгие меры безопасности.",
+    "example_translation": "Strict security measures have been taken.",
+    "pronunciation": "MYE-ry"
+  },
+  {
+    "word": "Сфера",
+    "meaning": "sphere, field, domain",
+    "example": "Это входит в сферу его интересов.",
+    "example_translation": "This falls within his sphere of interests.",
+    "pronunciation": "SFYE-ra"
+  },
+  {
+    "word": "Ситуация",
+    "meaning": "situation",
+    "example": "Мы должны оценить ситуацию.",
+    "example_translation": "We must assess the situation.",
+    "pronunciation": "see-too-A-tsee-ya"
+  },
+  {
+    "word": "Потенциал",
+    "meaning": "potential",
+    "example": "У проекта большой потенциал.",
+    "example_translation": "The project has great potential.",
+    "pronunciation": "pa-tyen-tsee-AL"
+  },
+  {
+    "word": "Кризис",
+    "meaning": "crisis",
+    "example": "Страна переживает экономический кризис.",
+    "example_translation": "The country is going through an economic crisis.",
+    "pronunciation": "KREE-zees"
+  },
+  {
+    "word": "Стратегия",
+    "meaning": "strategy",
+    "example": "Разработать новую стратегию.",
+    "example_translation": "To develop a new strategy.",
+    "pronunciation": "stra-TYE-gee-ya"
+  },
+  {
+    "word": "Концепция",
+    "meaning": "concept, conception",
+    "example": "Это сложная концепция.",
+    "example_translation": "This is a complex concept.",
+    "pronunciation": "kan-TSEP-tsee-ya"
+  },
+  {
+    "word": "Сущность",
+    "meaning": "essence, nature",
+    "example": "Понять сущность проблемы.",
+    "example_translation": "To understand the essence of the problem.",
+    "pronunciation": "SOO-shchnast'"
+  },
+  {
+    "word": "Позиция",
+    "meaning": "position, stance",
+    "example": "Какова ваша позиция по этому вопросу?",
+    "example_translation": "What is your position on this issue?",
+    "pronunciation": "pa-ZEE-tsee-ya"
+  },
+  {
+    "word": "Ожидание",
+    "meaning": "expectation, anticipation",
+    "example": "Мои ожидания оправдались.",
+    "example_translation": "My expectations were met.",
+    "pronunciation": "a-zhee-DA-nee-ye"
+  },
+  {
+    "word": "Продолжаться",
+    "meaning": "to continue, to last",
+    "example": "Переговоры продолжались несколько часов.",
+    "example_translation": "The negotiations continued for several hours.",
+    "pronunciation": "pra-dal-ZHAT-sya"
+  },
+  {
+    "word": "Регулировать",
+    "meaning": "to regulate, to adjust",
+    "example": "Правительство регулирует цены.",
+    "example_translation": "The government regulates prices.",
+    "pronunciation": "rye-goo-LEE-ra-vat'"
+  },
+  {
+    "word": "Феномен",
+    "meaning": "phenomenon",
+    "example": "Это редкий феномен.",
+    "example_translation": "This is a rare phenomenon.",
+    "pronunciation": "fye-NO-myen"
+  },
+  {
+    "word": "Инициатива",
+    "meaning": "initiative",
+    "example": "Его инициатива была поддержана.",
+    "example_translation": "His initiative was supported.",
+    "pronunciation": "ee-nee-tsee-a-TEE-va"
+  },
+  {
+    "word": "Укреплять",
+    "meaning": "to strengthen",
+    "example": "Нужно укреплять отношения.",
+    "example_translation": "We need to strengthen relations.",
+    "pronunciation": "ook-ryep-LYAT'"
+  }
+
+]

@@ -50,7 +50,7 @@ h1, h2, h3,u,i,b ,p {
 
 /* Dropdown..handles language selection button */
 select {
-  width: 70%;
+  width: 70% !important;
   padding: 8px 12px;
   background-color: #1f1f1f;
   color: #fff;

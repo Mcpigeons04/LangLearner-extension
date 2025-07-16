@@ -1,0 +1,1103 @@
+[
+  {
+    "word": "Olá",
+    "meaning": "Hello / Hi",
+    "example": "Olá, como você está?",
+    "example_translation": "Hello, how are you?",
+    "pronunciation": "oh-LAH"
+  },
+  {
+    "word": "Oi",
+    "meaning": "Hi (informal)",
+    "example": "Oi, tudo bem?",
+    "example_translation": "Hi, all good?",
+    "pronunciation": "OY"
+  },
+  {
+    "word": "Obrigado",
+    "meaning": "Thank you (masculine speaker)",
+    "example": "Muito obrigado!",
+    "example_translation": "Thank you very much!",
+    "pronunciation": "oh-bree-GAH-doo"
+  },
+  {
+    "word": "Obrigada",
+    "meaning": "Thank you (feminine speaker)",
+    "example": "Obrigada por sua ajuda.",
+    "example_translation": "Thank you for your help.",
+    "pronunciation": "oh-bree-GAH-da"
+  },
+  {
+    "word": "Por favor",
+    "meaning": "Please",
+    "example": "Por favor, me ajude.",
+    "example_translation": "Please, help me.",
+    "pronunciation": "por fah-VOR"
+  },
+  {
+    "word": "De nada",
+    "meaning": "You're welcome",
+    "example": "Obrigado! - De nada.",
+    "example_translation": "Thanks! - You're welcome.",
+    "pronunciation": "jee NAH-da"
+  },
+  {
+    "word": "Sim",
+    "meaning": "Yes",
+    "example": "Sim, eu entendo.",
+    "example_translation": "Yes, I understand.",
+    "pronunciation": "SEE(N)"
+  },
+  {
+    "word": "Não",
+    "meaning": "No",
+    "example": "Não, eu não quero.",
+    "example_translation": "No, I don't want.",
+    "pronunciation": "NAO(N)"
+  },
+  {
+    "word": "Eu",
+    "meaning": "I",
+    "example": "Eu sou estudante.",
+    "example_translation": "I am a student.",
+    "pronunciation": "EW"
+  },
+  {
+    "word": "Você",
+    "meaning": "You (singular, common)",
+    "example": "Você fala português?",
+    "example_translation": "Do you speak Portuguese?",
+    "pronunciation": "vo-SEH"
+  },
+  {
+    "word": "Ele",
+    "meaning": "He",
+    "example": "Ele é meu amigo.",
+    "example_translation": "He is my friend.",
+    "pronunciation": "EH-lee"
+  },
+  {
+    "word": "Ela",
+    "meaning": "She",
+    "example": "Ela é minha irmã.",
+    "example_translation": "She is my sister.",
+    "pronunciation": "EH-la"
+  },
+  {
+    "word": "Nós",
+    "meaning": "We",
+    "example": "Nós vamos viajar.",
+    "example_translation": "We are going to travel.",
+    "pronunciation": "NOHS"
+  },
+  {
+    "word": "Vocês",
+    "meaning": "You (plural)",
+    "example": "Vocês estão prontos?",
+    "example_translation": "Are you (plural) ready?",
+    "pronunciation": "vo-SEHS"
+  },
+  {
+    "word": "Eles",
+    "meaning": "They (masculine/mixed)",
+    "example": "Eles são brasileiros.",
+    "example_translation": "They are Brazilians.",
+    "pronunciation": "EH-lees"
+  },
+  {
+    "word": "Elas",
+    "meaning": "They (feminine)",
+    "example": "Elas estão felizes.",
+    "example_translation": "They (f.) are happy.",
+    "pronunciation": "EH-las"
+  },
+  {
+    "word": "Casa",
+    "meaning": "House / Home",
+    "example": "Minha casa é grande.",
+    "example_translation": "My house is big.",
+    "pronunciation": "KAH-za"
+  },
+  {
+    "word": "Água",
+    "meaning": "Water",
+    "example": "Eu quero água, por favor.",
+    "example_translation": "I want water, please.",
+    "pronunciation": "AH-gwa"
+  },
+  {
+    "word": "Comida",
+    "meaning": "Food",
+    "example": "A comida está boa.",
+    "example_translation": "The food is good.",
+    "pronunciation": "ko-MEE-da"
+  },
+  {
+    "word": "Livro",
+    "meaning": "Book",
+    "example": "Este livro é interessante.",
+    "example_translation": "This book is interesting.",
+    "pronunciation": "LEE-vroo"
+  },
+  {
+    "word": "Pessoa",
+    "meaning": "Person",
+    "example": "Ele é uma boa pessoa.",
+    "example_translation": "He is a good person.",
+    "pronunciation": "peh-SOH-a"
+  },
+  {
+    "word": "Dia",
+    "meaning": "Day",
+    "example": "Tenha um bom dia!",
+    "example_translation": "Have a good day!",
+    "pronunciation": "JEE-a"
+  },
+  {
+    "word": "Hoje",
+    "meaning": "Today",
+    "example": "Hoje é quarta-feira.",
+    "example_translation": "Today is Wednesday.",
+    "pronunciation": "OH-zhee"
+  },
+  {
+    "word": "Amanhã",
+    "meaning": "Tomorrow",
+    "example": "Nos vemos amanhã.",
+    "example_translation": "See you tomorrow.",
+    "pronunciation": "a-ma-NYAN"
+  },
+  {
+    "word": "Ontem",
+    "meaning": "Yesterday",
+    "example": "O que você fez ontem?",
+    "example_translation": "What did you do yesterday?",
+    "pronunciation": "ON-tein"
+  },
+  {
+    "word": "Manhã",
+    "meaning": "Morning",
+    "example": "Bom dia!",
+    "example_translation": "Good morning!",
+    "pronunciation": "ma-NYAN"
+  },
+  {
+    "word": "Tarde",
+    "meaning": "Afternoon / Evening",
+    "example": "Boa tarde!",
+    "example_translation": "Good afternoon!",
+    "pronunciation": "TAR-jee"
+  },
+  {
+    "word": "Noite",
+    "meaning": "Night",
+    "example": "Boa noite!",
+    "example_translation": "Good night!",
+    "pronunciation": "NOY-tee"
+  },
+  {
+    "word": "Agora",
+    "meaning": "Now",
+    "example": "Eu preciso ir agora.",
+    "example_translation": "I need to go now.",
+    "pronunciation": "a-GOH-ra"
+  },
+  {
+    "word": "Comer",
+    "meaning": "To eat",
+    "example": "Eu gosto de comer pizza.",
+    "example_translation": "I like to eat pizza.",
+    "pronunciation": "ko-MEHR"
+  },
+  {
+    "word": "Beber",
+    "meaning": "To drink",
+    "example": "Ele bebe água.",
+    "example_translation": "He drinks water.",
+    "pronunciation": "beh-BEHR"
+  },
+  {
+    "word": "Ir",
+    "meaning": "To go",
+    "example": "Eu vou ao supermercado.",
+    "example_translation": "I am going to the supermarket.",
+    "pronunciation": "EER"
+  },
+  {
+    "word": "Vir",
+    "meaning": "To come",
+    "example": "Você pode vir aqui?",
+    "example_translation": "Can you come here?",
+    "pronunciation": "VEER"
+  },
+  {
+    "word": "Falar",
+    "meaning": "To speak / To talk",
+    "example": "Eu falo inglês.",
+    "example_translation": "I speak English.",
+    "pronunciation": "fa-LAR"
+  },
+  {
+    "word": "Entender",
+    "meaning": "To understand",
+    "example": "Eu não entendo.",
+    "example_translation": "I don't understand.",
+    "pronunciation": "e(n)-teh(n)-DEHR"
+  },
+  {
+    "word": "Saber",
+    "meaning": "To know (facts, how to do something)",
+    "example": "Eu sei a resposta.",
+    "example_translation": "I know the answer.",
+    "pronunciation": "sa-BEHR"
+  },
+  {
+    "word": "Ver",
+    "meaning": "To see",
+    "example": "Você pode ver aquilo?",
+    "example_translation": "Can you see that?",
+    "pronunciation": "VEHR"
+  },
+  {
+    "word": "Morar",
+    "meaning": "To live (reside)",
+    "example": "Onde você mora?",
+    "example_translation": "Where do you live?",
+    "pronunciation": "moh-RAR"
+  },
+  {
+    "word": "Gostar",
+    "meaning": "To like",
+    "example": "Eu gosto de música.",
+    "example_translation": "I like music.",
+    "pronunciation": "gos-TAR"
+  },
+  {
+    "word": "Ter",
+    "meaning": "To have",
+    "example": "Eu tenho um carro.",
+    "example_translation": "I have a car.",
+    "pronunciation": "TEHR"
+  },
+  {
+    "word": "Bom",
+    "meaning": "Good (masculine)",
+    "example": "Este é um bom vinho.",
+    "example_translation": "This is a good wine.",
+    "pronunciation": "BO(N)"
+  },
+  {
+    "word": "Boa",
+    "meaning": "Good (feminine)",
+    "example": "É uma boa ideia.",
+    "example_translation": "It's a good idea.",
+    "pronunciation": "BOH-a"
+  },
+  {
+    "word": "Ruim",
+    "meaning": "Bad",
+    "example": "Este livro é ruim.",
+    "example_translation": "This book is bad.",
+    "pronunciation": "ROO-ee(n)"
+  },
+  {
+    "word": "Grande",
+    "meaning": "Big / Large",
+    "example": "A cidade é grande.",
+    "example_translation": "The city is big.",
+    "pronunciation": "GRA(N)-jee"
+  },
+  {
+    "word": "Pequeno",
+    "meaning": "Small / Little (masculine)",
+    "example": "Meu carro é pequeno.",
+    "example_translation": "My car is small.",
+    "pronunciation": "peh-KEH-noo"
+  },
+  {
+    "word": "Nova",
+    "meaning": "New (feminine)",
+    "example": "É uma casa nova.",
+    "example_translation": "It's a new house.",
+    "pronunciation": "NOH-va"
+  },
+  {
+    "word": "Velho",
+    "meaning": "Old (for objects, masculine)",
+    "example": "Meu telefone é velho.",
+    "example_translation": "My phone is old.",
+    "pronunciation": "VEH-lyoo"
+  },
+  {
+    "word": "Bonito",
+    "meaning": "Beautiful / Handsome (masculine)",
+    "example": "O dia está bonito.",
+    "example_translation": "The day is beautiful.",
+    "pronunciation": "boh-NEE-too"
+  },
+  {
+    "word": "Feio",
+    "meaning": "Ugly (masculine)",
+    "example": "O prédio é feio.",
+    "example_translation": "The building is ugly.",
+    "pronunciation": "FEY-oo"
+  },
+  {
+    "word": "Feliz",
+    "meaning": "Happy",
+    "example": "Eu estou feliz.",
+    "example_translation": "I am happy.",
+    "pronunciation": "feh-LEEZ"
+  },
+  {
+    "word": "Triste",
+    "meaning": "Sad",
+    "example": "Ele está triste.",
+    "example_translation": "He is sad.",
+    "pronunciation": "TREE-stee"
+  },
+  {
+    "word": "Aqui",
+    "meaning": "Here",
+    "example": "Eu estou aqui.",
+    "example_translation": "I am here.",
+    "pronunciation": "a-KEE"
+  },
+  {
+    "word": "Lá",
+    "meaning": "There",
+    "example": "Ele está lá.",
+    "example_translation": "He is there.",
+    "pronunciation": "LAH"
+  },
+  {
+    "word": "Com",
+    "meaning": "With",
+    "example": "Eu vou com você.",
+    "example_translation": "I will go with you.",
+    "pronunciation": "KO(N)"
+  },
+  {
+    "word": "Para",
+    "meaning": "To / For",
+    "example": "Este presente é para você.",
+    "example_translation": "This present is for you.",
+    "pronunciation": "PA-ra"
+  },
+  {
+    "word": "De",
+    "meaning": "Of / From",
+    "example": "Eu sou de São Paulo.",
+    "example_translation": "I am from São Paulo.",
+    "pronunciation": "jee / day"
+  },
+  {
+    "word": "Em",
+    "meaning": "In / On / At",
+    "example": "O livro está na mesa.",
+    "example_translation": "The book is on the table.",
+    "pronunciation": "e(n)"
+  },
+  {
+    "word": "E",
+    "meaning": "And",
+    "example": "Eu e você.",
+    "example_translation": "Me and you.",
+    "pronunciation": "EE"
+  },
+  {
+    "word": "Ou",
+    "meaning": "Or",
+    "example": "Café ou chá?",
+    "example_translation": "Coffee or tea?",
+    "pronunciation": "OH"
+  },
+  {
+    "word": "Mas",
+    "meaning": "But",
+    "example": "Eu quero ir, mas não posso.",
+    "example_translation": "I want to go, but I can't.",
+    "pronunciation": "MAHS"
+  },
+  {
+    "word": "Porque",
+    "meaning": "Because / Why?",
+    "example": "Por que você está rindo? Porque estou feliz.",
+    "example_translation": "Why are you laughing? Because I'm happy.",
+    "pronunciation": "por-KEH"
+  },
+  {
+    "word": "Tudo",
+    "meaning": "All / Everything",
+    "example": "Tudo está bem.",
+    "example_translation": "Everything is fine.",
+    "pronunciation": "TOO-doo"
+  },
+  {
+    "word": "Alguns",
+    "meaning": "Some (masculine plural)",
+    "example": "Eu tenho alguns livros.",
+    "example_translation": "I have some books.",
+    "pronunciation": "al-GU(N)S"
+  },
+  {
+    "word": "Muito",
+    "meaning": "Much / Very / Many (masculine singular)",
+    "example": "Muito obrigado.",
+    "example_translation": "Thank you very much.",
+    "pronunciation": "MOO-ee-too"
+  },
+  {
+    "word": "Pouco",
+    "meaning": "Little / Few (masculine singular)",
+    "example": "Eu tenho pouco tempo.",
+    "example_translation": "I have little time.",
+    "pronunciation": "POH-koo"
+  },
+  {
+    "word": "Só",
+    "meaning": "Only / Just",
+    "example": "Eu só quero comer.",
+    "example_translation": "I just want to eat.",
+    "pronunciation": "SOH"
+  },
+  {
+    "word": "Também",
+    "meaning": "Also / Too",
+    "example": "Eu também gosto.",
+    "example_translation": "I like it too.",
+    "pronunciation": "ta(m)-BEIN"
+  },
+  {
+    "word": "Nome",
+    "meaning": "Name",
+    "example": "Qual é o seu nome?",
+    "example_translation": "What is your name?",
+    "pronunciation": "NOH-mee"
+  },
+  {
+    "word": "Ano",
+    "meaning": "Year",
+    "example": "Feliz Ano Novo!",
+    "example_translation": "Happy New Year!",
+    "pronunciation": "AH-noo"
+  },
+  {
+    "word": "Mês",
+    "meaning": "Month",
+    "example": "Qual é o mês?",
+    "example_translation": "What month is it?",
+    "pronunciation": "MEHS"
+  },
+  {
+    "word": "Semana",
+    "meaning": "Week",
+    "example": "Na próxima semana.",
+    "example_translation": "Next week.",
+    "pronunciation": "seh-MAH-na"
+  },
+  {
+    "word": "Hora",
+    "meaning": "Hour / Time (as in o'clock)",
+    "example": "Que horas são?",
+    "example_translation": "What time is it?",
+    "pronunciation": "OH-ra"
+  },
+  {
+    "word": "Minuto",
+    "meaning": "Minute",
+    "example": "Espere um minuto.",
+    "example_translation": "Wait a minute.",
+    "pronunciation": "mee-NOO-too"
+  },
+  {
+    "word": "Segundo",
+    "meaning": "Second",
+    "example": "Volto em um segundo.",
+    "example_translation": "I'll be back in a second.",
+    "pronunciation": "seh-GOON-doo"
+  },
+  {
+    "word": "Escola",
+    "meaning": "School",
+    "example": "Ele vai para a escola.",
+    "example_translation": "He goes to school.",
+    "pronunciation": "ees-KOH-la"
+  },
+  {
+    "word": "Hospital",
+    "meaning": "Hospital",
+    "example": "O hospital é perto daqui.",
+    "example_translation": "The hospital is close from here.",
+    "pronunciation": "os-pee-TAHL"
+  },
+  {
+    "word": "Loja",
+    "meaning": "Shop / Store",
+    "example": "Vamos à loja.",
+    "example_translation": "Let's go to the store.",
+    "pronunciation": "LOH-zha"
+  },
+  {
+    "word": "Rua",
+    "meaning": "Street",
+    "example": "Minha rua é calma.",
+    "example_translation": "My street is quiet.",
+    "pronunciation": "RROO-a"
+  },
+  {
+    "word": "Cidade",
+    "meaning": "City",
+    "example": "São Paulo é uma cidade grande.",
+    "example_translation": "São Paulo is a big city.",
+    "pronunciation": "see-DAH-jee"
+  },
+  {
+    "word": "País",
+    "meaning": "Country",
+    "example": "Brasil é um país lindo.",
+    "example_translation": "Brazil is a beautiful country.",
+    "pronunciation": "pa-EES"
+  },
+  {
+    "word": "Idioma",
+    "meaning": "Language",
+    "example": "Qual idioma você fala?",
+    "example_translation": "What language do you speak?",
+    "pronunciation": "ee-jyo-ma"
+  },
+  {
+    "word": "Sinal",
+    "meaning": "Sign / Signal",
+    "example": "Você viu o sinal?",
+    "example_translation": "Did you see the sign?",
+    "pronunciation": "see-NAHL"
+  },
+  {
+    "word": "Cor",
+    "meaning": "Color",
+    "example": "Qual é a sua cor favorita?",
+    "example_translation": "What is your favorite color?",
+    "pronunciation": "KOR"
+  },
+  {
+    "word": "Vermelho",
+    "meaning": "Red (masculine)",
+    "example": "A rosa é vermelha.",
+    "example_translation": "The rose is red (f.).",
+    "pronunciation": "ver-MEH-lyoo"
+  },
+  {
+    "word": "Azul",
+    "meaning": "Blue",
+    "example": "O céu é azul.",
+    "example_translation": "The sky is blue.",
+    "pronunciation": "a-ZOOL"
+  },
+  {
+    "word": "Verde",
+    "meaning": "Green",
+    "example": "A grama é verde.",
+    "example_translation": "The grass is green.",
+    "pronunciation": "VEHR-jee"
+  },
+  {
+    "word": "Amarelo",
+    "meaning": "Yellow (masculine)",
+    "example": "O sol é amarelo.",
+    "example_translation": "The sun is yellow.",
+    "pronunciation": "a-ma-REH-loo"
+  },
+  {
+    "word": "Branco",
+    "meaning": "White (masculine)",
+    "example": "A neve é branca.",
+    "example_translation": "The snow is white (f.).",
+    "pronunciation": "BRA(N)-koo"
+  },
+  {
+    "word": "Preto",
+    "meaning": "Black (masculine)",
+    "example": "Meu gato é preto.",
+    "example_translation": "My cat is black.",
+    "pronunciation": "PREH-too"
+  },
+  {
+    "word": "Um",
+    "meaning": "One (masculine)",
+    "example": "Eu tenho um irmão.",
+    "example_translation": "I have one brother.",
+    "pronunciation": "U(N)"
+  },
+  {
+    "word": "Uma",
+    "meaning": "One (feminine)",
+    "example": "Eu tenho uma irmã.",
+    "example_translation": "I have one sister.",
+    "pronunciation": "OO-ma"
+  },
+  {
+    "word": "Dois",
+    "meaning": "Two (masculine)",
+    "example": "Dois amigos.",
+    "example_translation": "Two friends (m.).",
+    "pronunciation": "DOY-s"
+  },
+  {
+    "word": "Duas",
+    "meaning": "Two (feminine)",
+    "example": "Duas garotas.",
+    "example_translation": "Two girls.",
+    "pronunciation": "DOO-as"
+  },
+  {
+    "word": "Três",
+    "meaning": "Three",
+    "example": "Três horas.",
+    "example_translation": "Three hours.",
+    "pronunciation": "TREHS"
+  },
+  {
+    "word": "Quatro",
+    "meaning": "Four",
+    "example": "Quatro dias.",
+    "example_translation": "Four days.",
+    "pronunciation": "KWA-troo"
+  },
+  {
+    "word": "Cinco",
+    "meaning": "Five",
+    "example": "Cinco pessoas.",
+    "example_translation": "Five people.",
+    "pronunciation": "SEE(N)-koo"
+  },
+  {
+    "word": "Seis",
+    "meaning": "Six",
+    "example": "Seis meses.",
+    "example_translation": "Six months.",
+    "pronunciation": "SAYSH"
+  },
+  {
+    "word": "Sete",
+    "meaning": "Seven",
+    "example": "Sete cores.",
+    "example_translation": "Seven colors.",
+    "pronunciation": "SEH-tee"
+  },
+  {
+    "word": "Oito",
+    "meaning": "Eight",
+    "example": "Oito livros.",
+    "example_translation": "Eight books.",
+    "pronunciation": "OY-too"
+  },
+  {
+    "word": "Nove",
+    "meaning": "Nine",
+    "example": "Nove anos.",
+    "example_translation": "Nine years.",
+    "pronunciation": "NOH-vee"
+  },
+  {
+    "word": "Dez",
+    "meaning": "Ten",
+    "example": "Dez minutos.",
+    "example_translation": "Ten minutes.",
+    "pronunciation": "DEHS"
+  },
+  {
+    "word": "Comprar",
+    "meaning": "To buy",
+    "example": "Eu preciso comprar pão.",
+    "example_translation": "I need to buy bread.",
+    "pronunciation": "ko(m)-PRAR"
+  },
+  {
+    "word": "Vender",
+    "meaning": "To sell",
+    "example": "Ele vende carros.",
+    "example_translation": "He sells cars.",
+    "pronunciation": "ve(n)-DEHR"
+  },
+  {
+    "word": "Dinheiro",
+    "meaning": "Money",
+    "example": "Eu preciso de dinheiro.",
+    "example_translation": "I need money.",
+    "pronunciation": "jee-NYEH-roo"
+  },
+  {
+    "word": "Preço",
+    "meaning": "Price",
+    "example": "Qual é o preço?",
+    "example_translation": "What is the price?",
+    "pronunciation": "PREH-soo"
+  },
+  {
+    "word": "Ajuda",
+    "meaning": "Help; To help (verb form: ajudar)",
+    "example": "Preciso de ajuda.",
+    "example_translation": "I need help.",
+    "pronunciation": "a-ZHOO-da"
+  },
+  {
+    "word": "Trabalho",
+    "meaning": "Work / Job",
+    "example": "Meu trabalho é interessante.",
+    "example_translation": "My job is interesting.",
+    "pronunciation": "tra-BA-lyoo"
+  },
+  
+  {
+    "word": "Desenvolvimento",
+    "meaning": "development",
+    "example": "O desenvolvimento sustentável é crucial.",
+    "example_translation": "Sustainable development is crucial.",
+    "pronunciation": "deh-ze(n)-vol-vee-MEH(N)-too"
+  },
+  {
+    "word": "Impacto",
+    "meaning": "impact",
+    "example": "A decisão terá um grande impacto.",
+    "example_translation": "The decision will have a big impact.",
+    "pronunciation": "ee(n)-PAHK-too"
+  },
+  {
+    "word": "Política",
+    "meaning": "politics, policy",
+    "example": "A política externa do país mudou.",
+    "example_translation": "The country's foreign policy has changed.",
+    "pronunciation": "po-LEE-chee-ka"
+  },
+  {
+    "word": "Concorrência",
+    "meaning": "competition",
+    "example": "A concorrência no mercado é acirrada.",
+    "example_translation": "Competition in the market is fierce.",
+    "pronunciation": "ko(n)-ko-RRE(n)-see-a"
+  },
+  {
+    "word": "Desafio",
+    "meaning": "challenge",
+    "example": "Este projeto é um grande desafio.",
+    "example_translation": "This project is a big challenge.",
+    "pronunciation": "deh-za-FEE-oo"
+  },
+  {
+    "word": "Melhoria",
+    "meaning": "improvement",
+    "example": "Buscam a melhoria contínua dos processos.",
+    "example_translation": "They seek continuous improvement of processes.",
+    "pronunciation": "meh-lyo-REE-a"
+  },
+  {
+    "word": "Experiência",
+    "meaning": "experience",
+    "example": "Ela tem muita experiência profissional.",
+    "example_translation": "She has a lot of professional experience.",
+    "pronunciation": "esh-peh-ree-EH(n)-see-a"
+  },
+  {
+    "word": "Atingir",
+    "meaning": "to achieve, to reach, to attain",
+    "example": "Precisamos atingir nossas metas.",
+    "example_translation": "We need to achieve our goals.",
+    "pronunciation": "a-tee(n)-ZHEER"
+  },
+  {
+    "word": "Perceber",
+    "meaning": "to perceive, to realize, to notice",
+    "example": "Eu percebi meu erro.",
+    "example_translation": "I realized my mistake.",
+    "pronunciation": "pehr-seh-BEHR"
+  },
+  {
+    "word": "Gradualmente",
+    "meaning": "gradually",
+    "example": "A situação está melhorando gradualmente.",
+    "example_translation": "The situation is gradually improving.",
+    "pronunciation": "gra-doo-al-ME(N)-tee"
+  },
+  {
+    "word": "Abrangente",
+    "meaning": "comprehensive, extensive, far-reaching",
+    "example": "A pesquisa foi abrangente.",
+    "example_translation": "The research was comprehensive.",
+    "pronunciation": "a-bra(n)-ZHE(N)-tee"
+  },
+  {
+    "word": "Suficiente",
+    "meaning": "sufficient, enough",
+    "example": "O tempo não é suficiente.",
+    "example_translation": "The time is not sufficient.",
+    "pronunciation": "soo-fee-see-EH(n)-tee"
+  },
+  {
+    "word": "Responsabilidade",
+    "meaning": "responsibility",
+    "example": "Ele assumiu total responsabilidade.",
+    "example_translation": "He assumed total responsibility.",
+    "pronunciation": "rrehs-po(n)-sa-bee-lee-DAH-jee"
+  },
+  {
+    "word": "Positivo",
+    "meaning": "positive",
+    "example": "Mantenha uma atitude positiva.",
+    "example_translation": "Maintain a positive attitude.",
+    "pronunciation": "po-zee-TEE-voo"
+  },
+  {
+    "word": "Negativo",
+    "meaning": "negative",
+    "example": "Evite pensamentos negativos.",
+    "example_translation": "Avoid negative thoughts.",
+    "pronunciation": "neh-ga-TEE-voo"
+  },
+  {
+    "word": "Enfrentar",
+    "meaning": "to face, to confront",
+    "example": "Precisamos enfrentar o problema.",
+    "example_translation": "We need to face the problem.",
+    "pronunciation": "e(n)-fre(n)-TAR"
+  },
+  {
+    "word": "Crucial",
+    "meaning": "crucial",
+    "example": "É um momento crucial para a empresa.",
+    "example_translation": "It is a crucial moment for the company.",
+    "pronunciation": "kroo-see-AHL"
+  },
+  {
+    "word": "Tendência",
+    "meaning": "trend, tendency",
+    "example": "Qual é a nova tendência de mercado?",
+    "example_translation": "What is the new market trend?",
+    "pronunciation": "te(n)-DE(N)-see-a"
+  },
+  {
+    "word": "Inovação",
+    "meaning": "innovation",
+    "example": "A inovação é a chave do sucesso.",
+    "example_translation": "Innovation is the key to success.",
+    "pronunciation": "ee-no-va-SAO(N)"
+  },
+  {
+    "word": "Complexo",
+    "meaning": "complex",
+    "example": "O sistema é muito complexo.",
+    "example_translation": "The system is very complex.",
+    "pronunciation": "ko(m)-PLEH-ksoo"
+  },
+  {
+    "word": "Simples",
+    "meaning": "simple",
+    "example": "A solução é bem simples.",
+    "example_translation": "The solution is quite simple.",
+    "pronunciation": "SEE(N)-plehs"
+  },
+  {
+    "word": "Específico",
+    "meaning": "specific",
+    "example": "Eu preciso de informações específicas.",
+    "example_translation": "I need specific information.",
+    "pronunciation": "eh-speh-SEE-fee-koo"
+  },
+  {
+    "word": "Abstrato",
+    "meaning": "abstract",
+    "example": "É um conceito abstrato.",
+    "example_translation": "It's an abstract concept.",
+    "pronunciation": "ab-STRAH-too"
+  },
+  {
+    "word": "Análise",
+    "meaning": "analysis",
+    "example": "A análise dos dados é fundamental.",
+    "example_translation": "Data analysis is fundamental.",
+    "pronunciation": "a-NAH-lee-zee"
+  },
+  {
+    "word": "Avaliação",
+    "meaning": "evaluation, assessment",
+    "example": "Faremos uma avaliação do projeto.",
+    "example_translation": "We will do an evaluation of the project.",
+    "pronunciation": "a-va-lyah-SAO(N)"
+  },
+  {
+    "word": "Apesar de",
+    "meaning": "despite, in spite of",
+    "example": "Apesar do atraso, chegamos a tempo.",
+    "example_translation": "Despite the delay, we arrived on time.",
+    "pronunciation": "a-peh-ZAR jee"
+  },
+  {
+    "word": "Indicar",
+    "meaning": "to indicate, to point out",
+    "example": "Os resultados indicam sucesso.",
+    "example_translation": "The results indicate success.",
+    "pronunciation": "ee(n)-dee-KAR"
+  },
+  {
+    "word": "Compromisso",
+    "meaning": "commitment, compromise",
+    "example": "Temos um compromisso com a qualidade.",
+    "example_translation": "We have a commitment to quality.",
+    "pronunciation": "ko(m)-pro-MEE-soo"
+  },
+  {
+    "word": "Contribuição",
+    "meaning": "contribution",
+    "example": "Sua contribuição foi valiosa.",
+    "example_translation": "Your contribution was valuable.",
+    "pronunciation": "ko(n)-tree-bwee-SAO(N)"
+  },
+  {
+    "word": "Resultar em",
+    "meaning": "to result in, to lead to",
+    "example": "Isso pode resultar em problemas.",
+    "example_translation": "This can result in problems.",
+    "pronunciation": "rreh-zool-TAR e(n)"
+  },
+  {
+    "word": "Escassez",
+    "meaning": "shortage, scarcity, lack",
+    "example": "Há escassez de água na região.",
+    "example_translation": "There is a water shortage in the region.",
+    "pronunciation": "es-ka-SEHS"
+  },
+  {
+    "word": "Refletir",
+    "meaning": "to reflect",
+    "example": "Suas ações refletem seus valores.",
+    "example_translation": "His actions reflect his values.",
+    "pronunciation": "rreh-fleh-TEER"
+  },
+  {
+    "word": "Promover",
+    "meaning": "to promote, to foster",
+    "example": "A empresa promove a diversidade.",
+    "example_translation": "The company promotes diversity.",
+    "pronunciation": "pro-MOH-vehr"
+  },
+  {
+    "word": "Medir",
+    "meaning": "to measure",
+    "example": "Como podemos medir o progresso?",
+    "example_translation": "How can we measure progress?",
+    "pronunciation": "meh-JEER"
+  },
+  {
+    "word": "Medida",
+    "meaning": "measure (as in action taken)",
+    "example": "Tomamos medidas de segurança.",
+    "example_translation": "We took security measures.",
+    "pronunciation": "meh-DEE-da"
+  },
+  {
+    "word": "Setor",
+    "meaning": "sector, industry",
+    "example": "O setor de tecnologia está crescendo.",
+    "example_translation": "The technology sector is growing.",
+    "pronunciation": "seh-TOHR"
+  },
+  {
+    "word": "Situação",
+    "meaning": "situation",
+    "example": "A situação é delicada.",
+    "example_translation": "The situation is delicate.",
+    "pronunciation": "see-too-a-SAO(N)"
+  },
+  {
+    "word": "Potencial",
+    "meaning": "potential",
+    "example": "Ele tem um grande potencial.",
+    "example_translation": "He has great potential.",
+    "pronunciation": "po-te(n)-see-AHL"
+  },
+  {
+    "word": "Crise",
+    "meaning": "crisis",
+    "example": "Estamos passando por uma crise econômica.",
+    "example_translation": "We are going through an economic crisis.",
+    "pronunciation": "KREE-zee"
+  },
+  {
+    "word": "Estratégia",
+    "meaning": "strategy",
+    "example": "Qual é a nossa estratégia?",
+    "example_translation": "What is our strategy?",
+    "pronunciation": "es-tra-TEH-jya"
+  },
+  {
+    "word": "Conceito",
+    "meaning": "concept, notion",
+    "example": "É um conceito difícil de entender.",
+    "example_translation": "It's a difficult concept to understand.",
+    "pronunciation": "ko(n)-SAY-too"
+  },
+  {
+    "word": "Essência",
+    "meaning": "essence",
+    "example": "A essência do problema.",
+    "example_translation": "The essence of the problem.",
+    "pronunciation": "eh-SE(N)-see-a"
+  },
+  {
+    "word": "Postura",
+    "meaning": "stance, posture, attitude",
+    "example": "Sua postura é profissional.",
+    "example_translation": "His attitude is professional.",
+    "pronunciation": "pos-TOO-ra"
+  },
+  {
+    "word": "Expectativa",
+    "meaning": "expectation",
+    "example": "As expectativas são altas.",
+    "example_translation": "The expectations are high.",
+    "pronunciation": "esh-pek-ta-TEE-va"
+  },
+  {
+    "word": "Persistir",
+    "meaning": "to persist, to continue",
+    "example": "Precisamos persistir em nossos esforços.",
+    "example_translation": "We need to persist in our efforts.",
+    "pronunciation": "pehr-see-STEER"
+  },
+  {
+    "word": "Ajustar",
+    "meaning": "to adjust",
+    "example": "Precisamos ajustar o plano.",
+    "example_translation": "We need to adjust the plan.",
+    "pronunciation": "a-zhoos-TAR"
+  },
+  {
+    "word": "Fenômeno",
+    "meaning": "phenomenon",
+    "example": "É um fenômeno natural.",
+    "example_translation": "It's a natural phenomenon.",
+    "pronunciation": "feh-NO-meh-noo"
+  },
+  {
+    "word": "Iniciativa",
+    "meaning": "initiative",
+    "example": "Sua iniciativa foi louvável.",
+    "example_translation": "His initiative was commendable.",
+    "pronunciation": "ee-nee-see-a-TEE-va"
+  },
+  {
+    "word": "Fortalecer",
+    "meaning": "to strengthen",
+    "example": "Precisamos fortalecer a equipe.",
+    "example_translation": "We need to strengthen the team.",
+    "pronunciation": "for-ta-leh-SEHR"
+  },
+  {
+    "word": "Integrar",
+    "meaning": "to integrate",
+    "example": "Eles querem integrar novos membros.",
+    "example_translation": "They want to integrate new members.",
+    "pronunciation": "ee(n)-teh-GRAR"
+  }
+
+]

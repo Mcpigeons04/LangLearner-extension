@@ -1,0 +1,1012 @@
+[
+  {
+    "word": "নমস্কার",
+    "meaning": "Hello / Namaste (formal, common greeting)",
+    "example": "নমস্কার, আপনি কেমন আছেন?",
+    "example_translation": "Hello, how are you?",
+    "pronunciation": "nomoshkar"
+  },
+  {
+    "word": "ধন্যবাদ",
+    "meaning": "Thank you",
+    "example": "আপনাকে অনেক ধন্যবাদ!",
+    "example_translation": "Thank you very much!",
+    "pronunciation": "dhonnobad"
+  },
+  {
+    "word": "হ্যাঁ",
+    "meaning": "Yes",
+    "example": "হ্যাঁ, এটা ঠিক।",
+    "example_translation": "Yes, this is correct.",
+    "pronunciation": "hã"
+  },
+  {
+    "word": "না",
+    "meaning": "No",
+    "example": "না, এটা আমার না।",
+    "example_translation": "No, this is not mine.",
+    "pronunciation": "na"
+  },
+  {
+    "word": "আমি",
+    "meaning": "I",
+    "example": "আমি একজন ছাত্র।",
+    "example_translation": "I am a student.",
+    "pronunciation": "ami"
+  },
+  {
+    "word": "তুমি",
+    "meaning": "You (informal singular)",
+    "example": "তুমি কি করছো?",
+    "example_translation": "What are you doing?",
+    "pronunciation": "tumi"
+  },
+  {
+    "word": "আপনি",
+    "meaning": "You (formal singular / plural)",
+    "example": "আপনি কি বাংলায় কথা বলেন?",
+    "example_translation": "Do you speak Bengali?",
+    "pronunciation": "apni"
+  },
+  {
+    "word": "সে",
+    "meaning": "He / She (informal)",
+    "example": "সে আমার বন্ধু।",
+    "example_translation": "He/She is my friend.",
+    "pronunciation": "she"
+  },
+  {
+    "word": "তিনি",
+    "meaning": "He / She (formal)",
+    "example": "তিনি একজন ডাক্তার।",
+    "example_translation": "He/She is a doctor.",
+    "pronunciation": "tini"
+  },
+  {
+    "word": "এটা",
+    "meaning": "This",
+    "example": "এটা আমার বই।",
+    "example_translation": "This is my book.",
+    "pronunciation": "eṭa"
+  },
+  {
+    "word": "ওটা",
+    "meaning": "That",
+    "example": "ওটা কি?",
+    "example_translation": "What is that?",
+    "pronunciation": "oṭa"
+  },
+  {
+    "word": "আমরা",
+    "meaning": "We",
+    "example": "আমরা এখন যাবো।",
+    "example_translation": "We will go now.",
+    "pronunciation": "amra"
+  },
+  {
+    "word": "তারা",
+    "meaning": "They",
+    "example": "তারা খেলছে।",
+    "example_translation": "They are playing.",
+    "pronunciation": "tara"
+  },
+  {
+    "word": "কে?",
+    "meaning": "Who?",
+    "example": "কে ওখানে?",
+    "example_translation": "Who is there?",
+    "pronunciation": "ke?"
+  },
+  {
+    "word": "কী?",
+    "meaning": "What?",
+    "example": "কী হয়েছে?",
+    "example_translation": "What happened?",
+    "pronunciation": "ki?"
+  },
+  {
+    "word": "কোথায়?",
+    "meaning": "Where?",
+    "example": "তুমি কোথায় যাচ্ছো?",
+    "example_translation": "Where are you going?",
+    "pronunciation": "kothay?"
+  },
+  {
+    "word": "কখন?",
+    "meaning": "When?",
+    "example": "তুমি কখন আসবে?",
+    "example_translation": "When will you come?",
+    "pronunciation": "kokhon?"
+  },
+  {
+    "word": "কেন?",
+    "meaning": "Why?",
+    "example": "তুমি কেন কাঁদছো?",
+    "example_translation": "Why are you crying?",
+    "pronunciation": "keno?"
+  },
+  {
+    "word": "কীভাবে?",
+    "meaning": "How?",
+    "example": "তুমি কীভাবে জানো?",
+    "example_translation": "How do you know?",
+    "pronunciation": "kibhavay?"
+  },
+  {
+    "word": "বাড়ি",
+    "meaning": "House / Home",
+    "example": "আমার বাড়ি এখানে।",
+    "example_translation": "My house is here.",
+    "pronunciation": "baṛi"
+  },
+  {
+    "word": "জল",
+    "meaning": "Water",
+    "example": "এক গ্লাস জল দিন।",
+    "example_translation": "Give me a glass of water.",
+    "pronunciation": "jol"
+  },
+  {
+    "word": "খাবার",
+    "meaning": "Food",
+    "example": "খাবার খুব সুস্বাদু।",
+    "example_translation": "The food is very delicious.",
+    "pronunciation": "khabar"
+  },
+  {
+    "word": "বই",
+    "meaning": "Book",
+    "example": "আমি বই পড়ছি।",
+    "example_translation": "I am reading a book.",
+    "pronunciation": "boi"
+  },
+  {
+    "word": "দিন",
+    "meaning": "Day",
+    "example": "আজকের দিনটা খুব সুন্দর।",
+    "example_translation": "Today is a very beautiful day.",
+    "pronunciation": "din"
+  },
+  {
+    "word": "আজ",
+    "meaning": "Today",
+    "example": "আজ আমার জন্মদিন।",
+    "example_translation": "Today is my birthday.",
+    "pronunciation": "aj"
+  },
+  {
+    "word": "কাল",
+    "meaning": "Tomorrow / Yesterday",
+    "example": "কাল দেখা হবে।",
+    "example_translation": "See you tomorrow.",
+    "pronunciation": "kal"
+  },
+  {
+    "word": "সকাল",
+    "meaning": "Morning",
+    "example": "শুভ সকাল!",
+    "example_translation": "Good morning!",
+    "pronunciation": "sokal"
+  },
+  {
+    "word": "সন্ধ্যা",
+    "meaning": "Evening",
+    "example": "শুভ সন্ধ্যা!",
+    "example_translation": "Good evening!",
+    "pronunciation": "shondhya"
+  },
+  {
+    "word": "রাত",
+    "meaning": "Night",
+    "example": "শুভ রাত্রি!",
+    "example_translation": "Good night!",
+    "pronunciation": "rat"
+  },
+  {
+    "word": "এখন",
+    "meaning": "Now",
+    "example": "এখন কী করি?",
+    "example_translation": "What do I do now?",
+    "pronunciation": "ekhon"
+  },
+  {
+    "word": "খাওয়া",
+    "meaning": "To eat",
+    "example": "আমি ভাত খাচ্ছি।",
+    "example_translation": "I am eating rice.",
+    "pronunciation": "khawa"
+  },
+  {
+    "word": "পান করা",
+    "meaning": "To drink",
+    "example": "দুধ পান করো।",
+    "example_translation": "Drink milk.",
+    "pronunciation": "pan kora"
+  },
+  {
+    "word": "যাওয়া",
+    "meaning": "To go",
+    "example": "আমরা স্কুলে যাচ্ছি।",
+    "example_translation": "We are going to school.",
+    "pronunciation": "jaoa"
+  },
+  {
+    "word": "আসা",
+    "meaning": "To come",
+    "example": "সে বাড়িতে আসছে।",
+    "example_translation": "He/She is coming home.",
+    "pronunciation": "asha"
+  },
+  {
+    "word": "বলা",
+    "meaning": "To say / To tell",
+    "example": "তাকে কিছু বলো।",
+    "example_translation": "Tell him/her something.",
+    "pronunciation": "bola"
+  },
+  {
+    "word": "বোঝা",
+    "meaning": "To understand",
+    "example": "আমি তোমাকে বুঝি।",
+    "example_translation": "I understand you.",
+    "pronunciation": "bojha"
+  },
+  {
+    "word": "জানা",
+    "meaning": "To know",
+    "example": "আমি তাকে জানি।",
+    "example_translation": "I know him/her.",
+    "pronunciation": "jana"
+  },
+  {
+    "word": "দেখা",
+    "meaning": "To see / To watch",
+    "example": "আমি সিনেমা দেখছি।",
+    "example_translation": "I am watching a movie.",
+    "pronunciation": "dekha"
+  },
+  {
+    "word": "থাকা",
+    "meaning": "To stay / To be (exist)",
+    "example": "আমি বাড়িতে আছি।",
+    "example_translation": "I am at home.",
+    "pronunciation": "thaka"
+  },
+  {
+    "word": "বাবা",
+    "meaning": "Father",
+    "example": "আমার বাবা একজন শিক্ষক।",
+    "example_translation": "My father is a teacher.",
+    "pronunciation": "baba"
+  },
+  {
+    "word": "মা",
+    "meaning": "Mother",
+    "example": "আমার মা ভালো রান্না করেন।",
+    "example_translation": "My mother cooks well.",
+    "pronunciation": "ma"
+  },
+  {
+    "word": "ভাই",
+    "meaning": "Brother",
+    "example": "আমার একটি ছোট ভাই আছে।",
+    "example_translation": "I have a younger brother.",
+    "pronunciation": "bhai"
+  },
+  {
+    "word": "বোন",
+    "meaning": "Sister",
+    "example": "আমার একটি বড় বোন আছে।",
+    "example_translation": "I have an elder sister.",
+    "pronunciation": "bon"
+  },
+  {
+    "word": "বন্ধু",
+    "meaning": "Friend",
+    "example": "সে আমার ভালো বন্ধু।",
+    "example_translation": "He/She is my good friend.",
+    "pronunciation": "bondhu"
+  },
+  {
+    "word": "পুরুষ",
+    "meaning": "Man / Male",
+    "example": "একজন বয়স্ক পুরুষ।",
+    "example_translation": "An elderly man.",
+    "pronunciation": "purush"
+  },
+  {
+    "word": "নারী",
+    "meaning": "Woman / Female",
+    "example": "এই নারীটি জ্ঞানী।",
+    "example_translation": "This woman is wise.",
+    "pronunciation": "nari"
+  },
+  {
+    "word": "শিশু",
+    "meaning": "Child",
+    "example": "শিশুটি খেলছে।",
+    "example_translation": "The child is playing.",
+    "pronunciation": "shishu"
+  },
+  {
+    "word": "গাড়ি",
+    "meaning": "Car",
+    "example": "আমার একটি নতুন গাড়ি আছে।",
+    "example_translation": "I have a new car.",
+    "pronunciation": "gaṛi"
+  },
+  {
+    "word": "ফোন",
+    "meaning": "Phone",
+    "example": "আমার ফোন বাজছে।",
+    "example_translation": "My phone is ringing.",
+    "pronunciation": "fon"
+  },
+  {
+    "word": "কত?",
+    "meaning": "How much / How many?",
+    "example": "এটার দাম কত?",
+    "example_translation": "How much does this cost?",
+    "pronunciation": "koto?"
+  },
+  {
+    "word": "বড়",
+    "meaning": "Big / Large",
+    "example": "এটা খুব বড়।",
+    "example_translation": "This is very big.",
+    "pronunciation": "boṛo"
+  },
+  {
+    "word": "ছোট",
+    "meaning": "Small / Little",
+    "example": "এটা খুব ছোট।",
+    "example_translation": "This is very small.",
+    "pronunciation": "chhoṭo"
+  },
+  {
+    "word": "নতুন",
+    "meaning": "New",
+    "example": "এটা নতুন জামা।",
+    "example_translation": "This is a new shirt.",
+    "pronunciation": "notun"
+  },
+  {
+    "word": "পুরানো",
+    "meaning": "Old (for objects)",
+    "example": "এটা পুরানো বাড়ি।",
+    "example_translation": "This is an old house.",
+    "pronunciation": "purano"
+  },
+  {
+    "word": "সুন্দর",
+    "meaning": "Beautiful / Nice",
+    "example": "ফুলটি খুব সুন্দর।",
+    "example_translation": "The flower is very beautiful.",
+    "pronunciation": "shundor"
+  },
+  {
+    "word": "খারাপ",
+    "meaning": "Bad",
+    "example": "এটা খারাপ খবর।",
+    "example_translation": "This is bad news.",
+    "pronunciation": "kharap"
+  },
+  {
+    "word": "গরম",
+    "meaning": "Hot",
+    "example": "চা গরম।",
+    "example_translation": "The tea is hot.",
+    "pronunciation": "gorom"
+  },
+  {
+    "word": "ঠান্ডা",
+    "meaning": "Cold",
+    "example": "জল ঠান্ডা।",
+    "example_translation": "The water is cold.",
+    "pronunciation": "ṭhanda"
+  },
+  {
+    "word": "সুস্বাদু",
+    "meaning": "Delicious",
+    "example": "খাবারটা সুস্বাদু।",
+    "example_translation": "The food is delicious.",
+    "pronunciation": "shushshadu"
+  },
+  {
+    "word": "কষ্ট",
+    "meaning": "Difficult / Pain",
+    "example": "কাজটা খুব কষ্ট।",
+    "example_translation": "The work is very difficult.",
+    "pronunciation": "koshto"
+  },
+  {
+    "word": "সহজ",
+    "meaning": "Easy",
+    "example": "এটা খুব সহজ কাজ।",
+    "example_translation": "This is a very easy task.",
+    "pronunciation": "sohoj"
+  },
+  {
+    "word": "এখানে",
+    "meaning": "Here",
+    "example": "এখানে বসো।",
+    "example_translation": "Sit here.",
+    "pronunciation": "ekhane"
+  },
+  {
+    "word": "ওখানে",
+    "meaning": "There",
+    "example": "ওখানে যাও।",
+    "example_translation": "Go there.",
+    "pronunciation": "okhane"
+  },
+  {
+    "word": "উপরে",
+    "meaning": "Up / Above",
+    "example": "বইটা টেবিলের উপরে আছে।",
+    "example_translation": "The book is on the table.",
+    "pronunciation": "upore"
+  },
+  {
+    "word": "নীচে",
+    "meaning": "Down / Below",
+    "example": "কলমটা টেবিলের নীচে।",
+    "example_translation": "The pen is under the table.",
+    "pronunciation": "nichhe"
+  },
+  {
+    "word": "ডানদিকে",
+    "meaning": "Right (direction)",
+    "example": "ডানদিকে যাও।",
+    "example_translation": "Go to the right.",
+    "pronunciation": "ḍandike"
+  },
+  {
+    "word": "বামদিকে",
+    "meaning": "Left (direction)",
+    "example": "বামদিকে ঘুরুন।",
+    "example_translation": "Turn left (formal).",
+    "pronunciation": "bamdike"
+  },
+  {
+    "word": "ভিতরে",
+    "meaning": "Inside",
+    "example": "বাড়ির ভিতরে যাও।",
+    "example_translation": "Go inside the house.",
+    "pronunciation": "bhitore"
+  },
+  {
+    "word": "বাইরে",
+    "meaning": "Outside",
+    "example": "বাইরে বৃষ্টি পড়ছে।",
+    "example_translation": "It's raining outside.",
+    "pronunciation": "baire"
+  },
+  {
+    "word": "সঙ্গে",
+    "meaning": "With",
+    "example": "আমি তোমার সঙ্গে যাবো।",
+    "example_translation": "I will go with you.",
+    "pronunciation": "shonge"
+  },
+  {
+    "word": "জন্য",
+    "meaning": "For",
+    "example": "এটা তোমার জন্য।",
+    "example_translation": "This is for you.",
+    "pronunciation": "jonno"
+  },
+  {
+    "word": "থেকে",
+    "meaning": "From",
+    "example": "আমি কলকাতা থেকে এসেছি।",
+    "example_translation": "I came from Kolkata.",
+    "pronunciation": "theke"
+  },
+  {
+    "word": "এবং",
+    "meaning": "And",
+    "example": "তুমি এবং আমি।",
+    "example_translation": "You and I.",
+    "pronunciation": "ebong"
+  },
+  {
+    "word": "অথবা",
+    "meaning": "Or",
+    "example": "চা অথবা কফি?",
+    "example_translation": "Tea or coffee?",
+    "pronunciation": "othoba"
+  },
+  {
+    "word": "কিন্তু",
+    "meaning": "But",
+    "example": "আমি যাবো কিন্তু সে যাবে না।",
+    "example_translation": "I will go but he will not go.",
+    "pronunciation": "kintu"
+  },
+  {
+    "word": "কারণ",
+    "meaning": "Because / Reason",
+    "example": "কারণ আমি অসুস্থ।",
+    "example_translation": "Because I am sick.",
+    "pronunciation": "karon"
+  },
+  {
+    "word": "যদি",
+    "meaning": "If",
+    "example": "যদি তুমি আসো।",
+    "example_translation": "If you come.",
+    "pronunciation": "jodi"
+  },
+  {
+    "word": "সব",
+    "meaning": "All / Every",
+    "example": "সব মানুষ।",
+    "example_translation": "All people.",
+    "pronunciation": "shob"
+  },
+  {
+    "word": "কিছু",
+    "meaning": "Some / A little",
+    "example": "কিছু জল আছে।",
+    "example_translation": "There is some water.",
+    "pronunciation": "kichhu"
+  },
+  {
+    "word": "অনেক",
+    "meaning": "Many / Much / A lot",
+    "example": "আমার অনেক বই আছে।",
+    "example_translation": "I have many books.",
+    "pronunciation": "onek"
+  },
+  {
+    "word": "কম",
+    "meaning": "Less / Few",
+    "example": "আমার কম টাকা আছে।",
+    "example_translation": "I have less money.",
+    "pronunciation": "kom"
+  },
+  {
+    "word": "খুব",
+    "meaning": "Very",
+    "example": "সে খুব ভালো।",
+    "example_translation": "He/She is very good.",
+    "pronunciation": "khub"
+  },
+  {
+    "word": "শুধু",
+    "meaning": "Only / Just",
+    "example": "শুধু আমি জানি।",
+    "example_translation": "Only I know.",
+    "pronunciation": "shudhu"
+  },
+  {
+    "word": "ভাষা",
+    "meaning": "Language",
+    "example": "বাংলা আমার ভাষা।",
+    "example_translation": "Bengali is my language.",
+    "pronunciation": "bhasha"
+  },
+  {
+    "word": "নাম",
+    "meaning": "Name",
+    "example": "তোমার নাম কি?",
+    "example_translation": "What is your name?",
+    "pronunciation": "nam"
+  },
+  {
+    "word": "বছর",
+    "meaning": "Year",
+    "example": "এই বছর আমার জন্মদিন।",
+    "example_translation": "This year is my birthday.",
+    "pronunciation": "bochhor"
+  },
+  {
+    "word": "মাস",
+    "meaning": "Month",
+    "example": "এটি একটি নতুন মাস।",
+    "example_translation": "This is a new month.",
+    "pronunciation": "mas"
+  },
+  {
+    "word": "সপ্তাহ",
+    "meaning": "Week",
+    "example": "পরের সপ্তাহে দেখা হবে।",
+    "example_translation": "See you next week.",
+    "pronunciation": "shoptaho"
+  },
+  {
+    "word": "ঘণ্টা",
+    "meaning": "Hour",
+    "example": "এক ঘণ্টা লাগবে।",
+    "example_translation": "It will take one hour.",
+    "pronunciation": "ghonṭa"
+  },
+  {
+    "word": "মিনিট",
+    "meaning": "Minute",
+    "example": "পাঁচ মিনিট অপেক্ষা করো।",
+    "example_translation": "Wait five minutes.",
+    "pronunciation": "miniṭ"
+  },
+  {
+    "word": "সেকেন্ড",
+    "meaning": "Second",
+    "example": "এক সেকেন্ড দাও।",
+    "example_translation": "Give me one second.",
+    "pronunciation": "sekenḍ"
+  },
+  {
+    "word": "বিদ্যালয়",
+    "meaning": "School (formal)",
+    "example": "তিনি একটি বিদ্যালয়ে পড়ান।",
+    "example_translation": "He teaches in a school.",
+    "pronunciation": "bidyaloy"
+  },
+  {
+    "word": "হাসপাতাল",
+    "meaning": "Hospital",
+    "example": "সে হাসপাতালে আছে।",
+    "example_translation": "He is in the hospital.",
+    "pronunciation": "hashpatal"
+  },
+  {
+    "word": "বাজার",
+    "meaning": "Market",
+    "example": "আমি বাজারে যাচ্ছি।",
+    "example_translation": "I am going to the market.",
+    "pronunciation": "bajar"
+  },
+  {
+    "word": "শহর",
+    "meaning": "City / Town",
+    "example": "কলকাতা একটি বড় শহর।",
+    "example_translation": "Kolkata is a big city.",
+    "pronunciation": "shohor"
+  },
+  
+  {
+    "word": "উন্নয়ন",
+    "meaning": "development",
+    "example": "দেশের অর্থনীতিতে দ্রুত উন্নয়ন ঘটছে।",
+    "example_translation": "Rapid development is happening in the country's economy.",
+    "pronunciation": "unnoyon"
+  },
+  {
+    "word": "প্রভাব",
+    "meaning": "influence, effect",
+    "example": "জলবায়ু পরিবর্তনের ব্যাপক প্রভাব রয়েছে।",
+    "example_translation": "Climate change has a huge impact.",
+    "pronunciation": "probhab"
+  },
+  {
+    "word": "নীতি",
+    "meaning": "policy, principle, ethics",
+    "example": "সরকার নতুন নীতি গ্রহণ করেছে।",
+    "example_translation": "The government has adopted a new policy.",
+    "pronunciation": "niti"
+  },
+  {
+    "word": "প্রতিযোগিতা",
+    "meaning": "competition",
+    "example": "বাজারে তীব্র প্রতিযোগিতা রয়েছে।",
+    "example_translation": "There is fierce competition in the market.",
+    "pronunciation": "protijogita"
+  },
+  {
+    "word": "চ্যালেঞ্জ",
+    "meaning": "challenge",
+    "example": "আমাদের সামনে অনেক চ্যালেঞ্জ আছে।",
+    "example_translation": "We have many challenges ahead of us.",
+    "pronunciation": "challenj"
+  },
+  {
+    "word": "উন্নতি",
+    "meaning": "improvement, progress",
+    "example": "শিক্ষার মান উন্নয়নে কাজ করা হচ্ছে।",
+    "example_translation": "Work is being done to improve the quality of education.",
+    "pronunciation": "unnati"
+  },
+  {
+    "word": "অভিজ্ঞতা",
+    "meaning": "experience",
+    "example": "তার এই বিষয়ে প্রচুর অভিজ্ঞতা আছে।",
+    "example_translation": "He has a lot of experience in this matter.",
+    "pronunciation": "obhiggota"
+  },
+  {
+    "word": "অর্জন",
+    "meaning": "achievement, attainment",
+    "example": "এই পুরস্কারটি তার জীবনের একটি বড় অর্জন।",
+    "example_translation": "This award is a great achievement of his life.",
+    "pronunciation": "orjon"
+  },
+  {
+    "word": "উপলব্ধি",
+    "meaning": "realization, understanding, perception",
+    "example": "সে তার ভুল উপলব্ধি করলো।",
+    "example_translation": "He realized his mistake.",
+    "pronunciation": "upolobdhi"
+  },
+  {
+    "word": "ধীরে ধীরে",
+    "meaning": "gradually, slowly",
+    "example": "পরিস্থিতি ধীরে ধীরে স্বাভাবিক হচ্ছে।",
+    "example_translation": "The situation is gradually returning to normal.",
+    "pronunciation": "dhire dhire"
+  },
+  {
+    "word": "ব্যাপক",
+    "meaning": "widespread, extensive, comprehensive",
+    "example": "এটি একটি ব্যাপক আলোচনা।",
+    "example_translation": "This is a comprehensive discussion.",
+    "pronunciation": "byapak"
+  },
+  {
+    "word": "পর্যাপ্ত",
+    "meaning": "sufficient, adequate",
+    "example": "আমাদের কাছে পর্যাপ্ত সময় নেই।",
+    "example_translation": "We do not have sufficient time.",
+    "pronunciation": "porjapto"
+  },
+  {
+    "word": "দায়িত্ব",
+    "meaning": "responsibility, duty",
+    "example": "এই কাজের দায়িত্ব আমার।",
+    "example_translation": "This work's responsibility is mine.",
+    "pronunciation": "dayitto"
+  },
+  {
+    "word": "ইতিবাচক",
+    "meaning": "positive",
+    "example": "একটি ইতিবাচক মনোভাব রাখুন।",
+    "example_translation": "Have a positive attitude.",
+    "pronunciation": "itibachok"
+  },
+  {
+    "word": "নেতিবাচক",
+    "meaning": "negative",
+    "example": "নেতিবাচক চিন্তা পরিহার করুন।",
+    "example_translation": "Avoid negative thoughts.",
+    "pronunciation": "netibachok"
+  },
+  {
+    "word": "মুখোমুখি",
+    "meaning": "to face, to confront",
+    "example": "আমরা সমস্যার মুখোমুখি হয়েছি।",
+    "example_translation": "We have faced problems.",
+    "pronunciation": "mukhomukhi"
+  },
+  {
+    "word": "গুরুত্বপূর্ণ",
+    "meaning": "important, significant",
+    "example": "এটি একটি গুরুত্বপূর্ণ সিদ্ধান্ত।",
+    "example_translation": "This is an important decision.",
+    "pronunciation": "guruttopurno"
+  },
+  {
+    "word": "প্রবণতা",
+    "meaning": "tendency, trend",
+    "example": "বর্তমানে এই ধরনের পোশাকের প্রবণতা বেশি।",
+    "example_translation": "Currently, this type of clothing has a higher tendency (is more trendy).",
+    "pronunciation": "probonota"
+  },
+  {
+    "word": "উদ্ভাবন",
+    "meaning": "innovation",
+    "example": "নতুন উদ্ভাবনগুলি অর্থনীতিকে চালিত করে।",
+    "example_translation": "New innovations drive the economy.",
+    "pronunciation": "udbhabon"
+  },
+  {
+    "word": "জটিল",
+    "meaning": "complex, complicated",
+    "example": "সমস্যাটি খুব জটিল।",
+    "example_translation": "The problem is very complex.",
+    "pronunciation": "joṭil"
+  },
+  {
+    "word": "সরল",
+    "meaning": "simple, straightforward",
+    "example": "একটি সরল সমাধান খুঁজে বের করুন।",
+    "example_translation": "Find a simple solution.",
+    "pronunciation": "shorol"
+  },
+  {
+    "word": "নির্দিষ্ট",
+    "meaning": "specific, definite",
+    "example": "আমাকে একটি নির্দিষ্ট তারিখ দিন।",
+    "example_translation": "Give me a specific date.",
+    "pronunciation": "nirdishṭo"
+  },
+  {
+    "word": "বিমূর্ত",
+    "meaning": "abstract",
+    "example": "এটি একটি বিমূর্ত ধারণা।",
+    "example_translation": "This is an abstract concept.",
+    "pronunciation": "bimurto"
+  },
+  {
+    "word": "বিশ্লেষণ",
+    "meaning": "analysis",
+    "example": "আমরা তথ্য বিশ্লেষণ করছি।",
+    "example_translation": "We are analyzing the data.",
+    "pronunciation": "bishleshon"
+  },
+  {
+    "word": "মূল্যায়ন",
+    "meaning": "evaluation, assessment",
+    "example": "প্রকল্পের মূল্যায়ন প্রয়োজন।",
+    "example_translation": "An evaluation of the project is needed.",
+    "pronunciation": "mullayon"
+  },
+  {
+    "word": "যদিও",
+    "meaning": "although, even though",
+    "example": "যদিও সে অসুস্থ ছিল, সে কাজ করলো।",
+    "example_translation": "Although he was sick, he worked.",
+    "pronunciation": "jodio"
+  },
+  {
+    "word": "নির্দেশ করা",
+    "meaning": "to indicate, to point out",
+    "example": "রিপোর্টটি উন্নতির দিকে নির্দেশ করে।",
+    "example_translation": "The report indicates progress.",
+    "pronunciation": "nirdesh kora"
+  },
+  {
+    "word": "প্রতিশ্রুতি",
+    "meaning": "promise, commitment",
+    "example": "তিনি তার প্রতিশ্রুতি রক্ষা করলেন।",
+    "example_translation": "He kept his promise.",
+    "pronunciation": "protisruti"
+  },
+  {
+    "word": "অবদান",
+    "meaning": "contribution",
+    "example": "তার বিজ্ঞান গবেষণায় বিশাল অবদান আছে।",
+    "example_translation": "He has a huge contribution to scientific research.",
+    "pronunciation": "obodan"
+  },
+  {
+    "word": "নেতৃত্ব",
+    "meaning": "leadership",
+    "example": "তার নেতৃত্বে দলটি সফল হলো।",
+    "example_translation": "Under his leadership, the team succeeded.",
+    "pronunciation": "netritto"
+  },
+  {
+    "word": "ঘাটতি",
+    "meaning": "shortage, deficit, lack",
+    "example": "পানীয় জলের ঘাটতি রয়েছে।",
+    "example_translation": "There is a shortage of drinking water.",
+    "pronunciation": "ghaṭti"
+  },
+  {
+    "word": "প্রতিফলিত",
+    "meaning": "to reflect (adj. or participle)",
+    "example": "তার আচরণ তার ব্যক্তিত্ব প্রতিফলিত করে।",
+    "example_translation": "His behavior reflects his personality.",
+    "pronunciation": "protifolito"
+  },
+  {
+    "word": "প্রচার",
+    "meaning": "promotion, propaganda, publicity",
+    "example": "তারা নতুন পণ্যের প্রচার করছে।",
+    "example_translation": "They are promoting a new product.",
+    "pronunciation": "prochar"
+  },
+  {
+    "word": "পরিমাপ করা",
+    "meaning": "to measure",
+    "example": "তাপমাত্রা পরিমাপ করা হলো।",
+    "example_translation": "The temperature was measured.",
+    "pronunciation": "porimap kora"
+  },
+  {
+    "word": "পদক্ষেপ",
+    "meaning": "step, measure (to take action)",
+    "example": "সরকার দ্রুত পদক্ষেপ নিয়েছে।",
+    "example_translation": "The government has taken quick steps.",
+    "pronunciation": "podokkhep"
+  },
+  {
+    "word": "খাত",
+    "meaning": "sector, field, department",
+    "example": "কৃষি খাত দেশের অর্থনীতিতে গুরুত্বপূর্ণ।",
+    "example_translation": "The agricultural sector is important in the country's economy.",
+    "pronunciation": "khat"
+  },
+  {
+    "word": "পরিস্থিতি",
+    "meaning": "situation, circumstances",
+    "example": "বর্তমান পরিস্থিতি খুবই সংবেদনশীল।",
+    "example_translation": "The current situation is very sensitive.",
+    "pronunciation": "poristhiti"
+  },
+  {
+    "word": "সম্ভাবনা",
+    "meaning": "potential, possibility",
+    "example": "এই প্রকল্পে বিশাল সম্ভাবনা আছে।",
+    "example_translation": "There is huge potential in this project.",
+    "pronunciation": "shombhabona"
+  },
+  {
+    "word": "সংকট",
+    "meaning": "crisis, danger",
+    "example": "দেশটি একটি অর্থনৈতিক সংকটের মুখোমুখি।",
+    "example_translation": "The country is facing an economic crisis.",
+    "pronunciation": "shongkoṭ"
+  },
+  {
+    "word": "কৌশল",
+    "meaning": "strategy, tactic",
+    "example": "তাদের সামরিক কৌশল খুব কার্যকর ছিল।",
+    "example_translation": "Their military strategy was very effective.",
+    "pronunciation": "koushol"
+  },
+  {
+    "word": "ধারণা",
+    "meaning": "idea, concept, notion",
+    "example": "এই ধারণাটি আমার পছন্দ নয়।",
+    "example_translation": "I don't like this idea.",
+    "pronunciation": "dharona"
+  },
+  {
+    "word": "মূলত",
+    "meaning": "essentially, fundamentally, primarily",
+    "example": "সমস্যাটি মূলত যোগাযোগের অভাব।",
+    "example_translation": "The problem is essentially a lack of communication.",
+    "pronunciation": "muloto"
+  },
+  {
+    "word": "অবস্থান",
+    "meaning": "position, location, stance",
+    "example": "এই বিষয়ে আমার অবস্থান স্পষ্ট।",
+    "example_translation": "My position on this matter is clear.",
+    "pronunciation": "obosthan"
+  },
+  {
+    "word": "প্রত্যাশা",
+    "meaning": "expectation, anticipation",
+    "example": "আমাদের প্রত্যাশা পূরণ হয়েছে।",
+    "example_translation": "Our expectations have been met.",
+    "pronunciation": "prottasha"
+  },
+  {
+    "word": "চলমান",
+    "meaning": "ongoing, continuous",
+    "example": "প্রকল্পটি এখনও চলমান।",
+    "example_translation": "The project is still ongoing.",
+    "pronunciation": "choloman"
+  },
+  {
+    "word": "সামঞ্জস্য",
+    "meaning": "adjustment, conformity, compatibility",
+    "example": "তাদের পরিকল্পনায় কিছুটা সামঞ্জস্য প্রয়োজন।",
+    "example_translation": "Their plan needs some adjustment.",
+    "pronunciation": "shamonjossho"
+  },
+  {
+    "word": "দৃষ্টিভঙ্গি",
+    "meaning": "perspective, viewpoint, outlook",
+    "example": "তার দৃষ্টিভঙ্গি ভিন্ন।",
+    "example_translation": "His viewpoint is different.",
+    "pronunciation": "drishṭibhonggi"
+  },
+  {
+    "word": "উপকরণ",
+    "meaning": "ingredients, material, components",
+    "example": "এই রান্নার জন্য সব উপকরণ প্রস্তুত।",
+    "example_translation": "All ingredients for this cooking are ready.",
+    "pronunciation": "upokoron"
+  },
+  {
+    "word": "সক্ষমতা",
+    "meaning": "capability, capacity, competence",
+    "example": "আমাদের দলের উচ্চ সক্ষমতা আছে।",
+    "example_translation": "Our team has high capability.",
+    "pronunciation": "shokkhomota"
+  }
+
+]
