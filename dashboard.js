@@ -92,33 +92,4 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-// function loadWordHistory() {
-//   const historyDiv = document.getElementById("historyContent");
-//   if (!historyDiv) return; // Prevent crash if element not found
 
-//   chrome.storage.local.get(null, (items) => {
-//     const dateKeys = Object.keys(items).filter(key =>
-//       /^\d{4}-\d{2}-\d{2}$/.test(key)
-//     ).sort();
-
-//     if (dateKeys.length === 0) {
-//       historyDiv.textContent = "No words saved yet.";
-//       return;
-//     }
-
-//     dateKeys.forEach(date => {
-//       const word = items[date];
-//       if (!word || !word.word) return;
-
-//       const wordCard = document.createElement("div");
-//       wordCard.className = "word-card";
-//       wordCard.innerHTML = `
-//         <strong>${date}</strong>: <b>${word.word}</b> ${word.pronunciation ? `(${word.pronunciation})` : ""}<br>
-//         <i>Meaning:</i> ${word.meaning}<br>
-//         <i>Usage:</i> ${word.example}
-//         <hr>
-//       `;
-//       historyDiv.appendChild(wordCard);
-//     });
-//   });
-// }

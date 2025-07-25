@@ -1,81 +1,3 @@
-// const contentDiv=document.getElementById("content");
-// const langSelector=document.getElementById("languageSelector");
-
-// langSelector.addEventListener("change", () => {
-//   const selectedLang = langSelector.value;
-//   chrome.storage.local.set({ lang: selectedLang }, () => {
-//     loadWord(); // 🔁 Immediately reload word with new language
-//   });
-// });
-
-// function loadWord(){
-//     chrome.storage.local.get(["lang"],async(data)=>{
-//         const lang=data.lang || "spanish";
-//         langSelector.value=lang; //Assigns language chosen by user to lang.
-//         const res=await fetch(`data/${lang}.json`); //fetches the words from the json language chosen.
-//         const words=await res.json(); //gets json data into array like format.
-
-//         const today= new Date().toISOString().split("T")[0]; //get only the date part
-//         let index= new Date(today).getDate()%words.length; //if words less thatn 31...gets repeated again as days progress
-//         let wordobj= words[index];
-        
-//         contentDiv.innerHTML=`
-//         <h3>${wordobj.word} (${wordobj.pronunciation})</h3>
-//         <br>
-//         <p><b>Meaning: </b>${wordobj.meaning}</p>
-//         <p><i>Usage:</i> ${wordobj.example}</p>
-//         <p><i>Translation:</i> ${wordobj.example_translation}</p>
-//         `;
-//         chrome.storage.local.set({[today]:wordobj });
-//     });
-// }
-
-// loadWord();
-
-
-
-
-// const contentDiv = document.getElementById("content");
-// const langSelector = document.getElementById("languageSelector");
-
-// // Save selected language and reload word
-// langSelector.addEventListener("change", () => {
-//   const selectedLang = langSelector.value;
-//   chrome.storage.local.set({ lang: selectedLang }, () => {
-//     loadWord(); // Reload word after language change
-//   });
-// });
-
-// function loadWord() {
-//   chrome.storage.local.get(["lang"], async (data) => {
-//     const lang = data.lang || "spanish";
-//     langSelector.value = lang;
-
-//     const res = await fetch(`data/${lang}.json`);
-//     const words = await res.json();
-
-//     const today = new Date().toISOString().split("T")[0];
-//     const key = `${today}_${lang}`; // Use composite key
-
-//     let index = new Date(today).getDate() % words.length;
-//     const wordobj = words[index];
-
-//     // Render on screen
-//     contentDiv.innerHTML = `
-//       <h3>${wordobj.word} (${wordobj.pronunciation})</h3>
-//       <br>
-//       <p><b>Meaning:</b> ${wordobj.meaning}</p>
-//       <p><i>Usage:</i> ${wordobj.example}</p>
-//       <p><i>Translation:</i> ${wordobj.example_translation}</p>
-//     `;
-
-//     // Store with unique key per language and date
-//     chrome.storage.local.set({ [key]: wordobj });
-//   });
-// }
-
-// loadWord(); // code without the typing feature for dropdown.
-
 
 const contentDiv = document.getElementById("content");
 const langInput = document.getElementById("languageInput");
@@ -103,55 +25,6 @@ function loadWord() {
   chrome.storage.local.get(["lang"], async (data) => {
     const lang = data.lang || "spanish";
     langInput.value = capitalize(lang);
-
-    // try {
-    //   const res = await fetch(`data/${lang}.json`);
-    //   const words = await res.json();
-
-    //   const today = new Date().toISOString().split("T")[0];
-    //   const key = `${today}_${lang}`;
-    //   const index = new Date(today).getDate() % words.length;
-    //   const wordobj = words[index];
-
-    //   contentDiv.innerHTML = `
-    //     <h3>${wordobj.word} (${wordobj.pronunciation})</h3>
-    //     <br>
-    //     <p><b>Meaning:</b> ${wordobj.meaning}</p>
-    //     <p><i>Usage:</i> ${wordobj.example}</p>
-    //     <p><i>Translation:</i> ${wordobj.example_translation}</p>
-    //   `;
-
-    //   chrome.storage.local.set({ [key]: wordobj });
-    // }
-     
-//     try {
-//     const res = await fetch(`data/${lang}.json`);
-//     const words = await res.json();
-
-//     const today = new Date();
-//     const startOfYear = new Date(today.getFullYear(), 0, 0); // Jan 0th of current year
-//     const diff = today - startOfYear;
-//     const oneDay = 1000 * 60 * 60 * 24;
-//     const dayOfYear = Math.floor(diff / oneDay); // This will give you the day number in the year (e.g., 197 for July 16)
-
-//     const key = `${today.toISOString().split("T")[0]}_${lang}`; // Keep unique key
-//     const index = dayOfYear % words.length; // Use dayOfYear for modulo
-
-//     const wordobj = words[index];
-
-//     contentDiv.innerHTML = `
-//         <h3>${wordobj.word} (${wordobj.pronunciation})</h3>
-//         <br>
-//         <p><b>Meaning:</b> ${wordobj.meaning}</p>
-//         <p><i>Usage:</i> ${wordobj.example}</p>
-//         <p><i>Translation:</i> ${wordobj.example_translation}</p>
-//     `;
-
-//     chrome.storage.local.set({ [key]: wordobj });
-// }
-//     catch (err) {
-//       contentDiv.innerHTML = `<p style="color:red;"><b>Error loading data for "${lang}".</b> Please try another language.</p>`;
-//     }
 
 try {
     const res = await fetch(`data/${lang}.json`);
@@ -234,3 +107,6 @@ document.addEventListener("click", (e) => {
 
 // Initial load
 loadWord();
+
+
+
